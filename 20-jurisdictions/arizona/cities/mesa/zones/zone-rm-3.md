@@ -1,0 +1,114 @@
+---
+title: "Mesa RM-3"
+type: zone
+tags: [juris/az/mesa, zoning/residential, asset/multifamily, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Mesa Residential Multiple Dwelling District RM-3 — mid-range multifamily zone accommodating garden apartments and low-rise multifamily development.
+jurisdiction: "City of Mesa"
+state: AZ
+zone_code: RM-3
+zone_name: "Residential Multiple Dwelling District"
+permitted_uses:
+  - Multifamily residential (garden apartments)
+  - Duplex / low-density multifamily
+  - Single-family residential
+  - Accessory dwelling units (ADUs)
+max_height_ft: 40
+max_density_dua: 20
+max_far: "TBD — verify against §11-5-5"
+min_lot_size_sf: 6000
+setbacks:
+  front: "20 ft (local/collector); 30 ft (6-lane arterial)"
+  side: "5 ft (single detached); 10 ft (2-unit); 20 ft (3+ units)"
+  rear: "15 ft (1-2 units); 20 ft (3+ units, single story)"
+parking_ratio: "TBD — verify against §11-32"
+source_url: "https://www.zoneomics.com/code/mesa-AZ/chapter_2"
+source_last_verified: ""
+related:
+  - "Mesa RM-2"
+  - "Mesa RM-4"
+  - "Mesa NC"
+  - "Mesa MX"
+  - "Multifamily"
+  - "Density Metrics"
+parent: "Mesa, Arizona"
+---
+
+# Mesa RM-3
+
+## Summary
+
+The RM-3 (Residential Multiple Dwelling) District is Mesa's intermediate multifamily residential zone, accommodating garden apartment complexes and low-rise multifamily buildings at a density tier above RM-2 and below RM-4. RM-3 is commonly found along collector and arterial streets, near commercial centers, and in transitional areas between single-family neighborhoods and more intense land uses.
+
+Standards sourced from Mesa Zoning Ordinance via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+## Permitted Uses
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Multifamily residential (garden apartments) | P | | |
+| Duplex / low-density multifamily | P | | |
+| Single-family residential | P | | |
+| Accessory dwelling unit (ADU) | P | | |
+| Home occupation | P | | |
+| Places of worship | | C | |
+| Assisted living / group homes | | C | |
+| Commercial retail | | | — |
+| Industrial | | | — |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | 20 | du/net acre | Mesa ZO Table 11-5-5 | |
+| Max FAR | TBD — verify against §11-5-5 | ratio | | |
+| Min lot area | 6,000 | sf | Mesa ZO Table 11-5-5 | |
+| Min lot width — single detached | 30 | ft | Mesa ZO Table 11-5-5 | |
+| Min lot width — single attached | 25 | ft | Mesa ZO Table 11-5-5 | |
+| Min lot width — multiple residence | 60 | ft | Mesa ZO Table 11-5-5 | |
+| Min lot depth | 94 | ft | Mesa ZO Table 11-5-5 | |
+| Min lot area per DU | 2,183 | sf | Mesa ZO Table 11-5-5 | |
+| Max lot coverage | 70 | % | Mesa ZO Table 11-5-5 | |
+| Max building coverage | 50 | % | Mesa ZO Table 11-5-5 | |
+| Max building height | 40 | ft | Mesa ZO Table 11-5-5 | |
+| Front setback | 20 ft (local); 25 ft (collector); 20 ft (4-lane arterial); 30 ft (6-lane/freeway) | ft | Mesa ZO Table 11-5-5 | Varies by street classification |
+| Interior side (single detached) | 5 | ft | Mesa ZO Table 11-5-5 | |
+| Interior side (2 units) | 10 | ft | Mesa ZO Table 11-5-5 | |
+| Interior side (3+ units, single story) | 20 | ft | Mesa ZO Table 11-5-5 | |
+| Interior side (3+ units, multi-story) | 15 per story | ft | Mesa ZO Table 11-5-5 | |
+| Rear setback (1-2 units) | 15 | ft | Mesa ZO Table 11-5-5 | |
+| Building separation (1-story) | 25 | ft | Mesa ZO Table 11-5-5 | |
+| Building separation (2-story) | 30 | ft | Mesa ZO Table 11-5-5 | |
+| Building separation (3-story) | 35 | ft | Mesa ZO Table 11-5-5 | |
+| Min open space | 175 | sf/unit | Mesa ZO Table 11-5-5 | |
+| Parking | TBD — verify against §11-32 | spaces/unit | | |
+| Landscaping | TBD — verify against §11-33 | % or other | | |
+| Signage | TBD — verify against Mesa sign code | per sign code | | |
+
+## Subdivision Standards
+
+Governed by citywide Mesa subdivision standards and RM development standards (§11-5-5).
+
+## Overlay Interactions
+
+PAD and transit overlays may apply. Airport compatibility overlay where applicable.
+
+## Process & Approvals Required
+
+- [[Site Plan Review]]
+- [[Zone Change (Rezoning)]]
+- [[Conditional Use Permit (CUP)]]
+
+## Adjacent / Compatible Zones
+
+- [[Mesa RM-2]] — lower density multifamily
+- [[Mesa RM-4]] — higher density multifamily
+- [[Mesa NC]] — neighborhood commercial
+- [[Mesa MX]] — mixed-use alternative
+
+## Sources
+
+- Dimensional standards: Mesa Zoning Ordinance Table 11-5-5, via https://www.zoneomics.com/code/mesa-AZ/chapter_2, retrieved 2026-05-25 — UNVERIFIED (Source: Mesa Zoning Ordinance §11-5-5, retrieved 2026-05-25 — UNVERIFIED)
+- Mesa Municode Title 11: https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR

@@ -1,0 +1,139 @@
+---
+title: "Maricopa County, Arizona"
+type: jurisdiction
+tags: ["juris/az", "juris/az/maricopa", "needs-verification", draft]
+created: "2026-05-24"
+updated: "2026-05-24"
+status: draft
+ai_summary: "Maricopa County is the most populous Arizona county and Phoenix MSA anchor; its Planning & Development Department regulates a large unincorporated area outside dozens of incorporated cities."
+level: county
+state: AZ
+parent_jurisdiction: "Arizona State Overview"
+population: "TBD"
+zoning_authority: "Maricopa County Planning & Development Department"
+code_url: "https://www.maricopa.gov/1326/Zoning-Ordinance"
+gis_url: "https://mcmaps.maricopa.gov/"
+source_url: "https://www.maricopa.gov/1326/Zoning-Ordinance"
+source_last_verified: ""
+related:
+  - "Subdivision Approval"
+  - "Zone Change (Rezoning)"
+  - "Conditional Use Permit (CUP)"
+  - "General Plan Amendment (GPA)"
+  - "Entitlement Play"
+  - "Land"
+children:
+  - "Phoenix, Arizona"
+  - "Scottsdale, Arizona"
+  - "Mesa, Arizona"
+  - "Tempe, Arizona"
+  - "Chandler, Arizona"
+  - "Gilbert, Arizona"
+  - "Glendale, Arizona"
+  - "Peoria, Arizona"
+  - "Surprise, Arizona"
+  - "Goodyear, Arizona"
+  - "Buckeye, Arizona"
+  - "Queen Creek, Arizona"
+  - "Avondale, Arizona"
+---
+
+# Maricopa County, Arizona
+
+## Overview
+
+Maricopa County is Arizona's most populous county and one of the most populous counties in the United States, anchoring the Phoenix metropolitan area. The county seat is Phoenix, though the City of Phoenix and dozens of other incorporated municipalities govern their own zoning and land-use regulations within their boundaries. The county's Planning & Development Department focuses on the significant unincorporated portions of the county — rural areas, desert fringe communities, and pockets of development that lie outside city limits.
+
+The county's unincorporated areas range from dense suburban fringe parcels subject to annexation pressure to remote desert parcels with agricultural or rural residential use. Maricopa County's General Plan guides long-range growth policy for unincorporated land, emphasizing infrastructure capacity, environmental sensitivity (including desert preservation), and coordination with regional planning through the Maricopa Association of Governments (MAG). Growth pressure from the Phoenix metro's rapid expansion means that much unincorporated land is either being annexed by adjacent cities or developed under county jurisdiction on a transitional basis.
+
+The county works closely with the Maricopa Association of Governments (MAG) on regional transportation, land-use forecasting, and coordinated planning across its many member jurisdictions. From a CRE standpoint, large-scale [[Land]] plays and [[Entitlement Play]] opportunities often involve navigating the county-to-city annexation path alongside the county's own rezoning and subdivision processes.
+
+## Governing Body
+
+The Maricopa County Board of Supervisors (five members, elected by district) is the ultimate land-use decision-making authority for unincorporated areas. The Board approves General Plan Amendments, major rezonings, and policy-level land-use decisions. The Maricopa County Planning & Zoning Commission serves as the hearing and recommendation body for most land-use applications before they reach the Board. Commission meetings and Board hearings occur on a regular scheduled basis; applicants should confirm current calendar through the Planning & Development Department.
+
+## Planning Department
+
+**Maricopa County Planning & Development Department** administers zoning, subdivision review, building permits, and code enforcement for unincorporated Maricopa County. The department is distinct from city planning departments — it has no authority within incorporated city limits. Key functions include processing rezoning petitions, special use permits, variance applications, subdivision plats, and building permits for unincorporated parcels.
+
+- Primary website: https://www.maricopa.gov/1326/Zoning-Ordinance
+- The department provides pre-application conferences and staff-level guidance prior to formal submittal.
+
+## Unincorporated Area Zoning
+
+Maricopa County regulates unincorporated land through the **Maricopa County Zoning Ordinance** (exact title and current edition — TBD — verify against the official county code). The ordinance establishes a range of zone districts covering agricultural, rural residential, single-family residential, multifamily residential, commercial, industrial, and special/overlay districts suited to the diverse character of unincorporated land.
+
+Zone district families typically include (TBD — verify exact district names and codes against the current ordinance):
+
+- **Agricultural/Rural** — large-lot agricultural and ranch-use districts covering desert fringe areas
+- **Residential** — graduated density from rural residential to urban residential
+- **Commercial** — neighborhood, general, and highway commercial districts
+- **Industrial/Employment** — light and heavy industrial
+- **Special Purpose** — floodplain, open space, planned unit development overlays
+
+[[Zone Change (Rezoning)]] applications are processed through the Planning & Zoning Commission with a recommendation to the Board of Supervisors. [[Conditional Use Permit (CUP)]] (or Special Use Permit, as the county may term it — TBD verify terminology) is required for uses that are conditionally permitted in a district. [[General Plan Amendment (GPA)]] is a prerequisite for certain rezoning requests that are inconsistent with the adopted General Plan land-use designation.
+
+The county's General Plan is updated periodically and covers unincorporated land only; incorporated cities maintain their own general plans.
+
+## Subdivision Regulations
+
+Maricopa County administers subdivision of unincorporated land under the **Maricopa County Subdivision Regulations** (exact title and edition — TBD — verify). The regulations implement Arizona Revised Statutes Title 11 requirements for county subdivision approval. Key process elements include:
+
+- **Preliminary Plat** review for layout, street design, lot configuration, and infrastructure adequacy
+- **Final Plat** recording after conditions of approval are satisfied and improvements are constructed or bonded
+- **Improvement plans** reviewed by county engineering for roads, drainage, and utilities
+- **[[Subdivision Approval]]** by the Board of Supervisors for major subdivisions; administrative approval for minor subdivisions (lot-split thresholds TBD — verify)
+
+Large [[Land]] assemblages in unincorporated areas frequently use the subdivision process as the first step toward a residential or mixed-use entitlement.
+
+## Building Code Adoption
+
+Maricopa County has adopted the International Building Code (IBC), International Residential Code (IRC), International Mechanical Code (IMC), International Plumbing Code (IPC), and related International Code Council (ICC) family codes for construction within unincorporated areas. The specific adopted edition years are TBD — verify against the current Maricopa County Ordinance. The National Electrical Code (NEC) is adopted separately. Energy code compliance follows the adopted edition of the International Energy Conservation Code (IECC) — edition TBD — verify.
+
+## Permit Process
+
+Development in unincorporated Maricopa County generally follows this sequence (high-level; verify current process and timelines with the Planning & Development Department):
+
+1. **Pre-Application Conference** — voluntary but strongly recommended; staff identifies applicable standards and process
+2. **Zoning Verification** — confirm current zoning and General Plan designation for the parcel
+3. **Entitlement (if required)** — [[Zone Change (Rezoning)]], [[Conditional Use Permit (CUP)]], or [[General Plan Amendment (GPA)]] processed through Planning & Zoning Commission and Board of Supervisors
+4. **Subdivision/Plat (if applicable)** — [[Subdivision Approval]] through the subdivision review track
+5. **Site Plan / Development Plan Review** — administrative or commission-level review depending on use type and scale
+6. **Building Permit Application** — submitted to Planning & Development after entitlement clearance
+7. **Inspections and Certificate of Occupancy** — coordinated with county building inspection staff
+
+Processing timelines vary by application type and complexity. The county periodically publishes current fee schedules and cycle-time data on its website.
+
+## Impact Fees
+
+Maricopa County assesses development impact fees on new construction in unincorporated areas to fund infrastructure necessitated by growth. Fee categories typically include transportation, parks, and possibly fire/emergency services — specific categories and amounts are TBD — verify against the current Maricopa County Development Fee Schedule (needs-verification). Impact fees are governed by Arizona Revised Statutes Title 9 and Title 11 development fee statutes, which require nexus studies, public notice, and periodic updates.
+
+In addition to county fees, developments may be subject to improvement district assessments or other special district fees depending on location.
+
+## Cities Within
+
+The following incorporated cities and towns are located wholly or substantially within Maricopa County. Each city controls its own zoning within its corporate limits; the county's jurisdiction ends at city boundaries.
+
+- [[Phoenix, Arizona]]
+- [[Scottsdale, Arizona]]
+- [[Mesa, Arizona]]
+- [[Tempe, Arizona]]
+- [[Chandler, Arizona]]
+- [[Gilbert, Arizona]]
+- [[Glendale, Arizona]]
+- [[Peoria, Arizona]]
+- [[Surprise, Arizona]]
+- [[Goodyear, Arizona]]
+- [[Buckeye, Arizona]]
+- [[Queen Creek, Arizona]]
+- [[Avondale, Arizona]]
+
+## Sources
+
+- Maricopa County Planning & Development Department: https://www.maricopa.gov/1326/Zoning-Ordinance
+- Maricopa County GIS / Zoning Maps: https://mcmaps.maricopa.gov/
+- Maricopa Association of Governments (MAG): https://www.azmag.gov/
+- Maricopa County Board of Supervisors: https://www.maricopa.gov/1100/Board-of-Supervisors
+- Arizona Revised Statutes Title 11 (Counties): https://www.azleg.gov/arstitle/
+
+*All source URLs are best-effort; verify currency with the county. `source_last_verified` left blank pending human confirmation.*

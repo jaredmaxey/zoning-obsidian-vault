@@ -1,0 +1,120 @@
+---
+title: "Phoenix A-2"
+type: zone
+tags: [juris/az/phoenix, zoning/industrial, asset/industrial, needs-verification]
+created: 2026-05-24
+updated: 2026-05-25
+status: draft
+ai_summary: Phoenix A-2 Heavy Industrial District — permits intensive manufacturing, processing, bulk storage, and heavy industrial operations with greater operational latitude than A-1.
+jurisdiction: "City of Phoenix"
+state: AZ
+zone_code: "A-2"
+zone_name: "Heavy Industrial District"
+permitted_uses:
+  - "Heavy manufacturing and processing (by right)"
+  - "Bulk storage and distribution (by right)"
+  - "Refining and chemical processing (by right or CUP)"
+  - "Waste handling and transfer (CUP)"
+  - "Trucking terminals and freight operations (by right)"
+  - "Construction materials production (by right or CUP)"
+  - "All A-1 uses (by right)"
+max_height_ft: 56
+max_density_dua: "n/a (not specified)"
+max_far: "TBD"
+min_lot_size_sf: "TBD"
+setbacks:
+  front: "TBD"
+  side: 30
+  rear: 30
+parking_ratio: "TBD"
+source_url: "https://phoenix.municipal.codes/ZO/628"
+source_last_verified: ""
+related:
+  - "Phoenix A-1"
+  - "Phoenix C-3"
+  - "Industrial"
+  - "Site Plan Review"
+  - "Conditional Use Permit (CUP)"
+  - "Variance"
+  - "Zone Change (Rezoning)"
+parent: "Phoenix, Arizona"
+---
+
+# Phoenix A-2
+
+## Summary
+
+The A-2 district is Phoenix's heavy industrial zone, designed to accommodate intensive industrial operations including heavy manufacturing, processing, bulk storage, refining, and freight operations that generate higher levels of noise, traffic, emissions, or other impacts than are compatible with light industrial or commercial zones. A-2 is applied in areas with established heavy industrial uses, along major freight rail corridors, and in portions of the city where heavy industrial activity can be buffered from sensitive land uses.
+
+The zone permits all uses allowed in A-1 (light industrial) plus a broader range of intensive operations. Siting of A-2 zones is typically away from residential and mixed-use areas, and development is expected to comply with applicable environmental, safety, and operational regulations at the state and federal level.
+
+## Permitted Uses
+
+| Use Category | By-Right (P) | CUP (C) | Prohibited (—) | Notes |
+|---|---|---|---|---|
+| All A-1 (light industrial) uses | P | | | A-2 is a superset of A-1 |
+| Heavy manufacturing / metal fabrication | P | | | |
+| Bulk liquid / solid storage | P | | | Subject to environmental standards |
+| Chemical manufacturing / processing | P or C | | | |
+| Concrete / asphalt / cement production | P or C | | | |
+| Freight rail yard / intermodal | P or C | | | |
+| Trucking terminal / freight depot | P | | | |
+| Waste transfer / recycling facility | | C | | |
+| Salvage / junkyard | | C | | |
+| Hazardous materials handling | | C | | Environmental review likely |
+| Rendering / slaughterhouse | | C | | |
+| Residential uses | | | — | Not permitted |
+| Schools / day cares / sensitive uses | | | — | Incompatible land uses |
+
+> Verify all use classifications against Phoenix Zoning Ordinance use table for A-2. `needs-verification`.
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | n/a (not specified) | du/acre | ZO §628 | Industrial zone; no residential density |
+| Max FAR | TBD — verify against §628 | ratio | ZO §628 | |
+| Min lot size | TBD — verify against §628 | sf | ZO §628 | |
+| Min lot width | TBD — verify against §628 | ft | ZO §628 | |
+| Max lot coverage | TBD — verify against §628 | % | ZO §628 | |
+| Max building height | 56 (base); up to 80 with use permit; up to 110 (warehouse) | ft | ZO §628 | Same envelope as A-1; verify if A-2 differs |
+| Front setback | TBD — verify against §628 | ft | ZO §628 | |
+| Side setback | 30 (adj. to residential — closed bldg) | ft | ZO §628 | 30 ft adj. residential (closed bldg); 150 ft (open bldg/use) |
+| Rear setback | 30 (adj. to residential — closed bldg) | ft | ZO §628 | |
+| Parking | TBD — verify against §702 | spaces/1,000 sf | ZO §702 | Varies by use |
+| Landscaping | TBD — verify against §703 | % or other | ZO §703 | |
+| Open space | TBD — verify against §628 | % or sf/unit | ZO §628 | |
+| Signage | TBD — verify against sign code | per sign code | ZO §1300s | |
+
+## Subdivision Standards
+
+Governed by citywide subdivision standards — see [[Phoenix, Arizona]] and the Phoenix Subdivision Ordinance.
+
+## Overlay Interactions
+
+- [[Phoenix Historic Preservation Overlay]]: unlikely in heavy industrial areas.
+- [[Phoenix Transit-Oriented Development Overlay]]: verify — most A-2 areas are away from light-rail corridors, but industrial-to-residential conversion near transit is a policy discussion topic.
+
+## Process & Approvals Required
+
+- **By-right industrial development**: building permit through [[Site Plan Review]].
+- **Conditional uses**: [[Conditional Use Permit (CUP)]].
+- **Dimensional relief**: [[Variance]].
+- **Rezoning**: [[Zone Change (Rezoning)]].
+
+## Adjacent / Compatible Zones
+
+- [[Phoenix A-1]] — light industrial (step down; common buffer between A-2 and non-industrial)
+- [[Phoenix C-3]] — general commercial (may be adjacent along major corridors)
+
+## Recent Amendments
+
+> Verify against current Phoenix Zoning Ordinance amendment history. `needs-verification`.
+
+## Sources
+
+Standards sourced from Phoenix Zoning Ordinance §628 via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+Phoenix Zoning Ordinance §628 (A-2 Industrial District): https://phoenix.municipal.codes/ZO/628
+
+(Source: Phoenix Zoning Ordinance §628, via phoenix.municipal.codes, retrieved 2026-05-25 — UNVERIFIED)

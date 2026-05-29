@@ -1,0 +1,106 @@
+---
+title: "Chandler MF-3"
+type: zone
+tags: [juris/az/chandler, zoning/residential, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Chandler MF-3 High-Density Residential District — the highest-density residential base zone permitting dense apartment towers and podium buildings near employment centers and transit corridors.
+jurisdiction: "City of Chandler"
+state: AZ
+zone_code: MF-3
+zone_name: "High-Density Residential District"
+permitted_uses: ["high-density multifamily", "apartments", "condominiums", "live-work units"]
+max_height_ft: "TBD — verify against Ch. 35 Art. X"
+max_density_dua: "TBD"
+max_far: "TBD"
+min_lot_size_sf: "TBD — verify against Ch. 35 Art. X"
+setbacks:
+  front: "10 ft (livable) / 20 ft (covered parking)"
+  side: "5 ft"
+  rear: "10 ft"
+parking_ratio: "TBD — verify against Ch. 35 Art. XVIII §35-1804"
+source_url: "https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTXHIDERE"
+source_last_verified: ""
+related: ["Chandler MF-2", "Chandler C-3", "Chandler P.C.O.", "Chandler CCD"]
+parent: "Chandler, Arizona"
+---
+
+# Chandler MF-3
+
+## Summary
+
+The MF-3 High-Density Residential District is the highest-density residential base zone in Chandler's zoning hierarchy. It is intended for dense apartment buildings, podium-style complexes, and high-rise residential uses near major employment centers, transit corridors, and the city's urban core. MF-3 supports the most intense residential building forms and maximum dwelling unit densities available under a base residential zone in Chandler.
+
+MF-3 development is typically triggered in areas adjacent to the Price Corridor technology campuses, near the downtown core, or along corridors where Chandler's General Plan calls for higher-intensity land use. Projects in MF-3 may require structured or above-grade parking solutions to meet parking ratios at high density. This district is an important tool for workforce housing supply adjacent to major employers like Intel and the semiconductor cluster.
+
+Standards sourced from Chandler City Code Ch.35 via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live code before relying.
+
+## Permitted Uses
+
+General categories — verify against the Chapter 35 MF-3 use table before relying on this list.
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| High-density multifamily (apartments) | P | | |
+| Condominiums / co-ops | P | | |
+| Townhomes | P | | |
+| Live-work units | TBD — verify | | |
+| Ground-floor retail / service (supportive) | TBD — verify | | |
+| Community care home | TBD — verify | C | |
+| Day care center | | C | |
+| Hotel / extended stay | TBD — verify | C | |
+| Stand-alone commercial | | | — |
+| Industrial uses | | | — |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD | du/acre | Ch. 35, Art. X | verify — likely highest base residential density |
+| Max FAR | TBD | ratio | Ch. 35, Art. X | |
+| Min lot size | TBD | sf | Ch. 35, Art. X | |
+| Min lot width | TBD | ft | Ch. 35, Art. X | |
+| Max lot coverage | 55 | % | Ch. 35, Art. X | confirmed via web search (multifamily district standard) |
+| Max building height | TBD — verify against Art. X | ft | Ch. 35, Art. X | |
+| Front setback | 10 ft to livable; 20 ft to covered parking | ft | Ch. 35, Art. X | confirmed via web search |
+| Side setback | 5 | ft | Ch. 35, Art. X | confirmed via web search |
+| Rear setback | 10 | ft | Ch. 35, Art. X | confirmed via web search |
+| Parking | TBD — verify against Art. XVIII §35-1804 | spaces/unit | Ch. 35, Art. XVIII §35-1804 | structured parking likely needed; see [[Chandler Parking Standards]] |
+| Landscaping | TBD | % or other | Ch. 35, Art. X | see [[Chandler Landscape Standards]] |
+| Open space | TBD | % or sf/unit | Ch. 35, Art. X | |
+| Signage | TBD | per sign code | Ch. 35, Art. X | see [[Chandler Signage Standards]] |
+
+## Subdivision Standards
+
+Condominium and high-density plat requirements apply. Verify MF-3 specific requirements in the Chandler UDM subdivision provisions.
+
+## Overlay Interactions
+
+Airport Impact Overlay (A.I.O.) may restrict residential uses or impose noise attenuation requirements near Chandler Municipal Airport. Verify noise contour applicability before underwriting high-density residential in A.I.O.-affected areas.
+
+## Process & Approvals Required
+
+- Rezoning (to MF-3 is a significant entitlement step): [[Zone Change (Rezoning)]] — see [[Chandler Rezoning]]
+- Conditional uses: [[Conditional Use Permit (CUP)]] — see [[Chandler Use Permit]]
+- Site development: [[Site Plan Review]] — see [[Chandler Preliminary Development Plan Review]]
+- Variances: [[Variance]] — see [[Chandler Variance]]
+- Planned development alternative: [[Planned Unit Development (PUD)]] — see [[Chandler PAD]]
+
+## Adjacent / Compatible Zones
+
+- [[Chandler MF-2]] — lower-density multifamily; transition to residential areas
+- [[Chandler C-3]] — regional commercial; typical at major intersections near MF-3
+- [[Chandler P.C.O.]] — planned commercial office; mixed employment corridor companion
+- [[Chandler CCD]] — City Center District; highest-intensity downtown zone
+
+## Recent Amendments
+
+Chandler's General Plan and UDM have been updated to accommodate technology corridor growth. Verify any recent amendments to MF-3 height limits, density allowances, or parking standards in the current Chapter 35.
+
+## Sources
+
+- Chandler City Code Ch. 35 Art. X (MF-3): https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTXHIDERE (Source: Chandler City Code Ch.35 Art. X, retrieved 2026-05-25 — UNVERIFIED)
+- Chandler Planning & Zoning: https://www.chandleraz.gov/government/departments/development-services/planning-and-zoning
+
+Front setback (10/20 ft), side setback (5 ft), rear setback (10 ft), and lot coverage (55%) confirmed from web search. Height, min lot size, FAR, density, parking remain TBD — verify against Ch. 35, Article X of the Chandler Municipal Code. (Source: Chandler City Code Ch.35 Art. X, retrieved 2026-05-25 — UNVERIFIED)

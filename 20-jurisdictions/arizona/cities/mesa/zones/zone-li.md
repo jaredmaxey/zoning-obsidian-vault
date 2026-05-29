@@ -1,0 +1,118 @@
+---
+title: "Mesa LI"
+type: zone
+tags: [juris/az/mesa, zoning/industrial, asset/industrial, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Mesa Light Industrial district — lower-intensity manufacturing, warehousing, and employment uses with performance standards limiting impacts on adjacent properties.
+jurisdiction: "City of Mesa"
+state: AZ
+zone_code: LI
+zone_name: "Light Industrial"
+permitted_uses:
+  - Light manufacturing and assembly
+  - Warehousing and distribution
+  - Research and development
+  - Flex / business park
+  - Limited office
+max_height_ft: "TBD"
+max_density_dua: "TBD"
+max_far: "TBD"
+min_lot_size_sf: "TBD"
+setbacks:
+  front: "TBD"
+  side: "TBD"
+  rear: "TBD"
+parking_ratio: "TBD"
+source_url: "https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR"
+source_last_verified: ""
+related:
+  - "Mesa GI"
+  - "Mesa HI"
+  - "Mesa PEP"
+  - "Mesa GC"
+  - "Industrial"
+  - "Highest and Best Use Analysis"
+  - "Parking Ratios by Use"
+parent: "Mesa, Arizona"
+---
+
+# Mesa LI
+
+## Summary
+
+The Light Industrial (LI) District accommodates lower-intensity industrial and employment uses including light manufacturing, assembly, warehousing, distribution, research and development, and flex/business park development. LI operations generally occur indoors and must comply with performance standards limiting noise, odor, and other impacts on surrounding properties. Outdoor storage must be screened so as not to be visible from areas accessible to the public (per Mesa ZO Ch. 7 standards confirmed in search results).
+
+LI is Mesa's most commonly applied industrial zone and is found throughout the city's employment corridors, particularly near Falcon Field, Phoenix-Mesa Gateway Airport, the US-60 corridor, and major industrial parks. The PAD overlay is frequently applied to LI parcels (as "LI-PAD"), and it is an active zone confirmed in multiple planning documents including ZON25-00673 (September 2025).
+
+Standards sourced from Mesa Zoning Ordinance via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+## Permitted Uses
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Light manufacturing and assembly | P | | |
+| Warehousing and distribution | P | | |
+| Research and development | P | | |
+| Flex / business park | P | | |
+| Office (accessory to industrial) | P | | |
+| Limited retail (accessory) | | C | |
+| Outdoor storage (screened) | | C | |
+| Residential | | | — |
+| Heavy manufacturing / outdoor processing | | | — |
+
+(Verify full use table against Mesa ZO §11-7-2. Note: barbed/razor wire and hazardous fencing prohibited in street-facing yards in all employment districts per Ch. 7 standards.)
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD | du/acre | | Not applicable for industrial |
+| Max FAR | TBD | ratio | | Verify §11-7 |
+| Min lot size | TBD — verify against §11-7-3 | sf | | |
+| Min lot width | TBD — verify against §11-7-3 | ft | | |
+| Max lot coverage | TBD — verify against §11-7-3 | % | | |
+| Max building height | TBD — verify against §11-7-3 | ft | | |
+| Front setback | TBD — verify against §11-7-3 | ft | | |
+| Side setback | TBD — verify against §11-7-3 | ft | | |
+| Rear setback | TBD — verify against §11-7-3 | ft | | |
+| Parking | TBD — verify against §11-32 | /1,000 sf | | See [[Parking Ratios by Use]] |
+| Landscaping | TBD — verify against §11-33 | % or other | | |
+| Open space | TBD — verify against §11-7-3 | % or sf | | |
+| Signage | TBD — verify against Mesa sign code | per sign code | | |
+
+## Subdivision Standards
+
+Governed by citywide Mesa subdivision standards. Industrial subdivisions may include access roads and utility easements specific to employment uses.
+
+## Overlay Interactions
+
+PAD overlay (LI-PAD) very commonly applied — almost the standard in new industrial development. Airport compatibility overlay is critical near Falcon Field and Phoenix-Mesa Gateway Airport (§11-19). FAA Form 7460 may be required for structures near Phoenix-Mesa Gateway Airport.
+
+## Process & Approvals Required
+
+- [[Site Plan Review]]
+- [[Zone Change (Rezoning)]]
+- [[Conditional Use Permit (CUP)]]
+- [[Planned Unit Development (PUD)]]
+
+## Adjacent / Compatible Zones
+
+- [[Mesa GI]] — general industrial, higher intensity
+- [[Mesa PEP]] — planned employment park, comparable intensity
+- [[Mesa GC]] — general commercial, common adjacent
+- [[Mesa AG]] — agricultural, transitional at fringe
+
+## Recent Amendments
+
+Planning Report ZON25-00673 (September 24, 2025) confirms LI-PAD as an active district in current planning cases. Industrial Placetype under the 2050 Mesa General Plan is intended for manufacturing, warehousing, storage, data storage, and freight/distribution — confirm LI base zone alignment with this placetype.
+
+## Sources
+
+- Standards: TBD — verify against Mesa Zoning Ordinance §11-6-3 (commercial) / §11-7-3 (employment) / §11-8 (downtown) / §11-10 (PS/PC/ID), via https://library.municode.com/az/mesa/codes/code_of_ordinances (Source: Mesa Zoning Ordinance, retrieved 2026-05-25 — UNVERIFIED)
+- Planning Report ZON25-00673 (September 24, 2025): confirmed LI and LI-PAD as active — https://mesa.legistar.com/View.ashx?GUID=90996D08-C2BE-40BC-B57A-9546526B4AD9&ID=14788307&M=F
+- Ordinance ZON17-00606 confirming LI as active base zone (April 20, 2020)
+- Mesa Municode Title 11 Ch. 7 (Employment Districts): https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR
+
+

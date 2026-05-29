@@ -1,0 +1,108 @@
+---
+title: "Chandler C-1"
+type: zone
+tags: [juris/az/chandler, zoning/commercial, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Chandler C-1 Neighborhood Commercial District — small-scale retail, services, and office uses serving adjacent residential neighborhoods; typically sited at arterial intersections.
+jurisdiction: "City of Chandler"
+state: AZ
+zone_code: C-1
+zone_name: "Neighborhood Commercial District"
+permitted_uses: ["retail", "personal services", "restaurant", "office", "convenience commercial"]
+max_height_ft: "30 ft base; 45 ft max (45° slope rule)"
+max_density_dua: "TBD"
+max_far: "TBD"
+min_lot_size_sf: "TBD — verify against Ch. 35 Art. XII"
+setbacks:
+  front: "50 ft (arterial) / 30 ft (other streets)"
+  side: "TBD — verify against Ch. 35 Art. XII"
+  rear: "TBD — verify against Ch. 35 Art. XII"
+parking_ratio: "TBD — verify against Ch. 35 Art. XVIII §35-1804"
+source_url: "https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTXIINECODI"
+source_last_verified: ""
+related: ["Chandler C-2", "Chandler SF-8.5", "Chandler MF-1", "Chandler SF-10"]
+parent: "Chandler, Arizona"
+---
+
+# Chandler C-1
+
+## Summary
+
+The C-1 Neighborhood Commercial District is Chandler's smallest-scale commercial zone, designed to accommodate retail shops, personal services, restaurants, and small offices that serve the daily needs of adjacent residential neighborhoods. C-1 parcels are commonly located at arterial street intersections and neighborhood commercial nodes, providing walkable access to goods and services without generating the traffic volumes or land intensities of larger commercial districts.
+
+Typical C-1 development includes strip commercial centers, neighborhood grocery-anchored retail, medical/dental offices, hair salons, dry cleaners, coffee shops, and similar convenience-oriented uses. Building scale is limited — generally one to two stories — with surface parking, landscaped buffers adjacent to residential uses, and modest signage. C-1 is the most compatible commercial zone with single-family neighborhoods in Chandler's zoning framework.
+
+Standards sourced from Chandler City Code Ch.35 via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live code before relying.
+
+## Permitted Uses
+
+General categories — verify against the Chapter 35 C-1 use table before relying on this list.
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Retail sales (neighborhood-scale) | P | | |
+| Personal services (salon, dry cleaner) | P | | |
+| Restaurant / coffee shop (no drive-through) | P | | |
+| Medical / dental office | P | | |
+| General business office | P | | |
+| Restaurant with drive-through | TBD — verify | C | |
+| Financial institution (bank) | P | | |
+| Day care center | TBD — verify | C | |
+| Automotive service (minor) | | C | |
+| Drive-through facilities | TBD — verify | C | |
+| Regional retail / big-box | | | — |
+| Industrial / warehouse | | | — |
+| Residential (except live-work) | TBD — verify | | |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD | du/acre | Ch. 35, Art. XII | residential density N/A unless mixed |
+| Max FAR | TBD | ratio | Ch. 35, Art. XII | |
+| Min lot size | TBD | sf | Ch. 35, Art. XII | |
+| Min lot width | TBD | ft | Ch. 35, Art. XII | |
+| Max lot coverage | 55 | % | Ch. 35, Art. XII | confirmed via web search |
+| Max building height | 30 ft base; 45 ft max (45° slope rule) | ft | Ch. 35, Art. XII | confirmed via web search |
+| Front setback | 50 ft (arterial streets); 30 ft (other streets) | ft | Ch. 35, Art. XII | confirmed via web search |
+| Side setback | TBD — verify against Art. XII | ft | Ch. 35, Art. XII | buffering req'd adjacent to residential |
+| Rear setback | TBD — verify against Art. XII | ft | Ch. 35, Art. XII | buffering req'd adjacent to residential |
+| Parking | TBD — verify against Art. XVIII §35-1804 | spaces/1,000 sf | Ch. 35, Art. XVIII §35-1804 | see [[Chandler Parking Standards]]; [[Parking Ratios by Use]] |
+| Landscaping | TBD | % or other | Ch. 35, Art. XII | see [[Chandler Landscape Standards]] |
+| Open space | TBD | % or sf/unit | Ch. 35, Art. XII | |
+| Signage | TBD | per sign code | Ch. 35, Art. XII | see [[Chandler Signage Standards]] |
+
+## Subdivision Standards
+
+Commercial subdivision governed by citywide UDM standards. Verify parking lot design, access management, and driveway standards applicable to C-1.
+
+## Overlay Interactions
+
+Adaptive Reuse Overlay District (A.R.O.D.) may apply to certain C-1 properties eligible for adaptive reuse conversions. Airport Impact Overlay (A.I.O.) may restrict certain uses near Chandler Municipal Airport.
+
+## Process & Approvals Required
+
+- Rezoning: [[Zone Change (Rezoning)]] — see [[Chandler Rezoning]]
+- Conditional uses: [[Conditional Use Permit (CUP)]] — see [[Chandler Use Permit]]
+- Site development: [[Site Plan Review]] — see [[Chandler Preliminary Development Plan Review]]
+- Variances: [[Variance]] — see [[Chandler Variance]]
+
+## Adjacent / Compatible Zones
+
+- [[Chandler SF-8.5]] — higher-density single-family; common residential neighbor
+- [[Chandler SF-10]] — standard single-family; common residential neighbor
+- [[Chandler MF-1]] — medium-density residential; common arterial companion
+- [[Chandler C-2]] — community commercial; step up in intensity
+
+## Recent Amendments
+
+Verify any design standard or use table amendments in the 2025 Chandler Chapter 35 design standards update.
+
+## Sources
+
+- Chandler City Code Ch. 35 Art. XII (C-1): https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTXIINECODI (Source: Chandler City Code Ch.35 Art. XII, retrieved 2026-05-25 — UNVERIFIED)
+- Chandler Planning & Zoning: https://www.chandleraz.gov/government/departments/development-services/planning-and-zoning
+
+Height (30 ft base / 45 ft max, 45° slope rule), front setback (50 ft arterial / 30 ft other), and lot coverage (55%) confirmed from web search. Side setback, rear setback, min lot size, FAR, density, parking remain TBD — verify against Ch. 35, Article XII of the Chandler Municipal Code. (Source: Chandler City Code Ch.35 Art. XII, retrieved 2026-05-25 — UNVERIFIED)

@@ -1,0 +1,107 @@
+---
+title: "Chandler SF-8.5"
+type: zone
+tags: [juris/az/chandler, zoning/residential, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Chandler SF-8.5 Single-Family District — the smallest-lot single-family base zone with implied minimum ~8,500 sf; used for denser tract housing and infill single-family development.
+jurisdiction: "City of Chandler"
+state: AZ
+zone_code: SF-8.5
+zone_name: "Single-Family District"
+permitted_uses: ["single-family residential", "accessory structures", "home occupation"]
+max_height_ft: "TBD — verify against Ch. 35 Art. VII §35-703"
+max_density_dua: "TBD"
+max_far: "TBD"
+min_lot_size_sf: 8500
+setbacks:
+  front: "10 ft (livable) / 20 ft (covered parking)"
+  side: "5 ft min; 15 ft total both sides"
+  rear: "10 ft"
+parking_ratio: "2 spaces (1 covered) per unit 2BR+; 1 covered per studio/1BR"
+source_url: "https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTVIINGMIDI"
+source_last_verified: ""
+related: ["Chandler SF-10", "Chandler MF-1", "Chandler C-1"]
+parent: "Chandler, Arizona"
+---
+
+# Chandler SF-8.5
+
+## Summary
+
+The SF-8.5 Single-Family District is the highest-density tier within Chandler's single-family residential spectrum. The "8.5" designation implies a minimum lot size in the range of 8,500 square feet (approximately 0.20 acres), though exact standards must be verified against Chapter 35, Article VII of the Chandler Municipal Code. This district supports denser tract housing and infill single-family development, producing neighborhoods with smaller yards and a more compact suburban character than SF-10 or SF-18.
+
+SF-8.5 is commonly applied in infill areas, near transit corridors, and in planned communities where density optimization is appropriate while maintaining the single-family detached form. It sits at the threshold between detached single-family and the medium-density MF-1 multifamily district.
+
+Standards sourced from Chandler City Code Ch.35 via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live code before relying.
+
+## Permitted Uses
+
+General categories — verify against the Chapter 35 SF-8.5 use table before relying on this list.
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Single-family detached dwelling | P | | |
+| Accessory structures (garage, shed, pool) | P | | |
+| Home occupation (limited) | P | | |
+| Accessory dwelling unit (ADU) | TBD — verify post-HB2721 | | |
+| Community care home (small) | TBD — verify | | |
+| Religious institution | | C | |
+| School / day care | | C | |
+| Multifamily residential | | | — |
+| Commercial uses | | | — |
+| Industrial uses | | | — |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD | du/acre | Ch. 35, Art. VII §35-703 | |
+| Max FAR | TBD | ratio | Ch. 35, Art. VII §35-703 | |
+| Min lot size | 8,500 | sf | Ch. 35, Art. VII §35-703 | confirmed via web search of §35-703 |
+| Min lot width | 70 | ft | Ch. 35, Art. VII §35-703 | confirmed via web search of §35-703 |
+| Max lot coverage | 40 | % | Ch. 35, Art. VII §35-703 | confirmed: "gross building area shall not exceed 40 percent" |
+| Max building height | TBD — verify against §35-703 | ft | Ch. 35, Art. VII §35-703 | height not confirmed from search snippets; MHOD overlay sets 35 ft — base may differ |
+| Front setback | 10 ft to livable; 20 ft to covered parking | ft | Ch. 35, Art. VII §35-703 | confirmed via search |
+| Side setback | 5 ft min each side; 15 ft total (interior lot) | ft | Ch. 35, Art. VII §35-703 | confirmed via search of §35-703 |
+| Rear setback | 10 | ft | Ch. 35, Art. VII §35-703 | confirmed via search of §35-703 |
+| Parking | 2 spaces (1 covered) per 2BR+ unit; 1 covered per studio/1BR | spaces/unit | Ch. 35, Art. XVIII §35-1804 | confirmed via search |
+| Landscaping | TBD | % or other | Ch. 35, Art. VII | |
+| Open space | TBD | % or sf/unit | Ch. 35, Art. VII | |
+| Signage | TBD | per sign code | Ch. 35, Art. VII | |
+
+## Subdivision Standards
+
+Governed by citywide subdivision standards in the Chandler UDM. Verify SF-8.5 specific plat and lot design requirements in Ch. 35 Art. VII.
+
+## Overlay Interactions
+
+Middle Housing Overlay District (MHOD) is most likely to apply to SF-8.5 given its proximity to the CBD boundary and its role as a transitional single-family district. Verify geographic applicability per Ordinance 5141 (2025). Airport Impact Overlay (A.I.O.) may also apply near Chandler Municipal Airport.
+
+## Process & Approvals Required
+
+- Rezoning: [[Zone Change (Rezoning)]] — see [[Chandler Rezoning]]
+- Conditional uses: [[Conditional Use Permit (CUP)]] — see [[Chandler Use Permit]]
+- Site development: [[Site Plan Review]] — see [[Chandler Preliminary Development Plan Review]]
+- Variances: [[Variance]] — see [[Chandler Variance]]
+- Planned development alternative: [[Planned Unit Development (PUD)]] — see [[Chandler PAD]]
+
+## Adjacent / Compatible Zones
+
+- [[Chandler SF-10]] — slightly larger lot single-family
+- [[Chandler MF-1]] — medium-density multifamily; common arterial transition
+- [[Chandler C-1]] — neighborhood commercial; common at intersection nodes
+- [[Chandler CCD]] — City Center District; if located near downtown Chandler
+
+## Recent Amendments
+
+Middle Housing Overlay District added via Ordinance No. 5141 (2025) applies specifically to SF zones within one mile of CBD. SF-8.5 properties within this area may now permit duplexes, triplexes, fourplexes, and townhomes administratively. Verify against current code.
+
+## Sources
+
+- Chandler City Code Ch. 35 Art. VII §35-703 (SF-8.5 height and area regulations): https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTVIINGMIDI — confirmed via web search 2026-05-25 (Source: Chandler City Code Ch.35 Art. VII, retrieved 2026-05-25 — UNVERIFIED)
+- Chandler City Code Ch. 35 Art. XVIII §35-1804 (parking schedule): https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTXVIIIPALORE — confirmed via web search 2026-05-25 (Source: Chandler City Code Ch.35 Art. XVIII, retrieved 2026-05-25 — UNVERIFIED)
+- Chandler Planning & Zoning: https://www.chandleraz.gov/government/departments/development-services/planning-and-zoning
+
+Min lot size (8,500 sf), lot width (70 ft), lot coverage (40%), front setback (10/20 ft), side setback (5 ft min/15 ft total), rear setback (10 ft), and parking confirmed from web search of Ch. 35 Art. VII §35-703 and §35-1804. Height is TBD — verify against §35-703. FAR, density, landscaping, open space, signage TBD.

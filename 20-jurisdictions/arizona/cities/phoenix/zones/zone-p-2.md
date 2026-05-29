@@ -1,0 +1,102 @@
+---
+title: "Phoenix P-2"
+type: zone
+tags: [juris/az/phoenix, zoning/commercial, needs-verification]
+created: 2026-05-24
+updated: 2026-05-25
+status: draft
+ai_summary: Phoenix P-2 parking district permitting off-street parking structures (above or below grade) for private, public, customer, or commercial use; includes all P-1 uses.
+jurisdiction: "City of Phoenix"
+state: AZ
+zone_code: "P-2"
+zone_name: "P-2 Parking District — Parking Structures"
+permitted_uses:
+  - "Off-street parking structures, above and/or below grade (private, public, customer, or commercial)"
+  - "All uses permitted in the P-1 district (surface passenger-automobile parking)"
+  - "Required landscaping and screening"
+max_height_ft: 56
+max_density_dua: "n/a (not a residential/development district)"
+max_far: "TBD"
+min_lot_size_sf: "TBD"
+setbacks:
+  front: "TBD"
+  side: "TBD"
+  rear: "TBD"
+parking_ratio: "n/a (this district provides parking; ratios for principal uses are in §702)"
+source_url: "https://phoenix.municipal.codes/ZO/640"
+source_last_verified: ""
+related:
+  - "Phoenix P-1"
+  - "Phoenix Parking Standards"
+  - "Parking Ratios by Use"
+  - "Site Plan Review"
+  - "Zone Change (Rezoning)"
+  - "Variance"
+parent: "Phoenix, Arizona"
+---
+
+# Phoenix P-2
+
+## Summary
+
+The P-2 district is a **parking district** for parking **structures**, not a planned-community district. Per Phoenix Zoning Ordinance §640 (P-2 Parking), its purpose is to provide a district where off-street parking structures in a planned, harmonious site may be provided — above and/or below grade — for private, public, customer, or commercial use. P-2 permits all uses allowed in the [[Phoenix P-1]] district (surface passenger-automobile parking) plus structured parking.
+
+Like P-1, it is a parking/transition tool rather than a development or residential district; it is typically applied where structured parking is needed to serve nearby commercial or institutional uses.
+
+> Specific dimensional, design, and screening requirements must be verified against §640 and the off-street parking standards in §702/§703. `needs-verification`.
+
+## Permitted Uses
+
+| Use Category | By-Right (P) | CUP (C) | Prohibited (—) | Notes |
+|---|---|---|---|---|
+| Parking structures, above/below grade | P | | | Principal use; private, public, customer, or commercial |
+| Surface passenger-automobile parking (all P-1 uses) | P | | | P-2 includes everything permitted in P-1 |
+| Required landscaping / screening / walls | P | | | Per §702/§703 |
+| Dwellings, commercial operations, industrial | | | — | Not permitted; P-2 is a parking district |
+
+> Verify the exact permitted-use list against §640. `needs-verification`.
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | n/a (not specified) | du/acre | ZO §640 | Parking-structure district; no residential density |
+| Max FAR | TBD — verify against §640 | ratio | ZO §640 | |
+| Min lot size | TBD — verify against §640 | sf | ZO §640 | |
+| Min lot width | TBD — verify against §640 | ft | ZO §640 | |
+| Max lot coverage | TBD — verify against §640 | % | ZO §640 | |
+| Max building height | 56 | ft | ZO §640 | Max 56 ft per §640; 15 ft max within 10 ft of a single-family district |
+| Front setback | TBD — verify against §640 | ft | ZO §640 | |
+| Side setback | TBD — verify against §640 | ft | ZO §640 | 15 ft max structure height within 10 ft of single-family district |
+| Rear setback | TBD — verify against §640 | ft | ZO §640 | |
+| Parking | Principal use; design per §702 | — | ZO §702 | District exists to provide parking structures |
+| Landscaping | TBD — verify against §702/§703 | % or other | ZO §702 | |
+| Open space | n/a (not specified) | % or sf/unit | ZO §640 | |
+| Signage | TBD — verify against sign code | per sign code | ZO §1300s | |
+
+## Overlay Interactions
+
+Overlays may apply depending on location — see [[Phoenix Historic Preservation Overlay]], [[Phoenix Hillside Overlay]], [[Phoenix Transit-Oriented Development Overlay]], [[Phoenix Downtown Code]].
+
+## Process & Approvals Required
+
+- **Establishing P-2**: rezoning to P-2 requires [[Zone Change (Rezoning)]] (Planning Commission recommendation, City Council approval).
+- **Structure/site review**: [[Site Plan Review]] for the parking-structure design, height, landscaping, and screening.
+- **Dimensional relief**: [[Variance]] from §640/§702 standards where warranted.
+
+## Adjacent / Compatible Zones
+
+- [[Phoenix P-1]] — companion parking district limited to surface parking (no structures).
+- Typically sited adjacent to commercial districts (e.g., [[Phoenix C-1]], [[Phoenix C-2]], [[Phoenix C-3]]) to supply structured parking.
+
+## Recent Amendments
+
+> Verify against current §640 and amendment history. `needs-verification`.
+
+## Sources
+
+Standards sourced from Phoenix Zoning Ordinance §640 via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+Phoenix Zoning Ordinance §640 (P-2 Parking District): https://phoenix.municipal.codes/ZO/640
+
+(Source: Phoenix Zoning Ordinance §640, via phoenix.municipal.codes, retrieved 2026-05-25 — UNVERIFIED)

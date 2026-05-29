@@ -1,0 +1,105 @@
+---
+title: "Mesa ID-2"
+type: zone
+tags: [juris/az/mesa, zoning/residential, zoning/mixed-use, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Mesa Infill Development District 2 — higher-intensity infill zone supporting denser mixed residential and commercial redevelopment on underutilized urban sites.
+jurisdiction: "City of Mesa"
+state: AZ
+zone_code: ID-2
+zone_name: "Infill Development District"
+permitted_uses:
+  - Medium-density multifamily residential
+  - Small-lot residential (all types)
+  - Accessory dwelling units (ADUs)
+  - Neighborhood commercial and mixed-use
+max_height_ft: "TBD"
+max_density_dua: "TBD"
+max_far: "TBD"
+min_lot_size_sf: "TBD"
+setbacks:
+  front: "TBD"
+  side: "TBD"
+  rear: "TBD"
+parking_ratio: "TBD"
+source_url: "https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR"
+source_last_verified: ""
+related:
+  - "Mesa ID-1"
+  - "Mesa RSL-2.5"
+  - "Mesa RM-3"
+  - "Mesa MX"
+  - "Land"
+  - "Multifamily"
+parent: "Mesa, Arizona"
+---
+
+# Mesa ID-2
+
+## Summary
+
+The Infill Development District 2 (ID-2) is the higher-intensity tier of Mesa's Infill Development districts, permitting denser multifamily residential, small-lot housing, and neighborhood commercial or mixed-use redevelopment on underutilized urban sites. ID-2 is suited to infill parcels along corridors or near activity centers where increased density is appropriate and transit access can support reduced parking needs. It reflects Mesa's infill and adaptive-reuse strategies under the 2050 General Plan.
+
+Standards sourced from Mesa Zoning Ordinance via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+## Permitted Uses
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Medium-density multifamily residential | P | | |
+| Small-lot single-family / attached residential | P | | |
+| Accessory dwelling unit (ADU) | P | | |
+| Home occupation | P | | |
+| Neighborhood commercial / mixed-use | | C | |
+| Large-format retail | | | — |
+| Industrial | | | — |
+
+(Verify full use table against Mesa ZO ID district chapter.)
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | du/acre | | |
+| Max FAR | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | ratio | | |
+| Min lot size | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | sf | | |
+| Min lot width | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | ft | | |
+| Max lot coverage | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | % | | |
+| Max building height | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | ft | | |
+| Front setback | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | ft | | |
+| Side setback | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | ft | | |
+| Rear setback | TBD — verify against §11-10 (PS/PC) / §11-12 (ID) | ft | | |
+| Parking | TBD | spaces/unit or /1,000 sf | | Verify §11-32-3 |
+| Landscaping | TBD — verify against §11-33 | % or other | | |
+| Open space | TBD — verify against relevant chapter | % or sf | | |
+| Signage | TBD — verify against Mesa sign code | per sign code | | |
+
+## Subdivision Standards
+
+Infill lot splits and re-platting governed by Mesa subdivision standards with flexibility for infill contexts.
+
+## Overlay Interactions
+
+Historic overlay (Ch. 74) may apply. Transit overlay near light-rail stations.
+
+## Process & Approvals Required
+
+- [[Site Plan Review]]
+- [[Zone Change (Rezoning)]]
+- [[Conditional Use Permit (CUP)]]
+
+## Adjacent / Compatible Zones
+
+- [[Mesa ID-1]] — lower-intensity infill
+- [[Mesa RSL-2.5]] — small-lot residential
+- [[Mesa RM-3]] — garden apartment scale
+- [[Mesa MX]] — mixed-use alternative on corridors
+
+## Sources
+
+- Standards: TBD — verify against Mesa Zoning Ordinance §11-6-3 (commercial) / §11-7-3 (employment) / §11-8 (downtown) / §11-10 (PS/PC/ID), via https://library.municode.com/az/mesa/codes/code_of_ordinances (Source: Mesa Zoning Ordinance, retrieved 2026-05-25 — UNVERIFIED)
+- Mesa Municode Title 11: https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR
+
+

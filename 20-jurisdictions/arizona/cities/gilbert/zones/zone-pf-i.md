@@ -1,0 +1,109 @@
+---
+title: "Gilbert PF/I"
+type: zone
+tags: [juris/az/gilbert, zoning/public, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Gilbert Public Facility/Institutional district — the zone for government buildings, schools, parks, utilities, hospitals, and other public/quasi-public uses; not a development zone for private commercial uses.
+jurisdiction: "Town of Gilbert"
+state: AZ
+zone_code: "PF/I"
+zone_name: "Public Facility/Institutional"
+permitted_uses: ["Government/civic buildings", "Schools and universities", "Parks and open space", "Hospitals and medical campuses", "Religious institutions", "Utility facilities", "Libraries and cultural facilities", "Public safety (fire, police)"]
+max_height_ft: "TBD — verify against LDC"
+max_density_dua: "TBD — verify against LDC"
+max_far: "TBD — verify against LDC"
+min_lot_size_sf: "TBD — verify against LDC"
+setbacks:
+  front: "TBD — verify against LDC"
+  side: "TBD — verify against LDC"
+  rear: "TBD — verify against LDC"
+parking_ratio: "TBD — verify against LDC"
+source_url: "https://www.gilbertaz.gov/departments/development-services/planning/land-development-code"
+source_last_verified: ""
+related:
+  - "Gilbert SF-7"
+  - "Gilbert SF-6"
+  - "Gilbert CC"
+  - "Gilbert MF/M"
+parent: "Gilbert, Arizona"
+---
+
+# Gilbert PF/I
+
+## Summary
+
+The Public Facility/Institutional (PF/I) district is Gilbert's designation for land used by government agencies, educational institutions, parks, hospitals, religious organizations, and other public or quasi-public entities. PF/I is extensively mapped throughout Gilbert — it is among the most ubiquitous zoning designations on the town map — reflecting the large amount of land dedicated to public schools, parks, town facilities, utility corridors, and institutional campus uses. PF/I is not a development zone for private commercial or residential use; it reserves land for community-serving public and quasi-public functions. Redevelopment or private acquisition of PF/I land would require rezoning. Verify exact use permissions and any quasi-public use conditional provisions against the LDC.
+
+Standards sourced from Gilbert LDC via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live LDC before relying.
+
+## Permitted Uses
+
+Verify against LDC use table (Gilbert Land Development Code, Chapter I, Public/Quasi-Public Districts article).
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Government/civic buildings and offices | P | | |
+| Public schools, K–12 | P | | |
+| Colleges and universities | P | | |
+| Public parks and open space | P | | |
+| Hospital / medical campus | P | | |
+| Religious institution / place of worship | P | | |
+| Library / cultural facility | P | | |
+| Public safety (fire station, police station) | P | | |
+| Utility facility (substation, water tower) | P | | |
+| Private school | P or C — verify | | |
+| Daycare / childcare (institutional) | P or C — verify | | |
+| Commercial retail | | | — |
+| Private residential | | | — |
+| Industrial | | | — |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD — verify against LDC | du/acre | | N/A (institutional) |
+| Max FAR | TBD — verify against LDC | ratio | LDC Ch. I, Art. 2 (PF/I) |
+| Min lot size | TBD — verify against LDC | sf | LDC Ch. I, Art. 2 (PF/I) |
+| Min lot width | TBD — verify against LDC | ft | LDC Ch. I, Art. 2 (PF/I) |
+| Max lot coverage | TBD — verify against LDC | % | LDC Ch. I, Art. 2 (PF/I) |
+| Max building height | TBD — verify against LDC | ft | LDC Ch. I, Art. 2 (PF/I) |
+| Front setback | TBD — verify against LDC | ft | LDC Ch. I, Art. 2 (PF/I) |
+| Side setback | TBD — verify against LDC | ft | LDC Ch. I, Art. 2 (PF/I) |
+| Rear setback | TBD — verify against LDC | ft | LDC Ch. I, Art. 2 (PF/I) |
+| Parking | TBD — verify against LDC | spaces | | Varies by use (school, hospital, park); verify against LDC |
+| Landscaping | TBD — verify against LDC | % or other | LDC Ch. I, Art. 2 (PF/I) |
+| Open space | TBD — verify against LDC | % or sf/unit | LDC Ch. I, Art. 2 (PF/I) |
+| Signage | TBD — verify against LDC | per sign code | | Verify against Gilbert Sign Code |
+
+## Subdivision Standards
+
+PF/I parcels are often dedicated to public agencies or held in institutional ownership. Land dispositions require rezoning before private development. Verify platting requirements against [[Gilbert Subdivision Platting]].
+
+## Overlay Interactions
+
+PAD overlay may apply. Vertical Development Overlay and Santan Freeway Corridor Overlay may apply near the freeway. Verify for each site.
+
+## Process & Approvals Required
+
+- Site plan review: [[Site Plan Review]]
+- Any rezoning away from PF/I: [[Zone Change (Rezoning)]]
+- Variances: [[Variance]]
+- See also: [[Gilbert Design Review / Site Plan]], [[Gilbert Rezoning]], [[Gilbert Variance]]
+
+## Adjacent / Compatible Zones
+
+PF/I is found throughout the town, embedded in all zone categories:
+- [[Gilbert SF-7]], [[Gilbert SF-6]] — residential areas adjacent to schools and parks
+- [[Gilbert CC]] — institutional uses at commercial nodes
+- [[Gilbert MF/M]] — institutional uses near higher-density residential
+
+## Recent Amendments
+
+Verify against the 2021 LDC refresh (Ordinance No. 2809) and subsequent amendments.
+
+## Sources
+
+- Gilbert Land Development Code (LDC): https://www.gilbertaz.gov/departments/development-services/planning/land-development-code
+- (Source: LDC Art. 2 — Public Facility/Institutional District, retrieved 2026-05-25 — UNVERIFIED)

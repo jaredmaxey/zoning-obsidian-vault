@@ -1,0 +1,106 @@
+---
+title: "Chandler MF-1"
+type: zone
+tags: [juris/az/chandler, zoning/residential, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Chandler MF-1 Medium-Density Residential District — permits townhomes, duplexes, triplexes, and garden apartments at moderate densities; typical arterial and transitional residential zone.
+jurisdiction: "City of Chandler"
+state: AZ
+zone_code: MF-1
+zone_name: "Medium-Density Residential District"
+permitted_uses: ["multifamily residential", "townhomes", "duplexes", "single-family residential"]
+max_height_ft: "TBD — verify against Ch. 35 Art. VIII"
+max_density_dua: "TBD"
+max_far: "TBD"
+min_lot_size_sf: "TBD — verify against Ch. 35 Art. VIII"
+setbacks:
+  front: "10 ft (livable) / 20 ft (covered parking)"
+  side: "5 ft"
+  rear: "10 ft"
+parking_ratio: "TBD — verify against Ch. 35 Art. XVIII §35-1804"
+source_url: "https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTVIIIMUDERE"
+source_last_verified: ""
+related: ["Chandler SF-8.5", "Chandler MF-2", "Chandler C-1", "Chandler C-2"]
+parent: "Chandler, Arizona"
+---
+
+# Chandler MF-1
+
+## Summary
+
+The MF-1 Medium-Density Residential District is the entry-level multifamily zone in Chandler's residential hierarchy, permitting a range of attached housing types at moderate densities. The district typically accommodates townhomes, duplexes, triplexes, garden-style apartments, and small multifamily buildings. It is commonly applied as a buffer or transition zone between single-family neighborhoods and higher-intensity commercial or multifamily districts along arterial streets.
+
+MF-1 is a workhorse transitional zone in Chandler's built fabric. Projects developed in MF-1 typically produce 2–3 story garden-apartment or townhome communities with surface parking, landscaped open space, and moderate building coverage. The district is well suited for "missing middle" housing formats and is increasingly important given state mandates for middle housing near employment and transit corridors.
+
+Standards sourced from Chandler City Code Ch.35 via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live code before relying.
+
+## Permitted Uses
+
+General categories — verify against the Chapter 35 MF-1 use table before relying on this list.
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Multifamily residential (apartments, condos) | P | | |
+| Townhomes / row houses | P | | |
+| Duplexes / triplexes | P | | |
+| Single-family detached dwelling | P | | |
+| Accessory dwelling unit (ADU) | TBD — verify | | |
+| Community care home | TBD — verify | | |
+| Religious institution | | C | |
+| Day care center | | C | |
+| Retail / commercial | | | — |
+| Industrial uses | | | — |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD | du/acre | Ch. 35, Art. VIII | verify max DUA for MF-1 |
+| Max FAR | TBD | ratio | Ch. 35, Art. VIII | |
+| Min lot size | TBD | sf | Ch. 35, Art. VIII | |
+| Min lot width | TBD | ft | Ch. 35, Art. VIII | |
+| Max lot coverage | 55 | % | Ch. 35, Art. VIII | confirmed via web search |
+| Max building height | TBD — verify against Art. VIII | ft | Ch. 35, Art. VIII | |
+| Front setback | 10 ft to livable; 20 ft to covered parking | ft | Ch. 35, Art. VIII | confirmed via web search |
+| Side setback | 5 | ft | Ch. 35, Art. VIII | confirmed via web search |
+| Rear setback | 10 | ft | Ch. 35, Art. VIII | confirmed via web search |
+| Parking | TBD — verify against Art. XVIII §35-1804 | spaces/unit | Ch. 35, Art. XVIII §35-1804 | see [[Chandler Parking Standards]] |
+| Landscaping | TBD | % or other | Ch. 35, Art. VIII | see [[Chandler Landscape Standards]] |
+| Open space | TBD | % or sf/unit | Ch. 35, Art. VIII | |
+| Signage | TBD | per sign code | Ch. 35, Art. VIII | see [[Chandler Signage Standards]] |
+
+## Subdivision Standards
+
+Governed by citywide subdivision standards in the Chandler UDM. Condominium and townhome subdivision requires plat review — verify specific MF-1 requirements.
+
+## Overlay Interactions
+
+Middle Housing Overlay District (MHOD) may further expand permitted housing types in MF-1 near the CBD. Airport Impact Overlay (A.I.O.) may restrict residential uses near Chandler Municipal Airport.
+
+## Process & Approvals Required
+
+- Rezoning: [[Zone Change (Rezoning)]] — see [[Chandler Rezoning]]
+- Conditional uses: [[Conditional Use Permit (CUP)]] — see [[Chandler Use Permit]]
+- Site development: [[Site Plan Review]] — see [[Chandler Preliminary Development Plan Review]]
+- Variances: [[Variance]] — see [[Chandler Variance]]
+- Planned development alternative: [[Planned Unit Development (PUD)]] — see [[Chandler PAD]]
+
+## Adjacent / Compatible Zones
+
+- [[Chandler SF-8.5]] — highest-density single-family; common residential buffer
+- [[Chandler MF-2]] — higher-density multifamily
+- [[Chandler C-1]] — neighborhood commercial; common arterial companion
+- [[Chandler C-2]] — community commercial; higher-intensity commercial
+
+## Recent Amendments
+
+State mandates via HB2721 (2024) and the MHOD implementation (Ordinance 5141, 2025) have expanded middle housing rights in single-family zones adjacent to MF-1 areas. Verify current permitted use table for any updates to MF-1 itself.
+
+## Sources
+
+- Chandler City Code Ch. 35 Art. VIII (MF-1): https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO_ARTVIIIMUDERE (Source: Chandler City Code Ch.35 Art. VIII, retrieved 2026-05-25 — UNVERIFIED)
+- Chandler Planning & Zoning: https://www.chandleraz.gov/government/departments/development-services/planning-and-zoning
+
+Front setback (10/20 ft), side setback (5 ft), rear setback (10 ft), and lot coverage (55%) confirmed from web search. Height, min lot size, FAR, density, parking remain TBD — verify against Ch. 35, Article VIII of the Chandler Municipal Code. (Source: Chandler City Code Ch.35 Art. VIII, retrieved 2026-05-25 — UNVERIFIED)

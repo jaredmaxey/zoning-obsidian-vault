@@ -1,0 +1,59 @@
+---
+title: Parking Ratios by Use
+type: reference
+tags: [reference, standard/parking, needs-verification]
+created: 2026-05-24
+updated: 2026-05-25
+status: draft
+ai_summary: Cross-jurisdictional minimum parking ratio lookup; currently a verification worklist — all Arizona ratios are TBD pending confirmation against live ordinances.
+---
+
+# Parking Ratios by Use
+
+Consolidated, cross-jurisdictional lookup of minimum parking ratios. Column order is fixed for reliable AI parsing: `Use | Jurisdiction | Zone | Ratio | Source | Verified`.
+
+> **Status: verification worklist.** As of 2026-05-25, **no Arizona parking ratios have been verified** — every Phoenix zone note carries `parking_ratio: TBD` pending confirmation against the live ordinance (per Prompt 4's anti-fabrication rule). The rows below are seeded as a worklist; fill the `Ratio` column and set `Verified` to the confirmation date as each is checked against the source. Citywide parking ordinances for each priority city are tracked in their `standards/parking.md` notes (linked at bottom).
+
+## Phoenix base zones (ratios pending verification)
+
+| Use | Jurisdiction | Zone | Ratio | Source | Verified |
+|-----|--------------|------|-------|--------|----------|
+| Single-family residential | City of Phoenix | [[Phoenix R1-6]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Single-family residential | City of Phoenix | [[Phoenix R1-8]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Single-family residential | City of Phoenix | [[Phoenix R1-10]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Single-family residential | City of Phoenix | [[Phoenix R1-14]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Single-family residential | City of Phoenix | [[Phoenix R1-18]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Residential (low-density multi) | City of Phoenix | [[Phoenix R-2]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Multifamily residential | City of Phoenix | [[Phoenix R-3]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Multifamily residential | City of Phoenix | [[Phoenix R-3A]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Multifamily residential | City of Phoenix | [[Phoenix R-4]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Multifamily residential | City of Phoenix | [[Phoenix R-4A]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Multifamily residential (high) | City of Phoenix | [[Phoenix R-5]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Residential-office | City of Phoenix | [[Phoenix R-O]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Commercial (neighborhood) | City of Phoenix | [[Phoenix C-1]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Commercial (intermediate) | City of Phoenix | [[Phoenix C-2]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Commercial (general) | City of Phoenix | [[Phoenix C-3]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Industrial (light) | City of Phoenix | [[Phoenix A-1]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Industrial | City of Phoenix | [[Phoenix A-2]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Ranch/rural residential | City of Phoenix | [[Phoenix S-1]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Rural residential | City of Phoenix | [[Phoenix S-2]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Planned (PUD) | City of Phoenix | [[Phoenix P-1]] | TBD — verify | Phoenix Zoning Ordinance | |
+| Planned community | City of Phoenix | [[Phoenix P-2]] | TBD — verify | Phoenix Zoning Ordinance | |
+
+## How to Use
+
+Parking minimums in Arizona are set by each jurisdiction's zoning ordinance and frequently vary by **use within a zone** (e.g., office vs. retail vs. restaurant in the same commercial district), not by zone alone. When verifying, expand each zone row into per-use rows as needed, cite the exact ordinance section in `Source`, and date the `Verified` column. Reduced-parking provisions (transit-oriented, downtown, shared-parking) are common and live in the relevant overlay/standard notes.
+
+## Citywide parking standards (per city)
+
+- [[Phoenix Parking Standards]]
+- [[Tucson Parking Standards]]
+- [[Scottsdale Parking Standards]]
+- [[Mesa Parking Standards]]
+- [[Tempe Parking Standards]]
+- [[Chandler Parking Standards]]
+- [[Gilbert Parking Standards]]
+
+## Source / Methodology
+
+Rows are seeded from the Phoenix base-zone roster created in Prompt 4. No ratio is authoritative until a human confirms it against the live ordinance and sets the `Verified` date. See [[Density Metrics]] for related intensity measures.

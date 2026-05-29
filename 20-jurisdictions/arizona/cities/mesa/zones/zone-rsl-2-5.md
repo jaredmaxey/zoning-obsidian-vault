@@ -1,0 +1,109 @@
+---
+title: "Mesa RSL-2.5"
+type: zone
+tags: [juris/az/mesa, zoning/residential, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Mesa Residential Small Lot Single Dwelling District RSL-2.5 — smallest small-lot single-family zone (~2,500 sf lot), supporting dense attached/detached housing products.
+jurisdiction: "City of Mesa"
+state: AZ
+zone_code: RSL-2.5
+zone_name: "Residential Small Lot Single Dwelling District"
+permitted_uses:
+  - Small-lot single-family detached residential
+  - Attached single-family (townhome-style)
+  - Accessory dwelling units (ADUs)
+  - Home occupations
+max_height_ft: 30
+max_density_dua: "TBD — verify against §11-5-3"
+max_far: "TBD — verify against §11-5-3"
+min_lot_size_sf: 2000
+setbacks:
+  front: "12 ft (building wall); 20 ft (garage); 7 ft (porch)"
+  side: "3 ft each side (8 ft aggregate)"
+  rear: "15 ft (13 ft if garage via alley)"
+parking_ratio: "TBD — verify against §11-32"
+source_url: "https://www.zoneomics.com/code/mesa-AZ/chapter_2"
+source_last_verified: ""
+related:
+  - "Mesa RSL-3"
+  - "Mesa RSL-4"
+  - "Mesa RS-6"
+  - "Mesa RM-2"
+parent: "Mesa, Arizona"
+---
+
+# Mesa RSL-2.5
+
+## Summary
+
+The RSL-2.5 (Residential Small Lot Single Dwelling) District is Mesa's smallest small-lot residential zone, with a nominally ~2,500 sf minimum lot size (verify exact standard). RSL-2.5 enables high-density single-family product types including alley-loaded homes, zero-lot-line homes, and attached townhome-style units within a conventional single-family ownership framework. It is used in infill and new master-planned communities where walkable, compact neighborhood forms are desired.
+
+Ordinance ZON17-00606 (April 2020) applied RSL-2.5 alongside RSL-4, RS-6, and RM-5 in the Hawes Crossing PAD, confirming it as an active district for new master-planned development. Specific design requirements applied in that PAD included alley-loaded product, shared driveways, covered entries, and front porches.
+
+Standards sourced from Mesa Zoning Ordinance via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+## Permitted Uses
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Small-lot single-family detached residential | P | | |
+| Attached single-family / townhome | P | | |
+| Accessory dwelling unit (ADU) | P | | |
+| Home occupation | P | | |
+| Parks, trails, open space | P | | |
+| Places of worship | | C | |
+| Multifamily (apartment) | | | — |
+| Commercial retail | | | — |
+| Industrial | | | — |
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density | TBD — verify against §11-5-3 | du/acre | | Not in sourced table |
+| Max FAR | TBD — verify against §11-5-3 | ratio | | |
+| Min lot size (average) | 2,500 | sf | Mesa ZO Table 11-5-3.A.2 | Minimum individual lot: 2,000 sf |
+| Min lot width (interior) | 25 | ft | Mesa ZO Table 11-5-3.A.2 | Corner lot: 30 ft |
+| Min lot depth | 75 | ft | Mesa ZO Table 11-5-3.A.2 | |
+| Max lot coverage | 80 | % | Mesa ZO Table 11-5-3.A.2 | |
+| Max building height | 30 | ft (2 stories max) | Mesa ZO Table 11-5-3.A.2 | |
+| Front setback — building wall | 12 | ft | Mesa ZO Table 11-5-3.A.2 | |
+| Front setback — garage | 20 | ft | Mesa ZO Table 11-5-3.A.2 | |
+| Front setback — porch | 7 | ft | Mesa ZO Table 11-5-3.A.2 | |
+| Street side setback | 10 | ft | Mesa ZO Table 11-5-3.A.2 | |
+| Interior side setback (each side) | 3 | ft | Mesa ZO Table 11-5-3.A.2 | 8 ft aggregate both sides |
+| Rear setback | 15 ft (13 ft garage via alley) | ft | Mesa ZO Table 11-5-3.A.2 | |
+| Min useable open space | 400 | sf/unit | Mesa ZO Table 11-5-3.A.2 | |
+| Parking | TBD — verify against §11-32 | spaces/unit | | |
+| Landscaping | TBD — verify against §11-33 | % or other | | |
+| Signage | TBD — verify against Mesa sign code | per sign code | | |
+
+## Subdivision Standards
+
+Small-lot subdivisions typical; alley dedication common. PAD overlay almost always applied. In Hawes Crossing PAD: shared driveways allowed, mixing of lot widths required, covered entry and front porch standards applied.
+
+## Overlay Interactions
+
+PAD overlay commonly applied for design standards. Airport compatibility overlay where applicable.
+
+## Process & Approvals Required
+
+- [[Site Plan Review]]
+- [[Zone Change (Rezoning)]]
+- [[Conditional Use Permit (CUP)]]
+- [[Planned Unit Development (PUD)]]
+
+## Adjacent / Compatible Zones
+
+- [[Mesa RSL-3]] — slightly larger small lots
+- [[Mesa RSL-4]] — largest small-lot zone
+- [[Mesa RS-6]] — conventional single-family step-up
+- [[Mesa RM-2]] — low-density multifamily transition
+
+## Sources
+
+- Dimensional standards: Mesa Zoning Ordinance Table 11-5-3.A.2, via https://www.zoneomics.com/code/mesa-AZ/chapter_2, retrieved 2026-05-25 — UNVERIFIED (Source: Mesa Zoning Ordinance §11-5-3, retrieved 2026-05-25 — UNVERIFIED)
+- Ordinance ZON17-00606 confirming RSL-2.5 as active base zone (April 20, 2020)
+- Mesa Municode Title 11: https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR

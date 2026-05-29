@@ -1,0 +1,119 @@
+---
+title: "Mesa RS-6"
+type: zone
+tags: [juris/az/mesa, zoning/residential, needs-verification]
+created: 2026-05-25
+updated: 2026-05-25
+status: draft
+ai_summary: Mesa Residential Single Dwelling District RS-6 — conventional single-family zone with ~6,000 sf minimum lot, the most common suburban residential district in Mesa.
+jurisdiction: "City of Mesa"
+state: AZ
+zone_code: RS-6
+zone_name: "Residential Single Dwelling District"
+permitted_uses:
+  - Single-family detached residential
+  - Accessory dwelling units (ADUs)
+  - Home occupations
+  - Parks and open space
+max_height_ft: 30
+max_density_dua: 7.26
+max_far: "TBD — verify against §11-5-3"
+min_lot_size_sf: 6000
+setbacks:
+  front: "10 ft (enclosed livable); 20 ft (garage/carport)"
+  side: "5 ft each side (15 ft aggregate)"
+  rear: "20 ft (30 ft if abutting arterial)"
+parking_ratio: "TBD — verify against §11-32"
+source_url: "https://www.zoneomics.com/code/mesa-AZ/chapter_2"
+source_last_verified: ""
+related:
+  - "Mesa RS-7"
+  - "Mesa RS-9"
+  - "Mesa RSL-4"
+  - "Mesa RM-2"
+  - "Mesa NC"
+parent: "Mesa, Arizona"
+---
+
+# Mesa RS-6
+
+## Summary
+
+The RS-6 (Residential Single Dwelling) District is Mesa's primary conventional single-family residential zone, producing the standard suburban neighborhood character found throughout most of Mesa's built-out residential areas. The "6" in the code references the approximate minimum lot size (nominally around 6,000 sf — verify exact standard against the ordinance). RS-6 is one of the most frequently applied zoning districts in Mesa and represents the baseline for typical tract-home development approved through the PAD overlay process.
+
+Ordinance ZON17-00606 (April 2020) used RS-6 as a base zone for the Hawes Crossing PAD, confirming it remains an active and commonly applied district. Under Mesa Ordinance 5883 (Oct 2024), ADUs are permitted in RS zones, with one attached and one detached ADU allowed per lot where a single-family residence exists.
+
+Standards sourced from Mesa Zoning Ordinance via web search 2026-05-25; AI-sourced, not human-verified — confirm against the live ordinance before relying.
+
+## Permitted Uses
+
+| Use | By-Right | CUP | Prohibited |
+|-----|----------|-----|------------|
+| Single-family detached residential | P | | |
+| Accessory dwelling unit (ADU) | P | | |
+| Home occupation | P | | |
+| Parks, trails, open space | P | | |
+| Public safety facilities (on City-owned property) | P | | |
+| Places of worship | | C | |
+| Schools | | C | |
+| Multifamily residential | | | — |
+| Commercial retail | | | — |
+| Industrial | | | — |
+
+(Verify full use table against Mesa ZO §11-5-2 Land Use Regulations.)
+
+## Development Standards
+
+| Standard | Requirement | Units | Code Citation | Notes |
+|----------|-------------|-------|---------------|-------|
+| Max density (PAD overlay) | 7.26 | du/net acre | Mesa ZO Table 11-5-3.A.1 | Conventional: based on lot-size compliance |
+| Max FAR | TBD — verify against §11-5-3 | ratio | | Not specified in sourced table |
+| Min lot size | 6,000 | sf | Mesa ZO Table 11-5-3.A.1 | |
+| Min lot width (interior) | 55 | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Min lot depth | 90 ft (100 if abutting arterial) | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Max lot coverage | 60 | % | Mesa ZO Table 11-5-3.A.1 | |
+| Max building coverage | 50 | % | Mesa ZO Table 11-5-3.A.1 | |
+| Max building height | 30 | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Front setback — enclosed livable | 10 | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Front setback — garage/carport | 20 | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Interior side setback (each side) | 5 | ft | Mesa ZO Table 11-5-3.A.1 | 15 ft aggregate both sides |
+| Street side setback | 10 | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Rear setback | 20 ft (30 ft if abutting arterial) | ft | Mesa ZO Table 11-5-3.A.1 | |
+| Parking | TBD — verify against §11-32 | spaces/unit | | |
+| Landscaping | TBD — verify against §11-33 | % or other | | |
+| Open space | TBD — verify against §11-5-3 | % or sf/unit | | 15% of gross acreage for PAD overlay projects |
+| Signage | TBD — verify against Mesa sign code | per sign code | | |
+
+## Subdivision Standards
+
+Subdivision platting of RS-6 land follows Mesa's subdivision regulations. PAD overlay commonly applied to establish project-specific design standards (façade articulation, staggered setbacks, open space minimums). See [[Mesa RS-6]] PAD conditions from Hawes Crossing (Ordinance ZON17-00606) as an example of typical PAD modifications.
+
+## Overlay Interactions
+
+PAD (Planned Area Development) overlay is the primary overlay applied over RS-6 for master-planned communities. Airport compatibility overlay (§11-19) applies in proximity to Phoenix-Mesa Gateway Airport and Falcon Field.
+
+## Process & Approvals Required
+
+- [[Site Plan Review]] — required for new residential development
+- [[Zone Change (Rezoning)]] — to change from RS-6 to another zone
+- [[Conditional Use Permit (CUP)]] — for certain institutional uses
+- [[Planned Unit Development (PUD)]] — PAD overlay process for larger projects
+
+## Adjacent / Compatible Zones
+
+- [[Mesa RS-7]] — slightly larger lots, same character
+- [[Mesa RS-9]] — medium single-family
+- [[Mesa RSL-4]] — small-lot single-family, more urban form
+- [[Mesa RM-2]] — lowest-density multifamily, transition use
+- [[Mesa NC]] — neighborhood commercial at intersections
+
+## Recent Amendments
+
+Ordinance 5883 (Oct 7, 2024) updated ADU standards for RS districts — one attached + one detached ADU per lot permitted by-right; no additional parking required for ADU. Verify current development standards for RS-6 against §11-5-3 of the current ordinance.
+
+## Sources
+
+- Dimensional standards: Mesa Zoning Ordinance Table 11-5-3.A.1, via https://www.zoneomics.com/code/mesa-AZ/chapter_2, retrieved 2026-05-25 — UNVERIFIED (Source: Mesa Zoning Ordinance §11-5-3, retrieved 2026-05-25 — UNVERIFIED)
+- Ordinance ZON17-00606 confirming RS-6 as active base zone (April 20, 2020)
+- Ordinance 5883 confirming RS district ADU standards (Oct 7, 2024)
+- Mesa Municode Title 11: https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR
