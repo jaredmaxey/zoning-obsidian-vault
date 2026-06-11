@@ -1,0 +1,119 @@
+source_id,jurisdiction_id,doc_type,title,format,local_file,url,host,compiled_date,last_verified,notes
+az-maricopa-county-zoning,az-maricopa-county,zoning,Maricopa County Zoning Ordinance,pdf,MaricopaCounty_ZoningOrdinance.pdf,,PDF,2026-06-06,,Unincorporated areas
+az-maricopa-county-subdivision,az-maricopa-county,subdivision,Maricopa County Subdivision Regulations,pdf,MaricopaCounty_SubdivisionRegulations.pdf,,PDF,2026-06-06,,
+az-maricopa-county-comprehensive-plan,az-maricopa-county,comprehensive-plan,Maricopa County Comprehensive Plan (Vision 2030),pdf,MaricopaCounty_ComprehensivePlan_Vision2030.pdf,,PDF,2026-06-06,,
+az-phoenix-zoning,az-phoenix,zoning,Phoenix Zoning Ordinance,link,,https://phoenix.municipal.codes/ZO,General Code,2026-06-06,,Official code host - HTML
+az-phoenix-dev-standards,az-phoenix,dev-standards,Phoenix Development Standards (hub),link,,https://www.phoenix.gov/administration/departments/pdd/tools-resources/codes-ordinance/standards.html,City website,2026-06-06,,City standards hub - HTML
+az-phoenix-general-plan,az-phoenix,general-plan,Phoenix General Plan (PlanPHX 2025),pdf,Phoenix_GeneralPlan_PlanPHX2025.pdf,,PDF,2026-06-06,,
+az-mesa-zoning,az-mesa,zoning,Mesa Zoning Ordinance (Title 11),link,,https://library.municode.com/az/mesa/codes/code_of_ordinances?nodeId=COOR_TIT11ZOOR,Municode,2026-06-06,,
+az-mesa-engineering,az-mesa,engineering,Mesa Engineering & Design Standards 2025,pdf,Mesa_EngineeringDesignStandards_2025.pdf,,PDF,2026-06-06,,
+az-mesa-general-plan,az-mesa,general-plan,Mesa General Plan 2050,pdf,Mesa_GeneralPlan_2050.pdf,,PDF,2026-06-06,,
+az-chandler-zoning,az-chandler,zoning,Chandler Zoning Code (Ch. 35),link,,https://library.municode.com/az/chandler/codes/code_of_ordinances?nodeId=PTVIPL_CH35LAUSZO,Municode,2026-06-06,,
+az-chandler-engineering,az-chandler,engineering,Chandler Engineering Design Standards Manual,pdf,Chandler_EngineeringDesignStandardsManual.pdf,,PDF,2026-06-06,,
+az-chandler-general-plan,az-chandler,general-plan,Chandler General Plan 2016,link,,https://www.chandleraz.gov/sites/default/files/documents/imported/ChandlerGeneralPlan2016.pdf,City website,2026-06-06,,Direct PDF; downloads in browser
+az-scottsdale-zoning,az-scottsdale,zoning,Scottsdale Zoning Ordinance (Appendix B),link,,https://library.municode.com/az/scottsdale/codes/code_of_ordinances?nodeId=VOLII_APXBBAZOOR,Municode,2026-06-06,,
+az-scottsdale-dev-standards,az-scottsdale,dev-standards,Scottsdale Design Standards & Policies Manual,link,,https://www.scottsdaleaz.gov/design/dspm,City website,2026-06-06,,Per-chapter PDFs - HTML hub
+az-scottsdale-general-plan,az-scottsdale,general-plan,Scottsdale General Plan 2035,pdf,Scottsdale_GeneralPlan_2035.pdf,,PDF,2026-06-06,,
+az-gilbert-zoning,az-gilbert,zoning,Gilbert Land Development Code,pdf,Gilbert_LandDevelopmentCode.pdf,,PDF,2026-06-06,,
+az-gilbert-engineering,az-gilbert,engineering,Gilbert Public Works & Engineering Standards,pdf,Gilbert_PublicWorksEngineeringStandards.pdf,,PDF,2026-06-06,,
+az-gilbert-general-plan,az-gilbert,general-plan,Gilbert General Plan 2020,link,,https://www.gilbertaz.gov/departments/development-services/planning/general-plan/documents,City website,2026-06-06,,Full plan via Town Box - HTML/PDF
+az-glendale-zoning,az-glendale,zoning,Glendale Unified Development Code (Ch. 35),link,,https://library.municode.com/az/glendale/codes/code_of_ordinances?nodeId=PTIICOOR_CH35UNDECO,Municode,2026-06-06,,
+az-glendale-engineering,az-glendale,engineering,Glendale Engineering Design Standards 2015,pdf,Glendale_EngineeringDesignStandards_2015.pdf,,PDF,2026-06-06,,
+az-glendale-engineering-details,az-glendale,engineering,Glendale Engineering Standard Details 2015,pdf,Glendale_EngineeringStandardDetails_2015.pdf,,PDF,2026-06-06,,
+az-glendale-general-plan,az-glendale,general-plan,Glendale General Plan (Envision Glendale 2040),pdf,Glendale_GeneralPlan_EnvisionGlendale2040.pdf,,PDF,2026-06-06,,
+az-tempe-zoning,az-tempe,zoning,Tempe Zoning & Development Code,link,,https://library.municode.com/az/tempe/codes/zoning_and_development_code,Municode,2026-06-06,,
+az-tempe-engineering,az-tempe,engineering,Tempe Engineering Design Criteria 2024,pdf,Tempe_EngineeringDesignCriteria_2024.pdf,,PDF,2026-06-06,,
+az-tempe-general-plan,az-tempe,general-plan,Tempe General Plan 2050,pdf,Tempe_GeneralPlan_2050.pdf,,PDF,2026-06-06,,
+az-peoria-zoning,az-peoria,zoning,Peoria Zoning Ordinance (Ch. 21),link,,https://library.municode.com/az/peoria/codes/city_code?nodeId=PTIIPECO_CH21ZO,Municode,2026-06-06,,
+az-peoria-engineering,az-peoria,engineering,Peoria Engineering Standards Manual,link,,https://www.peoriaaz.gov/business/development-services/city-codes-and-regulations,City website,2026-06-06,,City codes & regulations - HTML
+az-peoria-general-plan,az-peoria,general-plan,Peoria General Plan 2040,link,,https://www.peoriaaz.gov/home/showdocument?id=3790,City website,2026-06-06,,Direct PDF; downloads in browser
+az-surprise-zoning,az-surprise,zoning,Surprise Land Development Ordinance (Ch. 106),link,,https://library.municode.com/az/surprise/codes/municipal_code?nodeId=PTIILADEOR_CH106ZOUSST,Municode,2026-06-06,,
+az-surprise-engineering,az-surprise,engineering,Surprise Engineering Development Standards 2025,pdf,Surprise_EngineeringDevelopmentStandards_2025.pdf,,PDF,2026-06-06,,
+az-surprise-general-plan,az-surprise,general-plan,Surprise General Plan 2040,link,,https://surpriseaz.gov/1368/General-Plan-2040,City website,2026-06-06,,Plan via document viewer - HTML
+az-goodyear-zoning,az-goodyear,zoning,Goodyear Zoning Ordinance,link,,https://goodyear.municipal.codes/ZoningOrds,General Code,2026-06-06,,
+az-goodyear-engineering,az-goodyear,engineering,Goodyear Engineering Design Standards & Policy Manual 2025,pdf,Goodyear_EngineeringDesignStandardsPolicyManual_2025.pdf,,PDF,2026-06-06,,
+az-goodyear-general-plan,az-goodyear,general-plan,Goodyear General Plan 2035,pdf,Goodyear_GeneralPlan_2035.pdf,,PDF,2026-06-06,,
+az-avondale-zoning,az-avondale,zoning,Avondale Zoning Ordinance (Ch. 28),link,,https://library.municode.com/az/avondale/codes/code_of_ordinances?nodeId=CD_ORD_CH28ZOOR,Municode,2026-06-06,,
+az-avondale-engineering,az-avondale,engineering,Avondale General Engineering Requirements 2018,link,,https://www.avondaleaz.gov/home/showdocument?id=394,City website,2026-06-06,,Direct PDF; downloads in browser
+az-avondale-general-plan,az-avondale,general-plan,Avondale General Plan 2030,link,,https://www.avondaleaz.gov/government/departments/development-services/planning-division,City website,2026-06-06,,Plan via document viewer - HTML
+az-buckeye-zoning,az-buckeye,zoning,Buckeye Development Code,pdf,Buckeye_DevelopmentCode.pdf,,PDF,2026-06-06,,
+az-buckeye-engineering,az-buckeye,engineering,Buckeye Engineering Design Standards & Details,link,,https://www.buckeyeaz.gov/business/engineering/design-standards-and-details,City website,2026-06-06,,Per-section PDFs - HTML hub
+az-buckeye-general-plan,az-buckeye,general-plan,Buckeye General Plan (Imagine Buckeye 2040),pdf,Buckeye_GeneralPlan_ImagineBuckeye2040.pdf,,PDF,2026-06-06,,
+az-el-mirage-zoning,az-el-mirage,zoning,El Mirage Zoning Code (Ch. 154),link,,https://codelibrary.amlegal.com/codes/elmirage/latest/elmirage_az/0-0-0-12499,American Legal,2026-06-06,,
+az-el-mirage-dev-standards,az-el-mirage,dev-standards,El Mirage Design & Development Standards Manual 2025,pdf,ElMirage_DesignDevelopmentStandardsManual_2025.pdf,,PDF,2026-06-06,,
+az-el-mirage-general-plan,az-el-mirage,general-plan,El Mirage General Plan 2020,link,,https://www.elmirageaz.gov/323/General-Plan,City website,2026-06-06,,Plan via document viewer - HTML
+az-tolleson-zoning,az-tolleson,zoning,Tolleson Zoning Code,link,,https://library.municode.com/az/tolleson/codes/code_of_ordinances?nodeId=CITOARZOCO,Municode,2026-06-06,,Subdivision/dev standards also in Ch. 12
+az-tolleson-general-plan,az-tolleson,general-plan,Tolleson General Plan 2024,pdf,Tolleson_GeneralPlan_2024.pdf,,PDF,2026-06-06,,
+az-litchfield-park-zoning,az-litchfield-park,zoning,Litchfield Park Zoning Code,pdf,LitchfieldPark_ZoningCode.pdf,,PDF,2026-06-06,,
+az-litchfield-park-subdivision,az-litchfield-park,subdivision,Litchfield Park Subdivision Regulations (Ch. 14),link,,https://www.codepublishing.com/AZ/LitchfieldPark/html/LitchfieldPark14.html,Code Publishing,2026-06-06,,
+az-litchfield-park-general-plan,az-litchfield-park,general-plan,Litchfield Park General Plan 2022,pdf,LitchfieldPark_GeneralPlan_2022.pdf,,PDF,2026-06-06,,
+az-youngtown-zoning,az-youngtown,zoning,Youngtown Zoning Code (Title 17),link,,https://library.municode.com/az/youngtown/codes/code_of_ordinances?nodeId=TIT17ZO,Municode,2026-06-06,,
+az-youngtown-subdivision,az-youngtown,subdivision,Youngtown Subdivision Code (Title 16),link,,https://library.municode.com/az/youngtown/codes/code_of_ordinances?nodeId=TIT16SU,Municode,2026-06-06,,
+az-youngtown-general-plan,az-youngtown,general-plan,Youngtown General Plan 2035,pdf,Youngtown_GeneralPlan_2035.pdf,,PDF,2026-06-06,,
+az-wickenburg-zoning,az-wickenburg,zoning,Wickenburg Zoning Ordinance (Ch. 14),link,,https://wickenburg.municipalcodeonline.com/book?type=ordinances#name=CHAPTER_14_ZONING,Municipal Code Online,2026-06-06,,
+az-wickenburg-subdivision,az-wickenburg,subdivision,Wickenburg Subdivision Ordinance (Ch. 11),link,,https://wickenburg.municipalcodeonline.com/book?type=ordinances#name=CHAPTER_11_SUBDIVISION,Municipal Code Online,2026-06-06,,
+az-wickenburg-general-plan,az-wickenburg,general-plan,Wickenburg General Plan 2045,pdf,Wickenburg_GeneralPlan_2045.pdf,,PDF,2026-06-06,,
+az-gila-bend-zoning,az-gila-bend,zoning,Gila Bend Zoning Code,pdf,GilaBend_ZoningCode.pdf,,PDF,2026-06-06,,
+az-gila-bend-dev-standards,az-gila-bend,dev-standards,Gila Bend Development Standards (in Town Code),link,,https://codelibrary.amlegal.com/codes/gilabend/latest/gilabend_az/0-0-0-1,American Legal,2026-06-06,,
+az-gila-bend-general-plan,az-gila-bend,general-plan,Gila Bend General Plan 2040,pdf,GilaBend_GeneralPlan_2040.pdf,,PDF,2026-06-06,,
+az-queen-creek-zoning,az-queen-creek,zoning,Queen Creek Zoning Ordinance,pdf,QueenCreek_ZoningOrdinance.pdf,,PDF,2026-06-06,,
+az-queen-creek-dev-standards,az-queen-creek,dev-standards,Queen Creek Design Standards & Procedures Manual,pdf,QueenCreek_DesignStandardsProceduresManual.pdf,,PDF,2026-06-06,,
+az-queen-creek-general-plan,az-queen-creek,general-plan,Queen Creek General Plan (2018 upd. 2024),pdf,QueenCreek_GeneralPlan_2018upd2024.pdf,,PDF,2026-06-06,,
+az-fountain-hills-zoning,az-fountain-hills,zoning,Fountain Hills Zoning Ordinance,link,,https://fountainhills.town.codes/ZO,General Code,2026-06-06,,town.codes
+az-fountain-hills-subdivision,az-fountain-hills,subdivision,Fountain Hills Subdivision Ordinance,link,,https://fountainhills.town.codes/SO,General Code,2026-06-06,,town.codes
+az-fountain-hills-general-plan,az-fountain-hills,general-plan,Fountain Hills General Plan 2020,pdf,FountainHills_GeneralPlan_2020.pdf,,PDF,2026-06-06,,
+az-cave-creek-zoning,az-cave-creek,zoning,Cave Creek Zoning Ordinance (per-chapter),link,,https://www.cavecreekaz.gov/336/Ordinances-Guidelines,City website,2026-06-06,,Per-chapter PDFs - HTML index
+az-cave-creek-subdivision,az-cave-creek,subdivision,Cave Creek Subdivision Ordinance 2026,pdf,CaveCreek_SubdivisionOrdinance_2026.pdf,,PDF,2026-06-06,,
+az-cave-creek-general-plan,az-cave-creek,general-plan,Cave Creek General Plan 2021,pdf,CaveCreek_GeneralPlan_2021.pdf,,PDF,2026-06-06,,
+az-carefree-zoning,az-carefree,zoning,Carefree Zoning Ordinance (Ch. 16),link,,https://codelibrary.amlegal.com/codes/carefree/latest/carefree_az/0-0-0-1,American Legal,2026-06-06,,
+az-carefree-dev-standards,az-carefree,dev-standards,Carefree Development Review Manual (Land Divisions) 2023,pdf,Carefree_DevelopmentReviewManual_LandDivisions_2023.pdf,,PDF,2026-06-06,,
+az-carefree-general-plan,az-carefree,general-plan,Carefree General Plan 2030,pdf,Carefree_GeneralPlan_2030.pdf,,PDF,2026-06-06,,
+az-paradise-valley-zoning,az-paradise-valley,zoning,Paradise Valley Zoning Ordinance 2023,pdf,ParadiseValley_ZoningOrdinance_2023.pdf,,PDF,2026-06-06,,
+az-paradise-valley-engineering,az-paradise-valley,engineering,Paradise Valley Storm Drainage Design Manual,pdf,ParadiseValley_StormDrainageDesignManual.pdf,,PDF,2026-06-06,,Stormwater only
+az-paradise-valley-general-plan,az-paradise-valley,general-plan,Paradise Valley General Plan 2022,pdf,ParadiseValley_GeneralPlan_2022.pdf,,PDF,2026-06-06,,
+az-guadalupe-zoning,az-guadalupe,zoning,Guadalupe Zoning Code (Ch. 154),link,,https://codelibrary.amlegal.com/codes/guadalupe/latest/guadalupe_az/0-0-0-2739,American Legal,2026-06-06,,No standalone dev-standards manual
+az-guadalupe-general-plan,az-guadalupe,general-plan,Guadalupe General Plan 2044,pdf,Guadalupe_GeneralPlan_2044.pdf,,PDF,2026-06-06,,
+az-apache-junction-zoning,az-apache-junction,zoning,Apache Junction Zoning Ordinance (LDC Ch. 1),link,,https://codelibrary.amlegal.com/codes/apachejunction/latest/apache_az_ldc/0-0-0-17136,American Legal,2026-06-06,,Straddles Maricopa/Pinal
+az-apache-junction-engineering,az-apache-junction,engineering,Apache Junction Engineering Standards (LDC Ch. 10),link,,https://codelibrary.amlegal.com/codes/apachejunction/latest/apache_az_ldc/0-0-0-21037,American Legal,2026-06-06,,
+az-apache-junction-general-plan,az-apache-junction,general-plan,Apache Junction General Plan 2020,pdf,ApacheJunction_GeneralPlan_2020.pdf,,PDF,2026-06-06,,
+az-pima-county-zoning,az-pima-county,zoning,Pima County Zoning Code (Title 18),link,,https://codelibrary.amlegal.com/codes/pimacounty/latest/pimacounty_az/0-0-0-15237,American Legal,2026-06-07,,Unincorporated areas - HTML
+az-pima-county-comprehensive-plan,az-pima-county,comprehensive-plan,Pima County Comprehensive Plan (Pima Prospers 2025) - Executive Summary,pdf,PimaCounty_PimaProspers2025_ExecutiveSummary.pdf,,PDF,2026-06-07,,
+az-pima-county-street-standards,az-pima-county,engineering,Pima County Subdivision and Development Street Standards,pdf,PimaCounty_SubdivisionDevelopmentStreetStandards.pdf,,PDF,2026-06-07,,
+az-tucson-zoning,az-tucson,zoning,Tucson Unified Development Code (UDC),link,,https://codelibrary.amlegal.com/codes/tucson/latest/tucson_az_udc/0-0-0-1,American Legal,2026-06-07,,HTML
+az-tucson-tsm,az-tucson,engineering,Tucson Technical Standards Manual (TSM),link,,https://codelibrary.amlegal.com/codes/tucson/latest/tucson_az_udc/0-0-0-10261,American Legal,2026-06-07,,
+az-tucson-general-plan,az-tucson,general-plan,Plan Tucson 2025,pdf,Tucson_PlanTucson2025.pdf,,PDF,2026-06-07,,
+az-tucson-drainage,az-tucson,engineering,Tucson Drainage Design Manual,pdf,Tucson_DrainageDesignManual.pdf,,PDF,2026-06-07,,
+az-south-tucson-zoning,az-south-tucson,zoning,South Tucson Zoning (City Code Ch. 24),link,,https://library.municode.com/az/south_tucson/codes/city_code,Municode,2026-06-07,,HTML
+az-marana-zoning,az-marana,zoning,Marana Land Development Code (Town Code Title 17),link,,https://codelibrary.amlegal.com/codes/maranaaz/latest/marana_az/0-0-0-8997,American Legal,2026-06-07,,HTML
+az-marana-general-plan,az-marana,general-plan,Make Marana 2040 General Plan,pdf,Marana_GeneralPlan_MakeMarana2040.pdf,,PDF,2026-06-07,,
+az-marana-street-standards,az-marana,engineering,Marana Subdivision Street Standards (2022),pdf,Marana_SubdivisionStreetStandards_2022.pdf,,PDF,2026-06-07,,
+az-marana-drainage,az-marana,engineering,Marana Drainage Manual (2024),pdf,Marana_DrainageManual_2024.pdf,,PDF,2026-06-07,,
+az-oro-valley-zoning,az-oro-valley,zoning,Oro Valley Zoning Code,link,,https://orovalley.town.codes/ZC,General Code,2026-06-07,,Cloudflare-gated - browser
+az-oro-valley-general-plan,az-oro-valley,general-plan,Your Voice Our Future General Plan,pdf,OroValley_GeneralPlan_YourVoiceOurFuture.pdf,,PDF,2026-06-07,,
+az-oro-valley-street-standards,az-oro-valley,engineering,Oro Valley Subdivision Street Standards Policy Manual,pdf,OroValley_SubdivisionStreetStandardsPolicyManual.pdf,,PDF,2026-06-07,,
+az-oro-valley-drainage,az-oro-valley,engineering,Oro Valley Drainage Criteria Manual,pdf,OroValley_DrainageCriteriaManual.pdf,,PDF,2026-06-07,,
+az-sahuarita-zoning,az-sahuarita,zoning,Sahuarita Zoning Code (Title 18),link,,https://www.codepublishing.com/AZ/Sahuarita/,Code Publishing,2026-06-07,,HTML
+az-sahuarita-general-plan,az-sahuarita,general-plan,Sahuarita Aspire 2035 General Plan,pdf,Sahuarita_GeneralPlan_Aspire2035.pdf,,PDF,2026-06-07,,
+az-pinal-county-zoning,az-pinal-county,zoning,Pinal County Development Services Code (Zoning & Subdivision),link,,https://library.municode.com/az/pinal_county/codes/development_services_code_and_floodplain_management,Municode,2026-06-07,,Unincorporated - HTML
+az-pinal-county-comprehensive-plan,az-pinal-county,comprehensive-plan,Pinal County Comprehensive Plan (2019),pdf,PinalCounty_ComprehensivePlan_2019.pdf,,PDF,2026-06-07,,
+az-pinal-county-subdivision,az-pinal-county,engineering,Pinal County Subdivision Infrastructure Design Manual,pdf,PinalCounty_SubdivisionInfrastructureDesignManual.pdf,,PDF,2026-06-07,,
+az-casa-grande-zoning,az-casa-grande,zoning,Casa Grande Zoning (Code of Ordinances Title 17),link,,https://codelibrary.amlegal.com/codes/casagrande/latest/overview,American Legal,2026-06-07,,HTML
+az-casa-grande-general-plan,az-casa-grande,general-plan,Casa Grande General Plan 2030,pdf,CasaGrande_GeneralPlan_2030.pdf,,PDF,2026-06-07,,
+az-casa-grande-engineering,az-casa-grande,engineering,Casa Grande Engineering Standards (hub),link,,https://casagrandeaz.gov/545/Engineering-Standards,City of Casa Grande,2026-06-07,,
+az-maricopa-city-zoning,az-maricopa-city,zoning,Maricopa City Code Title 18 (Zoning),link,,https://maricopa.municipal.codes/MCC/18,General Code,2026-06-07,,Cloudflare-gated - browser
+az-maricopa-city-general-plan,az-maricopa-city,general-plan,City of Maricopa General Plan (Planning Maricopa),link,,https://www.maricopa-az.gov/departments/development-services/planning-maricopa-general-plan,City of Maricopa,2026-06-07,,
+az-maricopa-city-design-standards,az-maricopa-city,engineering,City of Maricopa Design Standards Manual (2020),pdf,MaricopaCity_DesignStandardsManual_2020.pdf,,PDF,2026-06-07,,
+az-coolidge-zoning,az-coolidge,zoning,Coolidge Zoning Code,pdf,Coolidge_ZoningCode.pdf,,PDF,2026-06-07,,
+az-coolidge-subdivision,az-coolidge,subdivision,Coolidge Subdivision Regulations,pdf,Coolidge_SubdivisionRegulations.pdf,,PDF,2026-06-07,,
+az-coolidge-design-guidelines,az-coolidge,engineering,Coolidge Design Guidelines,pdf,Coolidge_DesignGuidelines.pdf,,PDF,2026-06-07,,
+az-eloy-zoning,az-eloy,zoning,Eloy Zoning (City Code Title 21),link,,https://codelibrary.amlegal.com/codes/eloyaz/latest/overview,American Legal,2026-06-07,,HTML
+az-eloy-subdivision,az-eloy,subdivision,Eloy Subdivision Regulations (Title 15),link,,https://codelibrary.amlegal.com/codes/eloyaz/latest/eloy_az/0-0-0-5618,American Legal,2026-06-07,,
+az-florence-zoning,az-florence,zoning,Florence Zoning & Development Code (Ch. 150),link,,https://codelibrary.amlegal.com/codes/florenceaz/latest/florence_az/0-0-0-4855,American Legal,2026-06-07,,HTML
+az-florence-general-plan,az-florence,general-plan,Florence General Plan 2022 (Our Town Our Future),pdf,,https://www.florenceaz.gov/wp-content/uploads/2022/12/Florence-General-Plan-2022-Our-Town-Our-Future.pdf,Town of Florence,2026-06-07,,Remote PDF
+az-florence-engineering,az-florence,engineering,Florence Engineering Standards Volume 1,pdf,,https://www.florenceaz.gov/wp-content/uploads/documents/Public%20Works/TOF%20Engineering%20Standards_Volume_1.pdf,Town of Florence,2026-06-07,,Remote PDF
+az-kearny-zoning,az-kearny,zoning,Kearny Town Code (incl. zoning),link,,https://library.municode.com/az/kearny/codes/code_of_ordinances,Municode,2026-06-07,,HTML
+az-kearny-general-plan,az-kearny,general-plan,Kearny General Plan,pdf,Kearny_GeneralPlan.pdf,,PDF,2026-06-07,,
+az-mammoth-zoning,az-mammoth,zoning,Mammoth Land Codes (Article 14 Zoning),link,,https://mammothaz.gov/land-codes,Town of Mammoth,2026-06-07,,Town website
+az-superior-zoning,az-superior,zoning,Superior Zoning Ordinance (2024),link,,https://superioraz.gov/index.php/government/planning-and-zoning,Town of Superior,2026-06-07,,131-page ordinance on town site
+az-superior-general-plan,az-superior,general-plan,Superior General Plan 2022,pdf,Superior_GeneralPlan_2022.pdf,,PDF,2026-06-07,,
+az-winkelman-strategy,az-winkelman,plan,Winkelman Community Development Strategy (2018),pdf,Winkelman_CommunityDevelopmentStrategy_2018.pdf,,PDF,2026-06-07,,No formal zoning code in the source folder

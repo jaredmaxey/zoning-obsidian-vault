@@ -12,6 +12,8 @@ ai_summary: Registry of external authorities, codes, and data providers the vaul
 
 Every external code, ordinance, statute, or data provider cited anywhere in the vault should have a row here. The `Last Verified` column records when a **human** last confirmed the URL/source is live and current. Blank = not yet verified.
 
+> **Canonical machine registry:** the authoritative, per-document source list now lives in [`40-data/source_registry.csv`](../40-data/source_registry.csv) (one row per primary-source document, with `doc_type`, `format`, `local_file`/`url`, and host). That CSV is generated/curated from the Maricopa County primary-source library (`Maricopa County development standards/INDEX.html`) and is the source of truth for tooling. This markdown table remains the **human-readable, org-level view** — keep high-level authorities here; do not try to mirror every Maricopa document row. See `_CONVENTIONS.md` §9.
+
 | Jurisdiction / Org | Source Type | URL | Last Verified | Notes |
 |--------------------|-------------|-----|---------------|-------|
 | Arizona (statewide) | Statutes | https://www.azleg.gov/arstitle/ | | Arizona Revised Statutes root; Title 9 (municipal), Title 11 (county), Title 32 (real estate), Title 33 (property), Title 45 (water). |

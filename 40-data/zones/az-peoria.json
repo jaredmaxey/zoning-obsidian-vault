@@ -1,0 +1,1039 @@
+{
+ "jurisdiction_id": "az-peoria",
+ "jurisdiction_name": "City of Peoria",
+ "default_source_doc": "az-peoria-zoning",
+ "zones": [
+  {
+   "zone_id": "az-peoria:sr-43",
+   "zone_code": "SR-43",
+   "zone_name": "Suburban Ranch (SR-43)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 43560,
+    "min_lot_width_ft": 145,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 25,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 40,
+    "side_setback_ft": 20,
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Single-Family Dwelling",
+     "Publicly owned parks/recreation",
+     "Soil Crops",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Commercial grazing/breeding of livestock",
+     "Commercial poultry/egg farms",
+     "Kennels",
+     "Plant Nurseries",
+     "Public buildings (cultural/educational/fire/police)",
+     "Colleges/Universities",
+     "Golf Courses",
+     "Group Care Facility",
+     "Day Care Group Homes (5+ children)",
+     "Bed and Breakfast Inn",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-408 and Sec. 21-412 (Property Development Standards for Permitted Principal Uses), Table SR-43/SR-35",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Source migrated off Municode; Peoria AZ code is hosted on American Legal Publishing (codelibrary.amlegal.com/codes/peoriaaz), supplement 2026 S-9. Reached via Chrome browser (server-side fetch/API blocked by 403). Min lot area 43,560 sf = 1.0 acre (table labels 'square feet'). No density/FAR/story standard published for SR districts. Side setback 20 ft each side."
+  },
+  {
+   "zone_id": "az-peoria:sr-35",
+   "zone_code": "SR-35",
+   "zone_name": "Suburban Ranch (SR-35)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 35000,
+    "min_lot_width_ft": 125,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 35,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 30,
+    "side_setback_ft": 10,
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Single-Family Dwelling",
+     "Publicly owned parks/recreation",
+     "Soil Crops",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Commercial grazing/breeding of livestock",
+     "Commercial poultry/egg farms",
+     "Kennels",
+     "Plant Nurseries",
+     "Public buildings",
+     "Colleges/Universities",
+     "Golf Courses",
+     "Group Care Facility",
+     "Day Care Group Homes (5+ children)",
+     "Bed and Breakfast Inn",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-408 and Sec. 21-412, Table SR-43/SR-35",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Side Yard Setback recorded in table as '10/20' = 10 ft minimum on one side, 20 ft combined; binding single-side minimum recorded as 10. No density/FAR/story standard published."
+  },
+  {
+   "zone_id": "az-peoria:r1-43",
+   "zone_code": "R1-43",
+   "zone_name": "Single Family Residential (R1-43)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 43560,
+    "min_lot_width_ft": 145,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 30,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 35,
+    "side_setback_ft": 10,
+    "rear_setback_ft": 30,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings (cultural/educational/fire/police)",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420 (Property Development Standards for Permitted Principal Uses), R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot area listed in table (header says 'acreage' but values are square feet; 43,560 sf = 1.0 acre). Min lot depth 100 ft. Front setback 35 ft for front-facing garage (and side-entry garage). Interior side setback shown as 'min/total' = 10/30; binding single-side minimum 10, 30 ft combined. No max density or FAR published; height 30 ft, no story cap stated."
+  },
+  {
+   "zone_id": "az-peoria:r1-35",
+   "zone_code": "R1-35",
+   "zone_name": "Single Family Residential (R1-35)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 35000,
+    "min_lot_width_ft": 125,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 35,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 30,
+    "side_setback_ft": 10,
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot depth 100 ft. Front setback 30 ft (front-facing garage). Interior side 'min/total' = 10/20; binding single-side minimum 10, 20 ft combined. No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:r1-18",
+   "zone_code": "R1-18",
+   "zone_name": "Single Family Residential (R1-18)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 18000,
+    "min_lot_width_ft": 90,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 35,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot depth 100 ft. Front setback 20 ft. Interior side 'min/total' = 5/15; binding single-side minimum 5, 15 ft combined. No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:r1-12",
+   "zone_code": "R1-12",
+   "zone_name": "Single Family Residential (R1-12)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 12000,
+    "min_lot_width_ft": 70,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 40,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot depth 100 ft. Front setback 20 ft for front-facing garage; 10 ft allowed for side-entry garage (note that not more than 60% of front-facing elevation may be at the 10-ft setback). Interior side 'min/total' = 5/15; binding single-side minimum 5. No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:r1-10",
+   "zone_code": "R1-10",
+   "zone_name": "Single Family Residential (R1-10)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 10000,
+    "min_lot_width_ft": 70,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 45,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot depth 100 ft. Front setback 20 ft (front-facing garage); 10 ft for side-entry garage. Interior side 'min/total' = 5/15; binding single-side minimum 5. No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:r1-8",
+   "zone_code": "R1-8",
+   "zone_name": "Single Family Residential (R1-8)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 8000,
+    "min_lot_width_ft": 70,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 45,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot depth 100 ft. Front setback 20 ft (front-facing garage); 10 ft for side-entry garage. Interior side 'min/total' = 5/15; binding single-side minimum 5. No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:r1-7",
+   "zone_code": "R1-7",
+   "zone_name": "Single Family Residential (R1-7)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 7000,
+    "min_lot_width_ft": 70,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 45,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table (note Delta)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "LEGACY DISTRICT: per table note, R1-7 applies only to property zoned R1-7 on or before 2-13-1991; no property may be rezoned to R1-7 after that date. Still a base district in the ordinance. Min lot depth 100 ft. Interior side 'min/total' = 5/15; binding single-side minimum 5. No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:r1-6",
+   "zone_code": "R1-6",
+   "zone_name": "Single Family Residential (R1-6)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 6000,
+    "min_lot_width_ft": 50,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 45,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "One detached single-family dwelling per lot",
+     "Public parks/recreation",
+     "Group Homes",
+     "Public/Charter and Private Schools",
+     "Churches/places of worship",
+     "Public utility buildings",
+     "Middle Housing"
+    ],
+    "conditional": [
+     "Public buildings",
+     "Colleges/Universities",
+     "Non-commercial recreational uses",
+     "Golf Courses",
+     "Day Care Group Homes (5+ children)",
+     "Group Care Facility",
+     "Preschool/day care centers"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-415 and Sec. 21-420, R1 table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot depth 100 ft. Front setback 20 ft (front-facing garage); 10 ft for side-entry garage. Interior side recorded in table as '5/8/13'; binding single-side minimum 5 ft (8/13 are additional combined-side figures). No max density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:rm-1",
+   "zone_code": "RM-1",
+   "zone_name": "Multi-Family Residential (RM-1)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": 30,
+    "max_density_dua": 18,
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 60,
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": 10,
+    "side_setback_ft": 5,
+    "rear_setback_ft": 15,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Attached single-family dwellings",
+     "Two/three/four-family dwellings",
+     "Multi-family dwellings (5+)"
+    ],
+    "conditional": [
+     "Bed and Breakfast Inn",
+     "(additional conditional uses per Sec. 21-426)"
+    ],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-424 and Sec. 21-429 (Development Standards) table",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "RM-1 standards vary by building type (three columns): Attached single-family / Two-three-four-family & multi-family / Multi-family 5+. Values recorded are the most permissive envelope across building types where they form the district maximum: max density up to 18 du/ac (5+ multi-family; 8 for attached SF, 12 for 2-4 family, each potentially +2 with findings), max lot coverage up to 60% (attached SF; 50% other types), max height up to 48 ft (multi-family 5+; 30 ft other types). Binding minimum setbacks recorded: front 10 ft (attached SF; 20 ft other types), rear 15 ft (all), side 5 ft (attached SF; 20 ft other types), corner side 10-15 ft. Min lot width 30 ft applies to attached SF only (N/R for other types). No minimum lot area stated in table (TBD). No FAR/story cap published."
+  },
+  {
+   "zone_id": "az-peoria:rmh-1",
+   "zone_code": "RMH-1",
+   "zone_name": "Mobile Home Subdivision District (RMH-1)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 7000,
+    "min_lot_width_ft": 60,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": "TBD",
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 4,
+    "rear_setback_ft": 30,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Mobile home subdivision lots (single-family mobile/manufactured homes)"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-431 and Sec. 21-435 (Property Development Standards for Mobile Home Subdivisions)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Standards are narrative (not a grid). Min lot size 7,000 sf; min lot width 60 ft; front setback from interior streets 20 ft; rear yard 30 ft; side yard 4 ft minimum single side, 13 ft total both sides (binding single-side minimum recorded as 4). Additional 25 ft setback for any building/mobile home from district boundary or street abutting the subdivision. No max height, coverage, density, or FAR specified in this section."
+  },
+  {
+   "zone_id": "az-peoria:rmh-2",
+   "zone_code": "RMH-2",
+   "zone_name": "Recreational Vehicle Resort District (RMH-2)",
+   "category": "residential",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 435600,
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 25,
+    "max_stories": 2,
+    "front_setback_ft": 15,
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": "TBD",
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Recreational vehicle resort/park sites"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-438 and Sec. 21-443 (Development Standards)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Standards are narrative. Minimum district area 10 acres (435,600 sf) undivided by a public street (recorded as min_lot_size_sf). Minimum area per RV site 1,750 sf; RV site min width 35 ft, min depth 50 ft. Setback for RV park 15 ft from any public street (recorded as front_setback). Max building height 2 stories or 25 ft, whichever is less. 10% of area (less private streets) devoted to recreation/open space. No district-wide side/rear building setback, lot width, density, or FAR published; per-site dimensions noted here instead."
+  },
+  {
+   "zone_id": "az-peoria:o-1",
+   "zone_code": "O-1",
+   "zone_name": "Office Commercial District (O-1)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": 50,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 15,
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Professional offices",
+     "Medical and legal services",
+     "Ancillary retail uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(A) and Sec. 21-506 Property Development Standards (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "From Sec. 21-506 commercial development-standards table. Min lot/site area, lot/site depth, and max lot coverage are 'N/R' (no requirement) in the table -> recorded TBD (no published numeric standard). Min lot width 50 ft; front and corner setback 15 ft; rear 20 ft; setback from residential zones 30 ft. No interior rear/side setback specified (N/R). Use lists summarized from district intent statement; detailed permitted/conditional uses are in the Sec. 21-503 Land Use Matrix (not enumerated here). No density/FAR/story standard published."
+  },
+  {
+   "zone_id": "az-peoria:c-1",
+   "zone_code": "C-1",
+   "zone_name": "Convenience Commercial District (C-1)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 15,
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Neighborhood-scale retail and service establishments"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(B) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot width N/R; min lot/site depth 120 ft (table); max lot coverage N/R -> TBD. Max height 30 ft; front/corner 15 ft; rear 20 ft; setback from residential zones 30 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR/story standard published."
+  },
+  {
+   "zone_id": "az-peoria:pc-1",
+   "zone_code": "PC-1",
+   "zone_name": "Planned Neighborhood Commercial District (PC-1)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 130680,
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 30,
+    "max_height_ft": 30,
+    "max_stories": "TBD",
+    "front_setback_ft": 60,
+    "side_setback_ft": 60,
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Small-scale planned retail and service uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(C) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot/site area 3 acres (130,680 sf). Min lot/site depth 250 ft; min frontage on one arterial 450 ft. Max lot coverage 30%; max height 30 ft; front/corner 60 ft; rear 20 ft; interior rear/side setback 60 ft (recorded as side_setback); setback from residential zones 30 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:pc-2",
+   "zone_code": "PC-2",
+   "zone_name": "Planned Community Commercial District (PC-2)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 871200,
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 60,
+    "max_stories": "TBD",
+    "front_setback_ft": 120,
+    "side_setback_ft": 60,
+    "rear_setback_ft": 60,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Large-scale planned community commercial uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(D) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot/site area 20 acres (871,200 sf). Min lot/site depth 660 ft; min frontage on one arterial 660 ft. Max lot coverage N/R -> TBD; max height 60 ft; front/corner 120 ft; rear 60 ft; interior rear/side 60 ft (recorded as side_setback); setback from residential zones 120 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:c-2",
+   "zone_code": "C-2",
+   "zone_name": "Intermediate Commercial District (C-2)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": 15,
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Shopping center / convenience retail and service uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(E) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot area/width/depth N/R; max lot coverage N/R -> TBD. Max height 48 ft (table note 'a'). Front/corner 15 ft; rear 20 ft; setback from residential zones 30 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:c-3",
+   "zone_code": "C-3",
+   "zone_name": "Central Commercial District (C-3)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 100,
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": "TBD",
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": "TBD",
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Retail and service establishments (central/downtown-style)"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(F) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Max lot coverage 100%; max height 48 ft. Front, corner, rear, and interior setbacks all 'N/R' (no requirement) in the table -> recorded TBD (zero/no minimum setback required). Setback from residential zones N/R. Min lot area/width/depth N/R. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:c-4",
+   "zone_code": "C-4",
+   "zone_name": "General Commercial District (C-4)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": 15,
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": 20,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Wide range of retail, office, and service uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(G) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot area/width/depth N/R; max lot coverage N/R -> TBD. Max height 48 ft (table note 'a'). Front/corner 15 ft; rear 20 ft; setback from residential zones 30 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:c-5",
+   "zone_code": "C-5",
+   "zone_name": "Regional Commercial District (C-5)",
+   "category": "commercial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": 435600,
+    "min_lot_width_ft": "TBD",
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 60,
+    "max_stories": "TBD",
+    "front_setback_ft": 40,
+    "side_setback_ft": "TBD",
+    "rear_setback_ft": 30,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Large-scale regional commercial establishments"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(H) and Sec. 21-506 (commercial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot/site area 10 acres (435,600 sf). Min lot/site depth 660 ft; min frontage on one arterial 660 ft. Max lot coverage N/R -> TBD. Max height 60 ft; front/corner 40 ft; rear 30 ft; setback from residential zones 120 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:bpi",
+   "zone_code": "BPI",
+   "zone_name": "Business Park Industrial District (BPI)",
+   "category": "industrial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": 80,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": 30,
+    "side_setback_ft": 20,
+    "rear_setback_ft": 25,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Business park / light industrial and office uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(I) and Sec. 21-506 Property Development Standards (industrial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "From Sec. 21-506 industrial development-standards table. Min lot area N/R -> TBD; min lot width 80 ft. Max lot coverage N/R -> TBD. Max principal building height 48 ft (table note 'b'). Front setback 30 ft; least single side 20 ft (recorded as side_setback), total sides 40 ft; rear 25 ft; corner side 20 ft; setback from residential zoning districts 30 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:pi-1",
+   "zone_code": "PI-1",
+   "zone_name": "Planned Light Industrial District (PI-1)",
+   "category": "industrial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": 80,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": 40,
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": 40,
+    "side_setback_ft": 0,
+    "rear_setback_ft": 25,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Planned light industrial uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(J) and Sec. 21-506 (industrial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot area N/R -> TBD; min lot width 80 ft. Max lot coverage 40%. Max height 48 ft. Front 40 ft; least single side 0 ft (recorded), total sides 20 ft; rear 25 ft; corner side 20 ft; setback from residential zoning districts 50 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:i-1",
+   "zone_code": "I-1",
+   "zone_name": "Light Industrial District (I-1)",
+   "category": "industrial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": 80,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 48,
+    "max_stories": "TBD",
+    "front_setback_ft": 20,
+    "side_setback_ft": 0,
+    "rear_setback_ft": 25,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Light industrial uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(K) and Sec. 21-506 (industrial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot area N/R -> TBD; min lot width 80 ft. Max lot coverage N/R -> TBD. Max height 48 ft. Front 20 ft; least single side 0 ft (recorded), total sides 20 ft; rear 25 ft; corner side 20 ft; setback from residential zoning districts 50 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  },
+  {
+   "zone_id": "az-peoria:i-2",
+   "zone_code": "I-2",
+   "zone_name": "Heavy Industrial District (I-2)",
+   "category": "industrial",
+   "note_path": "",
+   "standards": {
+    "min_lot_size_sf": "TBD",
+    "min_lot_width_ft": 80,
+    "max_density_dua": "TBD",
+    "max_far": "TBD",
+    "max_lot_coverage_pct": "TBD",
+    "max_height_ft": 60,
+    "max_stories": "TBD",
+    "front_setback_ft": 60,
+    "side_setback_ft": 0,
+    "rear_setback_ft": 40,
+    "parking_ratio": null
+   },
+   "uses": {
+    "permitted": [
+     "Heavy industrial uses"
+    ],
+    "conditional": [],
+    "prohibited": []
+   },
+   "provenance": "official-html",
+   "confidence": "extracted",
+   "source_doc": "az-peoria-zoning",
+   "source_citation": "Ch. 21 Zoning, Sec. 21-502(L) and Sec. 21-506 (industrial table)",
+   "source_page": null,
+   "extracted_date": "2026-06-06",
+   "human_verified": "",
+   "notes": "Min lot area N/R -> TBD; min lot width 80 ft. Max lot coverage N/R -> TBD. Max height 60 ft (table note 'b'). Front 60 ft; least single side 0 ft (recorded), total sides 30 ft; rear 40 ft; corner side 30 ft; setback from residential zoning districts 50 ft. Permitted/conditional uses per Sec. 21-503 Land Use Matrix. No density/FAR published."
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+  "jurisdiction_id": "az-mammoth",
+  "jurisdiction_name": "Town of Mammoth",
+  "default_source_doc": "az-mammoth-zoning",
+  "zones": [
+    {
+      "zone_id": "az-mammoth:r",
+      "zone_code": "R",
+      "zone_name": "Residential",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 6000,
+        "min_lot_width_ft": 60,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 40,
+        "max_stories": 2,
+        "front_setback_ft": 20,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "One-family dwellings",
+          "Two-family dwellings",
+          "Multi-family dwellings",
+          "Manufactured homes (no older than 25 years; min 20'x40' on individual lots outside a Manufactured Home Park)",
+          "Manufactured home parks (per Article 14-5)",
+          "Public parks and public recreation grounds",
+          "Schools, churches, day-care/nurseries, rest homes and cemeteries",
+          "Customary household pets",
+          "Temporary construction buildings (use permit; max 12 months)",
+          "Utility buildings and structures (fenced and landscaped)",
+          "Gardens (garden crops; rear of lot; max 10% of lot area)",
+          "Fences, walls, hedges (per height limits)",
+          "Accessory buildings and uses (private garage, greenhouses, storage, swimming pools, home occupation)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-pdf",
+      "confidence": "extracted",
+      "source_doc": "az-mammoth-zoning",
+      "source_citation": "Land Code Art. 14-4 (R District - Residential), § 14-4-3",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min lot 6,000 sf single-family / 8,000 sf two-family (recorded single-family 6,000). Min width 60 ft single-family / 80 ft two-family (recorded 60). Rear setback 20 ft, reduced to 10 ft where an alley is present. Side setback 10 ft. Max height 2 stories not to exceed 40 ft (excluding basement). District enumerated in § 14-3-1.",
+      "fetch_route": "curl SPA JS bundle (/assets/index-BzOfWFvz.js) revealed /documents/land-codes/*.pdf links; downloaded PDF via curl; pdftotext."
+    },
+    {
+      "zone_id": "az-mammoth:cd",
+      "zone_code": "CD",
+      "zone_name": "Cluster Development",
+      "category": "planned",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 5000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 40,
+        "max_stories": "TBD",
+        "front_setback_ft": 10,
+        "side_setback_ft": 5,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Residential units (detached or common-walled/attached) per cluster and master planned development standards"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-pdf",
+      "confidence": "extracted",
+      "source_doc": "az-mammoth-zoning",
+      "source_citation": "Land Code Art. 14-3 § 14-3-1; Art. 14-16 (Cluster and Master Planned Development) § II.A",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "CD enumerated as a Zoning District in § 14-3-1. Standards from Art. 14-16. Min site area: None. Min lot size 5,000 sf for detached dwelling unit. Detached-unit setbacks: front 10, side 5, rear 10 ft. Max building height 40 ft. Max dwelling units = gross site area / minimum lot size of underlying zoning district (max_density_dua TBD - depends on underlying zone). Attached-unit clusters use 10 ft site-boundary setback, buildings separated min 10 ft, up to 8 units/building.",
+      "fetch_route": "curl SPA JS bundle revealed PDF links; downloaded 14-3 and 14-16 PDFs via curl; pdftotext."
+    },
+    {
+      "zone_id": "az-mammoth:mhp",
+      "zone_code": "MHP",
+      "zone_name": "Manufactured Home Park",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 5000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": 35,
+        "max_height_ft": 20,
+        "max_stories": "TBD",
+        "front_setback_ft": 15,
+        "side_setback_ft": 6,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Manufactured home subdivision",
+          "Manufactured homes (not more than one unit per lot in a subdivision)",
+          "Accessory buildings and structures",
+          "Recreational facilities incidental to the manufactured home subdivision"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-pdf",
+      "confidence": "extracted",
+      "source_doc": "az-mammoth-zoning",
+      "source_citation": "Land Code Art. 14-5 (MHP District - Manufactured Home Park), § 14-5-3",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "District enumerated in § 14-3-1. Min manufactured home park area 3 acres. Min lot size 5,000 sf. Max lot coverage 30% on exterior lot / 35% on interior lot (recorded 35 = max). Max height 20 ft. Side setback 6 ft interior lots / 12 ft exterior lot lines (recorded 6 = interior). Min 10% of gross site area reserved as common/open space.",
+      "fetch_route": "curl SPA JS bundle revealed PDF links; downloaded PDF via curl; pdftotext."
+    },
+    {
+      "zone_id": "az-mammoth:c",
+      "zone_code": "C",
+      "zone_name": "Commercial",
+      "category": "commercial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": 2,
+        "front_setback_ft": 20,
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Retail establishments (stores, antique shops, art galleries, restaurants, food carry-out, liquor stores)",
+          "Financial and personal service establishments and craft shops (banks, offices, barber/beauty, tailor, laundry/dry cleaning, key/gun shops, interior decorating, appliance/shoe repair, photographic, optical, news stands)",
+          "Private and public office buildings, clinics, clubs, museums, churches, public and private schools",
+          "Bowling alleys, theaters, pool halls, dance halls, night clubs, taverns, bars",
+          "Grocery and drug stores",
+          "Bakeries and confectionery shops",
+          "Motels, hotels and day care nurseries",
+          "Radio and television stations, printing and publishing, telephone exchange",
+          "Gasoline stations (retail sales only)",
+          "Manufactured home, trailer, RV, and automobile sales",
+          "Public/private garages, towing, and auto repair (excluding junk yards and salvage yards)",
+          "Public/private parks and recreation grounds",
+          "Accessory buildings and uses customarily incidental to above uses"
+        ],
+        "conditional": [],
+        "prohibited": [
+          "Junk yards",
+          "Auto wrecking salvage yards",
+          "Outdoor storage of merchandise, materials, equipment, or junk"
+        ]
+      },
+      "provenance": "official-pdf",
+      "confidence": "extracted",
+      "source_doc": "az-mammoth-zoning",
+      "source_citation": "Land Code Art. 14-6 (C District - Commercial), § 14-6-3",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "District enumerated in § 14-3-1. Max height 30 ft or 2 stories, whichever is greater. Front yard setback 20 ft (or, where a block straddles C and residential districts, equal to adjoining residential front yard but not exceeding 25 ft). Side and rear setbacks not specified in 14-6-3 = TBD. No min lot size/width stated. Parking per Section 14-8.",
+      "fetch_route": "curl SPA JS bundle revealed PDF links; downloaded PDF via curl; pdftotext."
+    },
+    {
+      "zone_id": "az-mammoth:ind-1",
+      "zone_code": "IND-1",
+      "zone_name": "Light Industrial",
+      "category": "industrial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 10000,
+        "min_lot_width_ft": 80,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 40,
+        "max_stories": 3,
+        "front_setback_ft": 20,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Assembly of electrical appliances, electronic instruments/devices, radios and phonographs (manufacture of small parts only)",
+          "Construction equipment (sales, service and rental)",
+          "Laboratories (experimental, photo/motion picture, research or testing)",
+          "Laundry and dry cleaning plants (wholesale and retail)",
+          "Manufacture, compounding, processing, packaging or fabrication of goods sold on premises (no objectionable dust, odor, noise, smoke, vibration, light/glare beyond zone)",
+          "Wholesale distributing houses and warehouses",
+          "Warehouses and storage, contractors offices, lumberyards, building materials, repair shops and storage yards (including outdoor storage if screened by 6-ft solid wall/fence)",
+          "Signs per Section 14-9",
+          "Accessory buildings and uses customarily incidental to above uses"
+        ],
+        "conditional": [],
+        "prohibited": [
+          "Warehousing and storage of explosive material",
+          "Junk"
+        ]
+      },
+      "provenance": "official-pdf",
+      "confidence": "extracted",
+      "source_doc": "az-mammoth-zoning",
+      "source_citation": "Land Code Art. 14-7 (IND-1 District - Industrial), § 14-7-3",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "District enumerated in § 14-3-1 as IND-1 Light Industrial. Max height 40 ft or 3 stories. Min lot width 80 ft, min lot area 10,000 sf. Setbacks: front 20, side 10, rear 20 ft. Parking per Section 14-8-2.",
+      "fetch_route": "curl SPA JS bundle revealed PDF links; downloaded PDF via curl; pdftotext."
+    }
+  ]
+}

@@ -8,7 +8,8 @@ The vault is built **AI-readable first** — consistent frontmatter, kebab-case 
 
 ## Where to start
 
-- **Humans:** browse the three branch indexes — `10-cre-brain/00-index.md`, `20-jurisdictions/00-index.md`, `30-reference/00-index.md`.
+- **Humans:** browse the branch indexes — `10-cre-brain/00-index.md`, `20-jurisdictions/00-index.md`, `30-reference/00-index.md`, and the structured data layer `40-data/00-index.md`.
+- **Structured data:** `40-data/` holds machine-first CSV + JSON (jurisdiction registry, primary-source registry, per-zone dimensional standards). Edit the canonical files there, then run `python 40-data/_tools/validate.py` and `python 40-data/_tools/sync.py` to regenerate the cross-jurisdiction CSV and the standards tables embedded in the zone notes. See `_CONVENTIONS.md` §9.
 - **For the full rules** (filenames, frontmatter, tags, linking, sourcing, status lifecycle), read **`_CONVENTIONS.md`**. That file is the source of truth.
 - **AI sessions:** read **`CLAUDE.md`** first, then `_CONVENTIONS.md`.
 

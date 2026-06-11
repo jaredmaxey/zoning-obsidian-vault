@@ -1,0 +1,483 @@
+{
+  "jurisdiction_id": "az-mesa",
+  "jurisdiction_name": "City of Mesa",
+  "default_source_doc": "az-mesa-zoning",
+  "zones": [
+    {
+      "zone_id": "az-mesa:rs-6", "zone_code": "RS-6", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-6.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": 55, "max_density_dua": 7.26, "max_far": "TBD",
+        "max_lot_coverage_pct": 60, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 10, "side_setback_ft": 5, "rear_setback_ft": 20, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official source reached via Municode API (productId 15749, node ART2BAZO); direct HTML/PDF fetch returned 403. Front 10 ft (enclosed livable); garages/carports 20 ft. Interior side 5 ft each, 15 ft aggregate. Rear 20 ft (30 ft if rear abuts arterial). Max building coverage 50%. Density 7.26 du/net acre applies under PAD overlay; conventional density governed by min-lot compliance. FAR and max_stories not specified for RS districts; parking per Chapter 32."
+    },
+    {
+      "zone_id": "az-mesa:rs-7", "zone_code": "RS-7", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-7.md",
+      "standards": {
+        "min_lot_size_sf": 7000, "min_lot_width_ft": 65, "max_density_dua": 6.22, "max_far": "TBD",
+        "max_lot_coverage_pct": 60, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 10, "side_setback_ft": 5, "rear_setback_ft": 20, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Front 10 ft (livable); garages/carports 20 ft. Interior side 5 ft each, 15 ft aggregate. Rear 20 ft (30 ft if abutting arterial). Max building coverage 45%. Density 6.22 du/net acre under PAD overlay."
+    },
+    {
+      "zone_id": "az-mesa:rs-9", "zone_code": "RS-9", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-9.md",
+      "standards": {
+        "min_lot_size_sf": 9000, "min_lot_width_ft": 75, "max_density_dua": 4.84, "max_far": "TBD",
+        "max_lot_coverage_pct": 60, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 15, "side_setback_ft": 7, "rear_setback_ft": 25, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Front 15 ft (livable); garages/carports 25 ft. Interior side 7 ft each, 17 ft aggregate. Rear 25 ft (30 ft if abutting arterial). Max building coverage 45%. Density 4.84 du/net acre under PAD overlay."
+    },
+    {
+      "zone_id": "az-mesa:rs-15", "zone_code": "RS-15", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-15.md",
+      "standards": {
+        "min_lot_size_sf": 15000, "min_lot_width_ft": 110, "max_density_dua": 2.9, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 22, "side_setback_ft": 7, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Front 22 ft (livable); garages/carports 30 ft. Interior side 7 ft each, 20 ft aggregate. Rear 30 ft. Max building coverage 40%. Density 2.9 du/net acre under PAD overlay."
+    },
+    {
+      "zone_id": "az-mesa:rs-35", "zone_code": "RS-35", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-35.md",
+      "standards": {
+        "min_lot_size_sf": 35000, "min_lot_width_ft": 130, "max_density_dua": 1.24, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 22, "side_setback_ft": 10, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Interior-lot width 130 ft. Front 22 ft (livable); garages/carports 30 ft. Interior side 10 ft each, 30 ft aggregate. Rear 30 ft. Max building coverage 35%. Density 1.24 du/net acre under PAD overlay."
+    },
+    {
+      "zone_id": "az-mesa:rs-43", "zone_code": "RS-43", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-43.md",
+      "standards": {
+        "min_lot_size_sf": 43560, "min_lot_width_ft": 130, "max_density_dua": 1.0, "max_far": "TBD",
+        "max_lot_coverage_pct": 40, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 22, "side_setback_ft": 10, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot area 43,560 sf (1 acre). Interior-lot width 130 ft. Front 22 ft (livable); garages/carports 30 ft. Interior side 10 ft each, 30 ft aggregate. Street side 30 ft. Rear 30 ft. Max building coverage 25%. Density 1.0 du/net acre under PAD overlay."
+    },
+    {
+      "zone_id": "az-mesa:rs-90", "zone_code": "RS-90", "zone_name": "Residential Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rs-90.md",
+      "standards": {
+        "min_lot_size_sf": 90000, "min_lot_width_ft": 150, "max_density_dua": 0.48, "max_far": "TBD",
+        "max_lot_coverage_pct": 40, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 22, "side_setback_ft": 20, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.1", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 90,000 sf. Interior-lot width 150 ft. Front 22 ft (livable); garages/carports 30 ft. Interior side 20 ft each, 40 ft aggregate. Rear 30 ft. Max building coverage 25%. Density 0.48 du/net acre under PAD overlay."
+    },
+    {
+      "zone_id": "az-mesa:rsl-2.5", "zone_code": "RSL-2.5", "zone_name": "Residential Small Lot Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rsl-2-5.md",
+      "standards": {
+        "min_lot_size_sf": 2000, "min_lot_width_ft": 25, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 12, "side_setback_ft": 3, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.2", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. min_lot_size_sf is minimum INDIVIDUAL lot area 2,000 sf (min average lot area of subdivision is 2,500 sf). Interior-lot width 25 ft (corner 30 ft). Front-building-wall 12 ft; garage 20 ft; porch 7 ft. Interior side 3 ft each, 8 ft aggregate. Rear 15 ft (13 ft for alley-accessed garage). Max 2 stories (3rd story possible per 11-5-3(A)(4)). Max density not given as a numeric cap in the RSL table; governed by lot size."
+    },
+    {
+      "zone_id": "az-mesa:rsl-3", "zone_code": "RSL-3", "zone_name": "Residential Small Lot Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rsl-3.md",
+      "standards": {
+        "min_lot_size_sf": 2750, "min_lot_width_ft": 30, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 15, "side_setback_ft": 4, "rear_setback_ft": 20, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.2", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Vault 'RSL-3' maps to official RSL-3.0 column. min_lot_size_sf is minimum INDIVIDUAL lot area 2,750 sf (min subdivision average 3,250 sf). Interior-lot width 30 ft (corner 35 ft). Front-building-wall 15 ft; garage 20 ft; porch 10 ft. Interior side 4 ft each, 9 ft aggregate. Rear 20 ft (13 ft alley garage). Max 2 stories."
+    },
+    {
+      "zone_id": "az-mesa:rsl-4", "zone_code": "RSL-4", "zone_name": "Residential Small Lot Single Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rsl-4.md",
+      "standards": {
+        "min_lot_size_sf": 3500, "min_lot_width_ft": 35, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 75, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 15, "side_setback_ft": 4, "rear_setback_ft": 20, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-3.A.2", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Vault 'RSL-4' maps to official RSL-4.0 column (note: official code also has a separate RSL-4.5 district not in the vault roster). min_lot_size_sf is minimum INDIVIDUAL lot area 3,500 sf (min subdivision average 4,000 sf). Interior-lot width 35 ft (corner 40 ft). Front-building-wall 15 ft; garage 20 ft; porch 10 ft. Interior side 4 ft each, 10 ft aggregate. Rear 20 ft (13 ft alley garage). Max lot coverage 75%. Max 2 stories."
+    },
+    {
+      "zone_id": "az-mesa:rm-2", "zone_code": "RM-2", "zone_name": "Residential Multiple Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rm-2.md",
+      "standards": {
+        "min_lot_size_sf": 7200, "min_lot_width_ft": "TBD", "max_density_dua": 15, "max_far": "TBD",
+        "max_lot_coverage_pct": 70, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-5", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 7,200 sf; min lot area/DU 2,904 sf. Max density 15 du/net acre. Max lot coverage 70%; max building coverage 45%. Min lot width is use-dependent (single-detached 36 ft, single-attached 36 ft, multi-residence 60 ft) so width left TBD. Setbacks are not single by-right numbers: front/street-side vary by street class (6-lane arterial 30 ft, 4-lane 20 ft, collector 25 ft, local 20 ft, freeway 30 ft); interior side 5 ft (1 detached) / 10 ft (2 units) / 20 ft single-story (3+ units, 15 ft per story multi); rear 15 ft (1-2 units). Additional setback if adjacent to RS district. Min open space 200 sf/unit."
+    },
+    {
+      "zone_id": "az-mesa:rm-3", "zone_code": "RM-3", "zone_name": "Residential Multiple Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rm-3.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": "TBD", "max_density_dua": 20, "max_far": "TBD",
+        "max_lot_coverage_pct": 70, "max_height_ft": 40, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-5", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 6,000 sf; min lot area/DU 2,183 sf. Max density 20 du/net acre. Max height 40 ft. Max lot coverage 70%; max building coverage 50%. Lot width use-dependent (detached 30 ft, attached 25 ft, multi 60 ft). Setbacks vary by street class/adjacency (same structure as RM-2); interior side 5/10 ft, rear 15 ft (1-2 units). Min open space 175 sf/unit."
+    },
+    {
+      "zone_id": "az-mesa:rm-4", "zone_code": "RM-4", "zone_name": "Residential Multiple Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rm-4.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": "TBD", "max_density_dua": 30, "max_far": "TBD",
+        "max_lot_coverage_pct": 70, "max_height_ft": 40, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-5", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 6,000 sf; min lot area/DU 1,452 sf. Max density 30 du/net acre. Max height 40 ft. Max lot coverage 70%; max building coverage 55%. Lot width use-dependent (detached 25 ft, attached 25 ft, multi 60 ft). Setbacks vary by street class/adjacency; interior side 5/10 ft, rear 15 ft (1-2 units). Min open space 150 sf/unit."
+    },
+    {
+      "zone_id": "az-mesa:rm-5", "zone_code": "RM-5", "zone_name": "Residential Multiple Dwelling District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-rm-5.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": "TBD", "max_density_dua": 43, "max_far": "TBD",
+        "max_lot_coverage_pct": 70, "max_height_ft": 50, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-5-5", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 6,000 sf; min lot area/DU 1,000 sf. Max density 43 du/net acre; min density 20 du/net acre. Max height 50 ft. Max lot coverage 70%. Lot width: detached/attached 25 ft, multi 60 ft. Setbacks vary by street class/adjacency; setback to RS district limited to 25 ft (no per-story increase). Min open space 120 sf/unit (roof areas may count up to 50%)."
+    },
+    {
+      "zone_id": "az-mesa:ag", "zone_code": "AG", "zone_name": "Agricultural District",
+      "category": "agricultural",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-ag.md",
+      "standards": {
+        "min_lot_size_sf": 435600, "min_lot_width_ft": 400, "max_density_dua": 0.1, "max_far": "TBD",
+        "max_lot_coverage_pct": 15, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 30, "side_setback_ft": 60, "rear_setback_ft": 60, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-4-3", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot area 10 acres = 435,600 sf (acres x 43,560). Min lot width 400 ft. Max density 0.1 du/acre. Max height 30 ft / 2 stories. Front 30 ft; interior side 60 ft each (120 ft aggregate); street side 30 ft; rear 60 ft. max_lot_coverage_pct here is Maximum Building Coverage (15%); the AG table lists no separate overall lot-coverage figure."
+    },
+    {
+      "zone_id": "az-mesa:db-1", "zone_code": "DB-1", "zone_name": "Downtown Business District",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-db-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": 40, "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 50, "max_stories": "TBD",
+        "front_setback_ft": 15, "side_setback_ft": 0, "rear_setback_ft": 0, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-8-5", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft was all TBD). Non-residential max height 50 ft. Max residential density 40 du/net acre. Non-residential setbacks: front 15 ft (may reduce to 10 ft on arterial if not adjacent to residential); interior side 0 ft (10 ft if adjacent to residential); street side 15 ft; rear 0 ft (10 ft if adjacent to residential). Residential setbacks differ (front 15 ft arterial / 10 ft non-arterial; interior side 10 ft; rear 20 ft). No minimum lot area, FAR, or overall lot-coverage figure given in the DB table."
+    },
+    {
+      "zone_id": "az-mesa:db-2", "zone_code": "DB-2", "zone_name": "Downtown Business District",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-db-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 40, "max_stories": "TBD",
+        "front_setback_ft": 15, "side_setback_ft": 0, "rear_setback_ft": 0, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-8-5", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Non-residential max height 40 ft. Non-residential setbacks: front 15 ft (reducible to 10 ft on arterial if not adjacent to residential); interior side 0 ft (10 ft if adjacent to residential); street side 15 ft; rear 0 ft (10 ft if adjacent to residential). Residential development standards in DB-2 are Plan Specific (max density set via Council Use Permit). No min lot area/FAR/lot-coverage figure given."
+    },
+    {
+      "zone_id": "az-mesa:dc", "zone_code": "DC", "zone_name": "Downtown Core",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-dc.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Sec. 11-8-6", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official source reached via Municode API and confirms the DC (Downtown Core) District sets NO fixed dimensional standards: per Sec. 11-8-6(A), minimum lot area, yard setbacks, maximum residential density, and building height all vary by project and are determined by the Planning & Zoning Board through site plan review. All numeric fields therefore correctly TBD per the official code (not for lack of data)."
+    },
+    {
+      "zone_id": "az-mesa:dr-1", "zone_code": "DR-1", "zone_name": "Downtown Residence District",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-dr-1.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 15, "side_setback_ft": 5, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-8-4", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). Min lot 6,000 sf (1 dwelling unit; DR-1 limited to 1 DU). Max height 30 ft. Front 15 ft; interior side 5 ft; street side 10 ft; rear 15 ft (1-story) / 20 ft (2-story). Max density NA in DR-1. Min open space 400 sf/DU. No FAR or lot-coverage figure; min lot width not listed in DR table."
+    },
+    {
+      "zone_id": "az-mesa:dr-2", "zone_code": "DR-2", "zone_name": "Downtown Residence District",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-dr-2.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": "TBD", "max_density_dua": 12, "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": 15, "side_setback_ft": 5, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-8-4", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 6,000 sf (1 DU); 11,000 sf (2 DU); 15,000 (3 DU); 18,000 (4+ DU). Max density 12 du/net acre. Max height 30 ft. Front 15 ft; street side 10 ft; rear 15 ft (1-story)/20 ft (2-story). Interior side is unit-count dependent (1-2 units 5 ft, 3+ units 15 ft); side_setback shown as the 1-unit figure (5 ft). Min open space 400/200 sf per DU."
+    },
+    {
+      "zone_id": "az-mesa:dr-3", "zone_code": "DR-3", "zone_name": "Downtown Residence District",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-dr-3.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": "TBD", "max_density_dua": 40, "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 40, "max_stories": "TBD",
+        "front_setback_ft": 10, "side_setback_ft": 10, "rear_setback_ft": 10, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-8-4", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min lot 6,000 sf (1 DU); 7,000 (2 DU); 11,000 (3 DU); 15,000 (4 DU); 18,000 (5+ DU). Max density 40 du/net acre. Max height 40 ft. Front 10 ft; interior side 10 ft (1-story) / 15 ft (2-story) / 20 ft (3-story); street side 10 ft; rear 10 ft (1-story) / 20 ft (2-3 story). Min open space 400/200 sf per DU."
+    },
+    {
+      "zone_id": "az-mesa:gc", "zone_code": "GC", "zone_name": "General Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-gc.md",
+      "standards": {
+        "min_lot_size_sf": 5000, "min_lot_width_ft": 50, "max_density_dua": 25, "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-6-3.A", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). GC = C-3. Min lot 5,000 sf; min lot width 50 ft; min lot depth 100 ft. Max lot coverage 80%; max height 30 ft. max_density_dua 25 = MAXIMUM RESIDENTIAL density (residential is CUP-only in GC). Front/street-side setbacks vary by street class (6/4-lane arterial 15 ft, major/midsection collector 15 ft, industrial/commercial collector 20 ft, local 20 ft, freeway 30 ft bldg). Interior side/rear depend on adjacent district (e.g., 25/50/75 ft by story adjacent to RS); hence setbacks TBD."
+    },
+    {
+      "zone_id": "az-mesa:gi", "zone_code": "GI", "zone_name": "General Industrial",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-gi.md",
+      "standards": {
+        "min_lot_size_sf": 43560, "min_lot_width_ft": 100, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 90, "max_height_ft": 50, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-7-3", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). Min SITE area 1.0 acre = 43,560 sf. Min lot width 100 ft; depth 100 ft. Max lot coverage 90%; max height 50 ft. Front/street-side vary by street class (arterial 15 ft, collectors 20 ft, local 20 ft, freeway 30 ft bldg). Interior side/rear: adjacent to AG/RS/RSL/RM = 1 ft per ft of bldg height, min 20 ft; adjacent to LI/GI/HI = 0 ft; hence setbacks TBD."
+    },
+    {
+      "zone_id": "az-mesa:hi", "zone_code": "HI", "zone_name": "Heavy Industrial",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-hi.md",
+      "standards": {
+        "min_lot_size_sf": 43560, "min_lot_width_ft": 100, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 90, "max_height_ft": 50, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-7-3", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. Min SITE area 1.0 acre = 43,560 sf. Min lot width 100 ft; depth 100 ft. Max lot coverage 90%; max height 50 ft. Setbacks same structure as GI (street-class for front/street-side; adjacency-based for interior side/rear); hence TBD."
+    },
+    {
+      "zone_id": "az-mesa:id-1", "zone_code": "ID-1", "zone_name": "Infill Development District",
+      "category": "special",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-id-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Sec. 11-12-4", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official source reached via Municode API. Per Sec. 11-12-4(A), ID-1 has NO independent dimensional standards: the standards of the underlying base zoning district apply unless specifically modified by City Council when the ID-1 district is approved. All numeric fields TBD per the official code by design (no fixed table exists)."
+    },
+    {
+      "zone_id": "az-mesa:id-2", "zone_code": "ID-2", "zone_name": "Infill Development District",
+      "category": "special",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-id-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Sec. 11-12-4", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official source reached via Municode API. Per Sec. 11-12-4(B), ID-2 development standards are established case-by-case through review and approval of an Infill Incentive Plan (IIP) under Sec. 11-12-5; no fixed dimensional table exists. All numeric fields TBD per the official code by design."
+    },
+    {
+      "zone_id": "az-mesa:lc", "zone_code": "LC", "zone_name": "Limited Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-lc.md",
+      "standards": {
+        "min_lot_size_sf": 10000, "min_lot_width_ft": 100, "max_density_dua": 25, "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-6-3.A", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). LC = C-2. Min lot 10,000 sf; min lot width 100 ft; depth 100 ft. Max lot coverage 80%; max height 30 ft. max_density_dua 25 = MAXIMUM RESIDENTIAL density (residential CUP-only). Setbacks vary by street class (front/street-side) and adjacency (interior side/rear); hence TBD."
+    },
+    {
+      "zone_id": "az-mesa:li", "zone_code": "LI", "zone_name": "Light Industrial",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-li.md",
+      "standards": {
+        "min_lot_size_sf": 43560, "min_lot_width_ft": 100, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 90, "max_height_ft": 40, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-7-3", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). Min SITE area 1.0 acre = 43,560 sf. Min lot width 100 ft; depth 100 ft. Max lot coverage 90%; max height 40 ft. Front/street-side vary by street class; interior side/rear adjacent to AG/RS/RSL/RM = 1 ft per ft of height (min 20 ft), adjacent to LI/GI/HI = 0 ft; hence setbacks TBD."
+    },
+    {
+      "zone_id": "az-mesa:mx", "zone_code": "MX", "zone_name": "Mixed Use",
+      "category": "mixed-use",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-mx.md",
+      "standards": {
+        "min_lot_size_sf": 5000, "min_lot_width_ft": 50, "max_density_dua": 25, "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 45, "max_stories": "TBD",
+        "front_setback_ft": 5, "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-6-3.B", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). IMPORTANT: in the current code, MX appears only with the -U character designator (MX-U) in Table 11-6-3.B; there is no separate plain 'MX' column. Values shown are the MX-U standards. Min lot 5,000 sf; min lot width 50 ft; depth 100 ft. Max lot coverage 80%; max height 45 ft. Front/street-side MINIMUM 5 ft (also a 25 ft MAXIMUM front/street-side yard applies). Interior side/rear depend on adjacency (RS: 15/25/35 ft by story; RM: 15 ft +10 ft/story) so side/rear TBD. Min residential density 15, max residential density 25 du/net acre (max_density_dua = 25; more possible by use permit). Human review recommended to confirm MX vs MX-U mapping."
+    },
+    {
+      "zone_id": "az-mesa:nc", "zone_code": "NC", "zone_name": "Neighborhood Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-nc.md",
+      "standards": {
+        "min_lot_size_sf": 5000, "min_lot_width_ft": 50, "max_density_dua": 15, "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-6-3.A", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). NC = C-1. Min lot 5,000 sf; min lot width 50 ft; depth 100 ft. Max lot coverage 80%; max height 30 ft. max_density_dua 15 = MAXIMUM RESIDENTIAL density (residential CUP-only). Setbacks vary by street class (front/street-side) and adjacency (interior side/rear: 25/50/75 ft by story adjacent to RS); hence TBD."
+    },
+    {
+      "zone_id": "az-mesa:oc", "zone_code": "OC", "zone_name": "Office Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-oc.md",
+      "standards": {
+        "min_lot_size_sf": 10000, "min_lot_width_ft": 100, "max_density_dua": 25, "max_far": "TBD",
+        "max_lot_coverage_pct": 80, "max_height_ft": 30, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-6-3.A", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). OC = O-S. Min lot 10,000 sf; min lot width 100 ft; depth 100 ft. Max lot coverage 80%; max height 30 ft. max_density_dua 25 = MAXIMUM RESIDENTIAL density (residential CUP-only). Setbacks vary by street class and adjacency; hence TBD."
+    },
+    {
+      "zone_id": "az-mesa:pc", "zone_code": "PC", "zone_name": "Planned Community District",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-pc.md",
+      "standards": {
+        "min_lot_size_sf": 6969600, "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Sec. 11-11-2", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API. PC has no per-lot dimensional table; all density/FAR/height/setback standards are set project-by-project via the adopted Community Plan and its land-use budget (Sec. 11-11-2). The only fixed dimensional figure is the DISTRICT minimum area of 160 contiguous acres = 6,969,600 sf (160 x 43,560), recorded here in min_lot_size_sf as the district minimum area, NOT a per-lot minimum. All other fields TBD by design. Human review advised given the non-standard meaning of min_lot_size_sf for PC."
+    },
+    {
+      "zone_id": "az-mesa:pep", "zone_code": "PEP", "zone_name": "Planned Employment Park",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-pep.md",
+      "standards": {
+        "min_lot_size_sf": 108900, "min_lot_width_ft": 100, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 90, "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-7-3", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). Min SITE area 2.5 acres = 108,900 sf (2.5 x 43,560); smaller lots allowed for master-planned development with shared parking. Min lot width 100 ft; depth 100 ft. Max lot coverage 90%. Max height is 'Plan Specific' in the PEP column (hence TBD). Front/street-side setbacks vary by street class; interior/rear setbacks adjacent to LI/GI/HI are 'Plan Specific', adjacent to residential = 1 ft per ft of height (min 20 ft); hence setbacks TBD."
+    },
+    {
+      "zone_id": "az-mesa:ps", "zone_code": "PS", "zone_name": "Public and Semi-Public District",
+      "category": "special",
+      "note_path": "20-jurisdictions/arizona/cities/mesa/zones/zone-ps.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 60, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted",
+      "source_doc": "az-mesa-zoning", "source_citation": "Table 11-10-3", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "", "notes": "Official via Municode API (prior draft all TBD). Minimum site area: None. Max height is conditional: 30 ft within 60 ft of RS/RSL/DR-1, otherwise 60 ft (max_height_ft set to the general 60 ft figure). Front/street-side yards vary by adjacent street class (6-lane arterial 30 ft, 4-lane 20 ft, major/midsection collector 25 ft, industrial/commercial collector 20 ft, local 20 ft, freeway 30 ft). Interior side/rear depend on adjacency (RS: 20 ft / 25 ft if site >=5 ac; RM: 20 ft single-story, 15 ft/story; non-residential 15 ft/story); hence setbacks TBD. No lot area/width, density, FAR, or lot-coverage figures in the PS table."
+    }
+  ]
+}

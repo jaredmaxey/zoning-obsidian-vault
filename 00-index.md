@@ -49,7 +49,15 @@ A dual-purpose, AI-readable knowledge base: a **commercial real estate developme
 - [[Parking Ratios by Use]] — cross-jurisdictional parking lookup *(verification worklist)*.
 - [[Unit Conversions]] — acres↔SF, density math *(stub)*.
 
-## 4. Meta
+## 4. Structured Data Layer
+
+[[Structured Data Layer]] (`40-data/`) — the machine-first CSV + JSON counterpart to the markdown.
+
+- `jurisdictions.csv` · `source_registry.csv` — the 26 Maricopa jurisdictions and their official primary-source documents.
+- `zones/{jurisdiction}.json` — canonical per-zone dimensional standards (with citations + provenance); `zoning_standards.csv` is the flat cross-jurisdiction projection.
+- Numbers flow from here into each zone/overview note's generated tables via `40-data/_tools/sync.py`. See [[Vault Conventions]] §9.
+
+## 5. Meta
 
 - **`CLAUDE.md`** — the AI handoff document (read first if you are an AI session).
 - [[Vault Conventions]] — naming, frontmatter, tagging, sourcing, status rules (the source of truth).

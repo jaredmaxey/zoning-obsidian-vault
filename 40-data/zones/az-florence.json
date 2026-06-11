@@ -1,0 +1,710 @@
+{
+  "jurisdiction_id": "az-florence",
+  "jurisdiction_name": "Town of Florence",
+  "default_source_doc": "az-florence-zoning",
+  "zones": [
+    {
+      "zone_id": "az-florence:ra-10",
+      "zone_code": "RA-10",
+      "zone_name": "Rural Agricultural (RA-10)",
+      "category": "agricultural",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 435600,
+        "min_lot_width_ft": 200,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 50,
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.048",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 10 acres (435,600 sf). Min Lot Depth 200 ft. Min Site Area N/A. Street-side setback 50 ft. Permitted/conditional uses governed by use-regulation table in § 150.047(A); table not enumerated here."
+    },
+    {
+      "zone_id": "az-florence:ra-4",
+      "zone_code": "RA-4",
+      "zone_name": "Rural Agricultural (RA-4)",
+      "category": "agricultural",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 174240,
+        "min_lot_width_ft": 150,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 40,
+        "side_setback_ft": 20,
+        "rear_setback_ft": 40,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.049",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 4 acres (174,240 sf). Min Lot Depth 150 ft. Min Site Area N/A. Street-side setback 40 ft. Permitted/conditional uses governed by use-regulation table in § 150.047(A); table not enumerated here."
+    },
+    {
+      "zone_id": "az-florence:r1-r",
+      "zone_code": "R1-R",
+      "zone_name": "Single-Residential Ranchette (R1-R)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 54450,
+        "min_lot_width_ft": 100,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 30,
+        "side_setback_ft": 25,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Accessory buildings and uses, including private swimming pool, home occupation and model home",
+          "Dwelling, single-family",
+          "Farm animals (no more than three hoofed animals per acre)",
+          "Park, playground and community owned buildings"
+        ],
+        "conditional": [
+          "Agricultural buildings and structures",
+          "Bed and breakfast",
+          "Boarding and/or lodging house",
+          "Church",
+          "Convent",
+          "Golf course (with conditions)",
+          "Guesthouse, detached",
+          "Manufactured home",
+          "Model home complex and/or sales office",
+          "Private club, fraternity, sorority and lodge",
+          "Public institutional buildings (hospitals, fire stations, police stations, YMCA, Boys and Girls Club)",
+          "Public or private school",
+          "Public utility facilities",
+          "Ranch, non-commercial",
+          "Recreation fields, public or private",
+          "Recreation buildings, public or private",
+          "Stable (commercial), with conditions",
+          "Temporary buildings used for the sale of homes and lots"
+        ],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.050",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 1-1/4 acres (54,450 sf). Min Lot Depth 150 ft. Min Site Area N/A. Street-side setback 20 ft. Side setback shown is Interior Side (25 ft); Street Side 20 ft."
+    },
+    {
+      "zone_id": "az-florence:rres",
+      "zone_code": "RRES",
+      "zone_name": "Rural Residential Equestrian Subdivision (RRES)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 42000,
+        "min_lot_width_ft": 60,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "One dwelling unit per lot (manufactured home replacement or site-built single-family dwelling)",
+          "Accessory buildings and uses, including private swimming pools and home occupations",
+          "Agricultural animals (subject to conditions)",
+          "Community or recreational facilities for the subdivision/community association",
+          "Common facility service buildings"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.051",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Principal-structure setbacks shown. Min Lot Area 42,000 sf. Min Site Area 10 acres. Min Lot Depth 100 ft. Street-side setback 10 ft. Accessory-structure setbacks differ (Front 60, sides 10, rear 10; accessory max height 20 ft). Additional conditional uses governed by Table 150.047(A); not enumerated."
+    },
+    {
+      "zone_id": "az-florence:r1-18",
+      "zone_code": "R1-18",
+      "zone_name": "Single-Family Residential (R1-18)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 18000,
+        "min_lot_width_ft": 65,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 5,
+        "rear_setback_ft": 12,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Dwelling, single-family",
+          "Accessory buildings and uses, including private swimming pool, home occupation and model home",
+          "Park, playground and community owned buildings",
+          "Public institutional buildings"
+        ],
+        "conditional": [
+          "Church",
+          "Convent",
+          "Golf course (with conditions)",
+          "Model home complex",
+          "Public or private recreation fields and recreation buildings",
+          "Temporary buildings used for the sale of homes or lots"
+        ],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.052",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Interior Side setback stated as '13 total feet, 5 feet minimum'; side_setback_ft records the 5 ft minimum. Min Lot Area 18,000 sf. Min Lot Depth 110 ft. Min Site Area N/A. Street-side setback 15 ft."
+    },
+    {
+      "zone_id": "az-florence:r1-6",
+      "zone_code": "R1-6",
+      "zone_name": "Single-Family Residential (R1-6)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 6000,
+        "min_lot_width_ft": 45,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 12,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Dwelling, single-family",
+          "Accessory buildings and uses, including private swimming pools and home occupations",
+          "Park, playground and community owned buildings"
+        ],
+        "conditional": [
+          "Church",
+          "Convent",
+          "Golf course (with conditions)",
+          "Model home complex",
+          "Public institutional buildings",
+          "Public or private school",
+          "Public utility facilities",
+          "Temporary buildings used for the sale of homes and/or lots"
+        ],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.053",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 6,000 sf. Min Lot Depth 100 ft. Min Site Area N/A. Street-side setback 12 ft (same as Interior Side)."
+    },
+    {
+      "zone_id": "az-florence:r-2",
+      "zone_code": "R-2",
+      "zone_name": "Neighborhood Multi-Family (R-2)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 4500,
+        "min_lot_width_ft": 75,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 12,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Accessory buildings and uses, including private swimming pools and home occupations",
+          "Dwelling, single-family",
+          "Duplex, triplex, condominium and town homes"
+        ],
+        "conditional": [
+          "Boarding or lodging house",
+          "Convent",
+          "Golf course (with conditions)",
+          "Group home",
+          "Model home complex and/or sales office",
+          "Public institutional buildings",
+          "Public or private school",
+          "Public utility facilities",
+          "Temporary buildings used for the sale of homes and/or lots"
+        ],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.054",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 4,500 sf per unit. Min Site Area 3 acres. Min Lot Depth 120 ft. Interior Side setback 12 ft (between structures). Street-side setback 15 ft."
+    },
+    {
+      "zone_id": "az-florence:mfr",
+      "zone_code": "MFR",
+      "zone_name": "Multiple-Family Residential (MFR)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 3000,
+        "min_lot_width_ft": 90,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 35,
+        "max_stories": "TBD",
+        "front_setback_ft": 40,
+        "side_setback_ft": 20,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Multiple unit dwellings including apartments, condominiums and town home housing",
+          "Accessory buildings and uses, including recreation building, private swimming pools and home occupations",
+          "Boardinghouse or lodging house",
+          "Convent",
+          "Daycare center and/or nursery",
+          "Home for the aged or nursing home",
+          "Orphanage",
+          "Park, playground and community owned buildings",
+          "Private lake, semi-public lake, swimming pools and tennis courts"
+        ],
+        "conditional": [
+          "Private club, fraternity, sorority and lodges",
+          "School, public or private (no housing/sleeping rooms)",
+          "Church",
+          "Golf course",
+          "Nursing homes and convalescent homes",
+          "Public utility facilities",
+          "Community buildings or recreational fields not publicly owned",
+          "Public or institutional buildings (hospitals, fire stations, police stations, YMCA, Boys and Girls Club)"
+        ],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.055",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 3,000 sf per unit (all other uses minimum 10,000 sf lot area). Min Site Area N/A. Min Lot Depth 120 ft. Interior Side setback 20 ft (between structures). Street-side setback 25 ft."
+    },
+    {
+      "zone_id": "az-florence:mhs",
+      "zone_code": "MHS",
+      "zone_name": "Manufactured Home Subdivision (MHS)",
+      "category": "residential",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 4000,
+        "min_lot_width_ft": 40,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 10,
+        "side_setback_ft": 5,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "One manufactured home (no more than five years old) per approved lot",
+          "Accessory buildings and uses, including private swimming pools and home occupations",
+          "Community or recreational facilities",
+          "Common facility service buildings",
+          "One dwelling unit for manager, caretaker and/or watchperson"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.056",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Lot Area 4,000 sf. Min Site Area 8 acres. Min Lot Depth 100 ft. Street-side setback 10 ft. Conditional uses: Reserved."
+    },
+    {
+      "zone_id": "az-florence:b-1",
+      "zone_code": "B-1",
+      "zone_name": "Neighborhood Business (B-1)",
+      "category": "commercial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": 50,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 35,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.057",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Min Site Area N/A; Min Lot Area N/A (TBD). Min Lot Depth 75 ft. Street-side setback 12 ft. Uses not enumerated within this section."
+    },
+    {
+      "zone_id": "az-florence:no",
+      "zone_code": "NO",
+      "zone_name": "Neighborhood Office (NO)",
+      "category": "commercial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": 50,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 6,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.058",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Front setback 20 ft from all streets (front 10 ft maintained as open space). Interior Side setback 6 ft (unless lesser yard legally established). Street-side setback 10 ft. Min Site Area / Min Lot Area N/A (TBD). Min Lot Depth 50 ft."
+    },
+    {
+      "zone_id": "az-florence:dc",
+      "zone_code": "DC",
+      "zone_name": "Downtown Commercial (DC)",
+      "category": "downtown",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 35,
+        "max_stories": "TBD",
+        "front_setback_ft": 0,
+        "side_setback_ft": 0,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Personal and household services (clothing alteration, shoe repair, beauty/barber shops, jewelry/watch repair, bank, credit union, travel agency, launderette, dry cleaners without processing)",
+          "Specialty retail uses (gift shops, stationery/card stores, clothing stores, bicycle shop, bookstores, art supply, florists, bakery, photo shop, copy/printing, photo studios, delicatessen, coffee house, candy shop, billiards parlor, movie theater, neighborhood grocery, sporting goods, ice cream shop)",
+          "Art studios (above first floor or behind commercial frontage)",
+          "Art galleries, antiques, crafts, consignment and collectibles sales",
+          "Restaurants, cafeterias, taverns, liquor store and ancillary outdoor dining",
+          "Hotels and bed and breakfasts",
+          "Residential units (location-restricted relative to Main Street frontage)",
+          "Professional and administrative offices",
+          "Private club or lodge under 5,000 sf"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.059",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Setbacks recorded are Commercial land use (Front 0, Side 0, Street Side 0, Rear 10). Residential land use setbacks are all 0 ft. Zero lot line encouraged. Max Height 35 ft from grade. Min Site Area / Min Lot Area / Min Lot Width / Min Lot Depth all N/A (TBD). Additional conditional uses governed by Table 150.047(B); not enumerated."
+    },
+    {
+      "zone_id": "az-florence:b-2",
+      "zone_code": "B-2",
+      "zone_name": "Highway Business Commercial (B-2)",
+      "category": "commercial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": 60,
+        "max_height_ft": 40,
+        "max_stories": 3,
+        "front_setback_ft": 25,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.060",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Lot coverage 60%. Front setback 25 ft (front 10 ft maintained as open space). Side 10 ft; Street Side 20 ft; Rear 10 ft. Max Height 3 stories and/or 40 ft; up to 50 ft with conditional use permit. Min Site Area / Min Lot Area / Min Lot Width / Min Lot Depth N/A (TBD)."
+    },
+    {
+      "zone_id": "az-florence:trc",
+      "zone_code": "TRC",
+      "zone_name": "Tourist Commercial (TRC)",
+      "category": "commercial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 21780,
+        "min_lot_width_ft": 200,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": 60,
+        "max_height_ft": 35,
+        "max_stories": 2,
+        "front_setback_ft": 20,
+        "side_setback_ft": 20,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.061",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Lot coverage 60%. Min Lot Area 1/2 acre (21,780 sf). Min Site Area 5 acres. Min Lot Depth 100 ft. Front 20 ft (front 10 ft open space). Side 20 ft / 0 ft if alleyway. Street Side 20 ft / 10 ft if alleyway. Rear 20 ft. Max Height 2 stories / 35 ft."
+    },
+    {
+      "zone_id": "az-florence:po",
+      "zone_code": "PO",
+      "zone_name": "Professional Office (PO)",
+      "category": "commercial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": 21780,
+        "min_lot_width_ft": 200,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": 60,
+        "max_height_ft": 35,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [
+          "Park, playground and community owned buildings",
+          "Public utility buildings, structures or appurtenances",
+          "Public or institutional buildings (hospitals, fire stations, police stations, YMCA, Boys and Girls Club)",
+          "Daycare center and/or nursery"
+        ],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.062",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Lot coverage 60%. Min Lot Area 1/2 acre (21,780 sf). Min Site Area 4 acres. Min Lot Depth 100 ft. Front 20 ft (front 10 ft open space). Side 10 ft / 0 ft if alleyway. Street Side 20 ft / 10 ft if alleyway. Rear 10 ft. Permitted-use list partly governed by use tables; permitted array left empty (not fully enumerable from prose)."
+    },
+    {
+      "zone_id": "az-florence:pi",
+      "zone_code": "PI",
+      "zone_name": "Public/Institutional (P/I)",
+      "category": "special",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 20,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.063",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Setbacks Front 20 / Side 20 / Street Side 20 / Rear 20 ft. Lot Coverage N/A. Min Site Area, Min Lot Area, Min Lot Width, Min Lot Depth, Max Height all N/A (TBD). Code zone code rendered as 'PI' in § 150.045 list and 'P/I' in the standards table."
+    },
+    {
+      "zone_id": "az-florence:li",
+      "zone_code": "LI",
+      "zone_name": "Light Industrial (LI)",
+      "category": "industrial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": 200,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 60,
+        "max_stories": "TBD",
+        "front_setback_ft": 50,
+        "side_setback_ft": 25,
+        "rear_setback_ft": 25,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.064",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Front 50 ft (50 ft maintained as open space). Side 25 ft / 0 ft if alleyway. Street Side 50 ft / 20 ft if alleyway. Rear 25 ft. Lot Coverage N/A. Min Site Area 5 acres. Min Lot Area N/A. Min Lot Depth 200 ft. Max Height 60 ft (note text 'up to 50 ft with CUP' appears inconsistent with 60 ft base; recorded base as 60 ft per table)."
+    },
+    {
+      "zone_id": "az-florence:hi",
+      "zone_code": "HI",
+      "zone_name": "Heavy Industrial (HI)",
+      "category": "industrial",
+      "note_path": "",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": 200,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 60,
+        "max_stories": "TBD",
+        "front_setback_ft": 50,
+        "side_setback_ft": 25,
+        "rear_setback_ft": 25,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-florence-zoning",
+      "source_citation": "§ 150.065",
+      "source_page": null,
+      "extracted_date": "2026-06-07",
+      "human_verified": "",
+      "notes": "Front 50 ft (50 ft maintained as open space). Side 25 ft. Street Side 50 ft. Rear 25 ft. Lot Coverage N/A. Min Site Area 10 acres. Min Lot Area N/A. Min Lot Depth 200 ft. Max Height 60 ft; up to 50 ft additional with conditional use permit per note."
+    }
+  ]
+}

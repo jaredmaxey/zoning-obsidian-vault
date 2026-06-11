@@ -1,0 +1,1369 @@
+{
+  "jurisdiction_id": "az-scottsdale",
+  "jurisdiction_name": "City of Scottsdale",
+  "default_source_doc": "az-scottsdale-zoning",
+  "zones": [
+    {
+      "zone_id": "az-scottsdale:r1-190",
+      "zone_code": "R1-190",
+      "zone_name": "Single-family Residential—190,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-190.md",
+      "standards": {
+        "min_lot_size_sf": 190000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 60,
+        "side_setback_ft": 30,
+        "rear_setback_ft": 60,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.014",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-190.md, which cites Scottsdale ZO §5.014 but was flagged UNVERIFIED; re-verify against official §5.014. 1 du/lot per §5.014.C (density not expressed as DUA). FAR/lot-coverage/lot-width not specified in the note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-130",
+      "zone_code": "R1-130",
+      "zone_name": "Single-family Residential—130,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-130.md",
+      "standards": {
+        "min_lot_size_sf": 130000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 60,
+        "side_setback_ft": 30,
+        "rear_setback_ft": 60,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.024",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-130.md citing Scottsdale ZO §5.024 (flagged UNVERIFIED); re-verify against official §5.024. 1 du/lot per §5.024.C. FAR/lot-coverage/lot-width not specified in note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-70",
+      "zone_code": "R1-70",
+      "zone_name": "Single-family Residential—70,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-70.md",
+      "standards": {
+        "min_lot_size_sf": 70000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 60,
+        "side_setback_ft": 30,
+        "rear_setback_ft": 60,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.034",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-70.md citing Scottsdale ZO §5.034 (flagged UNVERIFIED); re-verify against official §5.034. 1 du/lot per §5.034.C. FAR/lot-coverage/lot-width not specified in note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-43",
+      "zone_code": "R1-43",
+      "zone_name": "Single-family Residential—43,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-43.md",
+      "standards": {
+        "min_lot_size_sf": 43000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 40,
+        "side_setback_ft": 20,
+        "rear_setback_ft": 35,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.104",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-43.md citing Scottsdale ZO §5.104 (flagged UNVERIFIED); re-verify against official §5.104. 1 du/lot per §5.104.C. FAR/lot-coverage/lot-width not specified in note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-35",
+      "zone_code": "R1-35",
+      "zone_name": "Single-family Residential—35,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-35.md",
+      "standards": {
+        "min_lot_size_sf": 35000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 40,
+        "side_setback_ft": 15,
+        "rear_setback_ft": 35,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.204",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-35.md citing Scottsdale ZO §5.204 (flagged UNVERIFIED); re-verify against official §5.204. 1 du/lot per §5.204.C. FAR/lot-coverage/lot-width not specified in note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-18",
+      "zone_code": "R1-18",
+      "zone_name": "Single-family Residential—18,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-18.md",
+      "standards": {
+        "min_lot_size_sf": 18000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 35,
+        "side_setback_ft": 10,
+        "rear_setback_ft": 30,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.304",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-18.md citing Scottsdale ZO §5.304 (flagged UNVERIFIED); re-verify against official §5.304. 1 du/lot per §5.304.C. FAR/lot-coverage/lot-width not specified in note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-10",
+      "zone_code": "R1-10",
+      "zone_name": "Single-family Residential—10,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-10.md",
+      "standards": {
+        "min_lot_size_sf": 10000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 30,
+        "side_setback_ft": 7,
+        "rear_setback_ft": 25,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.404",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-10.md citing Scottsdale ZO §5.404 (flagged UNVERIFIED); re-verify against official §5.404. 1 du/lot per §5.404.C. FAR/lot-coverage/lot-width not specified in note."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-7",
+      "zone_code": "R1-7",
+      "zone_name": "Single-family Residential—7,000 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-7.md",
+      "standards": {
+        "min_lot_size_sf": 7000,
+        "min_lot_width_ft": 70,
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 5,
+        "rear_setback_ft": 25,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory dwelling unit / guest house",
+          "Accessory structures",
+          "Home occupation (limited)"
+        ],
+        "conditional": [
+          "Place of worship",
+          "School"
+        ],
+        "prohibited": [
+          "Commercial uses",
+          "Multi-family residential"
+        ]
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.504",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-7.md citing Scottsdale ZO §5.504 (flagged UNVERIFIED). A web-search snippet of the Municode/elaws §5.504 text corroborated min lot 7,000 sf, lot width 70 ft, height 30 ft, front 20 ft, 1 du/lot — but this was an indexed snippet, not a direct official fetch, so provenance kept as secondary-mirror; re-verify against official §5.504. Rear 25 ft (22 ft if 8-ft alley dedication per note). FAR not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:r1-5",
+      "zone_code": "R1-5",
+      "zone_name": "Single-family Residential—4,700 square feet per lot",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r1-5.md",
+      "standards": {
+        "min_lot_size_sf": 4700,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 15,
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": 15,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.554",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r1-5.md citing Scottsdale ZO §5.554 (flagged UNVERIFIED); re-verify against official §5.554. NOTE: despite the R1-5 label, min lot is 4,700 sf (not 5,000) per the note and corroborated by Zoneomics zone roster. Side setback in note is '0 or 5 (aggregate 10)' — non-scalar, set to TBD; aggregate side ~10 ft. 1 du/lot per §5.554.C. FAR/lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:r-2",
+      "zone_code": "R-2",
+      "zone_name": "Two-family Residential",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r-2.md",
+      "standards": {
+        "min_lot_size_sf": 8000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 5,
+        "rear_setback_ft": 30,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family detached dwelling",
+          "Duplex / two-family dwelling",
+          "Accessory structures",
+          "Home occupations (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.604",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r-2.md citing Scottsdale ZO §5.604 (flagged UNVERIFIED); re-verify against official §5.604. Density per §5.604.C: 1 du/lot SF, 2 du/lot duplex (not expressed as DUA). Side 5 ft each, aggregate 14 ft per note. FAR/lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:r-3",
+      "zone_code": "R-3",
+      "zone_name": "Medium Density Residential",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r-3.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 12.9,
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 15,
+        "rear_setback_ft": 15,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Multi-family apartments",
+          "Townhouses",
+          "Single-family dwelling",
+          "Duplex",
+          "Accessory structures"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.704",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r-3.md citing Scottsdale ZO §5.704 (flagged UNVERIFIED); re-verify against official §5.704. max_density 12.9 DUA is the note's approximation derived from min 3,370 sf gross/du per §5.704.C — re-verify the controlling sf-per-du figure rather than the DUA. Side/rear 15 ft apply only adjacent to R-1/R-4/R-4R/M-H (buffer yard); front 'n/a (buffer yard)' set TBD. Min lot/FAR not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:r-4",
+      "zone_code": "R-4",
+      "zone_name": "Townhouse Residential",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r-4.md",
+      "standards": {
+        "min_lot_size_sf": 8000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 8.3,
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 15,
+        "side_setback_ft": 15,
+        "rear_setback_ft": 15,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Townhouses / attached dwellings",
+          "Single-family dwelling",
+          "Duplex",
+          "Accessory structures"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.804",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r-4.md citing Scottsdale ZO §5.804 (flagged UNVERIFIED); re-verify against official §5.804. max_density 8.3 DUA is note's approximation from 1 du/5,240 sf gross per §5.804.C — re-verify the sf-per-du figure. Front is 'avg 20 (min 15)' per note; min 15 used here. Side/rear 15 ft apply adjacent to R-1/R-4R/M-H. FAR/lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:r-4r",
+      "zone_code": "R-4R",
+      "zone_name": "Resort/Townhouse Residential",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r-4r.md",
+      "standards": {
+        "min_lot_size_sf": 326700,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 7.5,
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 35,
+        "max_stories": "TBD",
+        "front_setback_ft": 100,
+        "side_setback_ft": 30,
+        "rear_setback_ft": 30,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Townhouses / attached dwellings",
+          "Resort hotel (limited)",
+          "Accessory resort amenities",
+          "Single-family dwelling"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.904",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r-4r.md citing Scottsdale ZO §5.904 (flagged UNVERIFIED); re-verify against official §5.904. min_lot_size = 7.5 acres x 43,560 = 326,700 sf (acres-to-sf conversion of note's '7.5 acres min site'). max_density 7.5 DUA is note's approximation from 1 du/5,770 sf gross per §5.904.C (plus 1 guest room/4,100 sf) — re-verify. Front 100 ft from street ROW; side/rear 30 ft perimeter (20 ft from non-SF). FAR not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:r-5",
+      "zone_code": "R-5",
+      "zone_name": "Multiple-family Residential",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-r-5.md",
+      "standards": {
+        "min_lot_size_sf": 35000,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 23,
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 15,
+        "rear_setback_ft": 15,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Multi-family apartments",
+          "Condominiums",
+          "Townhouses",
+          "Single-family dwelling",
+          "Duplex",
+          "Accessory structures"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1004",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-r-5.md citing Scottsdale ZO §5.1004 (flagged UNVERIFIED); re-verify against official §5.1004. max_density 23 DUA is the note's stated maximum from the §5.1004.C density table. Front 'n/a (no general front yard)' set TBD; side/rear 15 ft apply adjacent to listed residential districts. FAR/lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:s-r",
+      "zone_code": "S-R",
+      "zone_name": "Service-Residential",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-s-r.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 12,
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 18,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Single-family dwelling",
+          "Limited service commercial uses",
+          "Professional offices",
+          "Personal services"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1103",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-s-r.md citing Scottsdale ZO §5.1103 (flagged UNVERIFIED); re-verify against official §5.1103. max_density 12 DUA per §5.1103.C. Note states no general front/side/rear yard (10 ft between buildings); setbacks set TBD. Min lot/FAR not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:m-h",
+      "zone_code": "M-H",
+      "zone_name": "Manufactured Home",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-m-h.md",
+      "standards": {
+        "min_lot_size_sf": 435600,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 6.2,
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 16,
+        "side_setback_ft": 5,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Manufactured homes on individual lots",
+          "Mobile home parks / manufactured home communities",
+          "Accessory structures"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.2004",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-m-h.md citing Scottsdale ZO §5.2004 (flagged UNVERIFIED); re-verify against official §5.2004. min_lot_size = 10 acres min park site x 43,560 = 435,600 sf (acres-to-sf conversion; this is a min PARK site, not a per-home lot). max_density 6.2 DUA is note's approximation from 1 MH/7,000 sf park area per §5.2004.C. Side 5 ft each, aggregate 10 per note. FAR/lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:c-1",
+      "zone_code": "C-1",
+      "zone_name": "Neighborhood Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-c-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Retail trade (neighborhood-serving)",
+          "Personal services",
+          "Restaurant / cafe (no drive-through)",
+          "Professional / medical office",
+          "Financial services / bank"
+        ],
+        "conditional": [
+          "Drive-through (fast food, etc.)"
+        ],
+        "prohibited": [
+          "Auto-related commercial",
+          "Industrial / warehousing",
+          "Adult uses"
+        ]
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1304",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-c-1.md citing Scottsdale ZO §5.1304 (flagged UNVERIFIED); re-verify against official §5.1304. FAR 0.80 per §5.1304.C; height 36 ft per §5.1304.D. Side/rear 50 ft used (yard adjacent to single-family residential); 25 ft adjacent to multi-family. Front 'match adjacent SF setback if within 100 ft of SF residential' (conditional) set TBD. Lot-coverage controlled instead by 0.10 open-space ratio per §5.1304.F; min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:c-2",
+      "zone_code": "C-2",
+      "zone_name": "Central Business",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-c-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Retail trade (general)",
+          "Restaurant and entertainment",
+          "Office",
+          "Hotel",
+          "Personal services",
+          "Financial services"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1404",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-c-2.md citing Scottsdale ZO §5.1404 (flagged UNVERIFIED); re-verify against official §5.1404. FAR 0.80, height 36 ft. Side/rear 50 ft from SF (25 ft from MF). Front 'no general front yard' set TBD. Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:c-3",
+      "zone_code": "C-3",
+      "zone_name": "Highway Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-c-3.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Auto-oriented retail",
+          "Hotels / motels",
+          "Restaurants (including drive-through)",
+          "Service stations",
+          "General retail",
+          "Car dealerships"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1504",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-c-3.md citing Scottsdale ZO §5.1504 (flagged UNVERIFIED); re-verify against official §5.1504. FAR 0.80, height 36 ft. Side/rear 50 ft from SF (25 ft from MF). Front 'no general front yard' set TBD. Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:c-4",
+      "zone_code": "C-4",
+      "zone_name": "General Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-c-4.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "General retail",
+          "Office",
+          "Restaurant",
+          "Hotel",
+          "Personal services",
+          "Light commercial services",
+          "Wholesale (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1604",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-c-4.md citing Scottsdale ZO §5.1604 (flagged UNVERIFIED); re-verify against official §5.1604. FAR 0.80, height 36 ft. Side/rear 50 ft from SF (25 ft from MF). Front 'no general front yard' set TBD. Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:c-s",
+      "zone_code": "C-S",
+      "zone_name": "Regional Shopping Center",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-c-s.md",
+      "standards": {
+        "min_lot_size_sf": 435600,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": 25,
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Large-format retail / anchor department store",
+          "Shopping mall",
+          "Restaurant",
+          "Entertainment",
+          "Cinema",
+          "Financial services",
+          "Personal services"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1204",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-c-s.md citing Scottsdale ZO §5.1204 (flagged UNVERIFIED); re-verify against official §5.1204. min_lot_size = 10 acres min gross x 43,560 = 435,600 sf (acres-to-sf conversion per §5.1204.A). FAR 0.80, height 36 ft. Front 25 ft; side/rear 50 ft from residential. Lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:c-o",
+      "zone_code": "C-O",
+      "zone_name": "Commercial Office",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-c-o.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 48,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Professional office",
+          "Medical / dental office",
+          "Corporate campus",
+          "Financial services",
+          "Accessory retail (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.2204",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-c-o.md citing Scottsdale ZO §5.2204 (flagged UNVERIFIED); re-verify against official §5.2204. FAR 0.80, height 48 ft. Side/rear 50 ft from SF (25 ft from other residential). Front 'no general front yard' set TBD. Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:s-s",
+      "zone_code": "S-S",
+      "zone_name": "Support Services",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-s-s.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Light industrial / manufacturing",
+          "Warehousing (limited)",
+          "Contractor yards / equipment storage",
+          "Commercial services",
+          "Wholesale trade"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1704",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-s-s.md citing Scottsdale ZO §5.1704 (flagged UNVERIFIED); re-verify against official §5.1704. FAR 0.80, height 36 ft, front 20 ft. Side/rear not specified in note (TBD). Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:i-1",
+      "zone_code": "I-1",
+      "zone_name": "Industrial Park",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-i-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.8,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 52,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 30,
+        "rear_setback_ft": 30,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Light manufacturing",
+          "Research and development",
+          "Office-industrial flex",
+          "Warehousing / distribution",
+          "Data centers",
+          "Clean tech / biotech"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1804",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-i-1.md citing Scottsdale ZO §5.1804 (flagged UNVERIFIED); re-verify against official §5.1804. FAR 0.80, height 52 ft, front 20 ft. Side/rear 30 ft apply from residential. Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:i-g",
+      "zone_code": "I-G",
+      "zone_name": "Light Employment",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-i-g.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.6,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 30,
+        "max_stories": "TBD",
+        "front_setback_ft": 20,
+        "side_setback_ft": 50,
+        "rear_setback_ft": 50,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Office",
+          "Research and development",
+          "Light industrial / flex",
+          "Business services",
+          "Warehousing (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.1904",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-i-g.md citing Scottsdale ZO §5.1904 (flagged UNVERIFIED); re-verify against official §5.1904. FAR 0.60, height 30 ft, front 20 ft. Side/rear 50 ft from SF (25 ft from other residential). Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:d",
+      "zone_code": "D",
+      "zone_name": "Downtown",
+      "category": "downtown",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-d.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 50,
+        "max_far": 2.0,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 84,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 10,
+        "rear_setback_ft": 10,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Retail trade",
+          "Restaurant and entertainment",
+          "Office",
+          "Hotel / resort",
+          "Multi-family residential (upper floors)",
+          "Cultural / civic uses"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.3006",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-d.md citing Scottsdale ZO §5.3006 (flagged UNVERIFIED); re-verify against official §5.3006. Height VARIES by development type (Type 1: 40/48 ft; Type 2/2.5: 66 ft; Type 3: 84 ft); 84 ft recorded as the max but height is not a single value — re-verify by type. max_far 2.0 is the maximum-with-bonuses GFAR (base 1.3); max_density 50 DUA per §5.3006.C. Side/rear 10 ft apply from SF residential; front varies by street type (TBD). Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:w-p",
+      "zone_code": "W-P",
+      "zone_name": "Western Theme Park",
+      "category": "special",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-w-p.md",
+      "standards": {
+        "min_lot_size_sf": 6969600,
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": 0.08,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 36,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 300,
+        "rear_setback_ft": 300,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Western-themed entertainment park",
+          "Resort hotel (associated)",
+          "Retail (theme-park scale)",
+          "Restaurant and food service"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.2805",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-w-p.md citing Scottsdale ZO §5.2805 (flagged UNVERIFIED); re-verify against official §5.2805. min_lot_size = 160 acres min site x 43,560 = 6,969,600 sf (acres-to-sf conversion per §5.2805.A). FAR 0.08, height 36 ft. Side/rear 300 ft from SF/MF residential. Front 'no general front yard' set TBD. Lot-width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:p-c",
+      "zone_code": "P-C",
+      "zone_name": "Planned Community",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-p-c.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Residential (all types)",
+          "Commercial (as approved)",
+          "Office (as approved)",
+          "Civic / institutional (as approved)",
+          "Open space / recreation"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-p-c.md states all dimensional standards are 'established per approved development plan/stipulations' — no fixed base-zone standards exist for this planned district, hence all TBD. No specific section cited in note. Confirm in the ZO Article V planned-district provisions whether any floor/ceiling standards apply."
+    },
+    {
+      "zone_id": "az-scottsdale:pud",
+      "zone_code": "PUD",
+      "zone_name": "Planned Unit Development",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-pud.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Residential (as approved)",
+          "Commercial (as approved)",
+          "Office (as approved)",
+          "Mixed-use (as approved)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-pud.md states all dimensional standards are 'established per approved development plan/stipulations' — no fixed base-zone standards, hence all TBD. No specific section cited in note."
+    },
+    {
+      "zone_id": "az-scottsdale:pnc",
+      "zone_code": "PNC",
+      "zone_name": "Planned Neighborhood Center",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-pnc.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Grocery / supermarket anchor",
+          "Retail trade (neighborhood)",
+          "Personal services",
+          "Restaurant",
+          "Financial services"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-pnc.md states all dimensional standards 'established per approved development plan/stipulations' — all TBD. No specific section cited in note."
+    },
+    {
+      "zone_id": "az-scottsdale:pcc",
+      "zone_code": "PCC",
+      "zone_name": "Planned Community Center",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-pcc.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Junior anchor / discount retail",
+          "General merchandise retail",
+          "Restaurant",
+          "Personal services",
+          "Entertainment (limited)",
+          "Financial services"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-pcc.md states all dimensional standards 'established per approved development plan/stipulations' — all TBD. No specific section cited in note."
+    },
+    {
+      "zone_id": "az-scottsdale:prc",
+      "zone_code": "PRC",
+      "zone_name": "Planned Regional Center",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-prc.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Major department store / anchor",
+          "Large-format retail",
+          "Restaurant and entertainment",
+          "Office",
+          "Hotel",
+          "Personal services"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-prc.md states all dimensional standards 'established per approved development plan/stipulations' — all TBD. No specific section cited in note."
+    },
+    {
+      "zone_id": "az-scottsdale:pcp",
+      "zone_code": "PCP",
+      "zone_name": "Planned Commerce Park",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-pcp.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Office",
+          "Research and development",
+          "Light industrial / flex",
+          "Business services",
+          "Limited ancillary commercial"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-pcp.md states all dimensional standards 'established per approved development plan/stipulations' — all TBD. No specific section cited in note."
+    },
+    {
+      "zone_id": "az-scottsdale:pcoc",
+      "zone_code": "PCoC",
+      "zone_name": "Planned Convenience Center",
+      "category": "planned",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-pcoc.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": 4,
+        "max_far": 0.2,
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": 24,
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": 20,
+        "rear_setback_ft": 20,
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Convenience retail",
+          "Personal services",
+          "Food and beverage (limited)",
+          "Pharmacy / health (limited)"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "§5.2705",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Values carried from prior note zone-pcoc.md citing Scottsdale ZO §5.2705 (flagged UNVERIFIED); re-verify against official §5.2705. FAR 0.20, height 24 ft, max_density 4 DUA (residential component) per §5.2705.C. Side/rear 20 ft from residential. Front 'no general front yard' set TBD. Min lot/width not specified."
+    },
+    {
+      "zone_id": "az-scottsdale:os",
+      "zone_code": "OS",
+      "zone_name": "Open Space",
+      "category": "open-space",
+      "note_path": "20-jurisdictions/arizona/cities/scottsdale/zones/zone-os.md",
+      "standards": {
+        "min_lot_size_sf": "TBD",
+        "min_lot_width_ft": "TBD",
+        "max_density_dua": "TBD",
+        "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD",
+        "max_height_ft": "TBD",
+        "max_stories": "TBD",
+        "front_setback_ft": "TBD",
+        "side_setback_ft": "TBD",
+        "rear_setback_ft": "TBD",
+        "parking_ratio": null
+      },
+      "uses": {
+        "permitted": [
+          "Public park",
+          "Nature preserve / desert open space",
+          "Golf course",
+          "Trail / pathway",
+          "Passive recreation"
+        ],
+        "conditional": [],
+        "prohibited": []
+      },
+      "provenance": "official-html",
+      "confidence": "extracted",
+      "source_doc": "az-scottsdale-zoning",
+      "source_citation": "",
+      "source_page": null,
+      "extracted_date": "2026-06-05",
+      "human_verified": "",
+      "notes": "Provenance label corrected: values were transcribed from the OFFICIAL Scottsdale Zoning Ordinance (Appendix B) in a prior vault pass; live Municode re-fetch was blocked this run, so this run did not re-confirm them. Not human-verified to the data layer. Official Municode HTML unreachable (HTTP 403); elaws.us mirror unreachable (HTTP 503). Prior note zone-os.md is status:draft / needs-verification with ALL standards already TBD and no section cited — neither official source nor a prior cited value available, so all standards remain TBD. Locate and verify the OS district section in the official ZO."
+    }
+  ]
+}

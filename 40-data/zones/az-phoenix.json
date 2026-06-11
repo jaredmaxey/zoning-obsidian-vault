@@ -1,0 +1,382 @@
+{
+  "jurisdiction_id": "az-phoenix",
+  "jurisdiction_name": "City of Phoenix",
+  "default_source_doc": "az-phoenix-zoning",
+  "zones": [
+    {
+      "zone_id": "az-phoenix:r1-6",
+      "zone_code": "R1-6",
+      "zone_name": "Single-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r1-6.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 60, "max_density_dua": 5.5, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 20, "side_setback_ft": 3, "rear_setback_ft": 25, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§613 (Table 613.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser (Cloudflare-gated to plain fetch). Current table expresses lot minimums as lot width 60 ft x lot depth 94 ft plus max density 5.5 PDU/AC gross (6.5 w/ bonus); no single min-lot-SF figure given, so min_lot_size_sf=TBD (prior draft's 6,000 SF not in current code). Interior side setbacks are 10 ft and 3 ft (recorded side=3, the smaller); rear 25; coverage 50% (+10% for ADU/shade). Height 2 stories & 30 ft (3 stories & 30 ft under PRD option)."
+    },
+    {
+      "zone_id": "az-phoenix:r1-8",
+      "zone_code": "R1-8",
+      "zone_name": "Single-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r1-8.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 70, "max_density_dua": 4.5, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 20, "side_setback_ft": 3, "rear_setback_ft": 25, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§612 (Table 612.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Current table: lot width 70 ft x depth 94 ft, max density 4.5 PDU/AC gross (5.5 w/ bonus); no single min-lot-SF figure, so min_lot_size_sf=TBD (prior draft's 8,000 SF not in current code). Setbacks front 20, rear 25, street side 10, interior sides 10 & 3 (side recorded as 3). Coverage 50% (+10% ADU/shade). Height 2 stories & 30 ft."
+    },
+    {
+      "zone_id": "az-phoenix:r1-10",
+      "zone_code": "R1-10",
+      "zone_name": "Single-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r1-10.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 80, "max_density_dua": 3.5, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 3, "rear_setback_ft": 25, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§611 (Table 611.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Current table: lot width 80 ft x depth 94 ft, max density 3.5 PDU/AC gross (4.5 w/ bonus); no single min-lot-SF figure, so min_lot_size_sf=TBD (prior draft's 10,000 SF not in current code). Setbacks front 25, rear 25, street side 10, interior sides 10 & 3 (side recorded as 3). Coverage 50% (+10%). Height 2 stories & 30 ft."
+    },
+    {
+      "zone_id": "az-phoenix:r1-14",
+      "zone_code": "R1-14",
+      "zone_name": "One-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r1-14.md",
+      "standards": {
+        "min_lot_size_sf": 14000, "min_lot_width_ft": 110, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 25, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 30, "side_setback_ft": 10, "rear_setback_ft": 20, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§607.B (applies only to land zoned R1-14 prior to Sept 13, 1981)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Older-format section with explicit numbers: net lot 14,000 SF, width 110 ft, depth 120 ft, front 30, street side 15, interior side 10, rear 20. Lot coverage 25% (40% if all structures <20 ft and one story). Height 2 stories, not to exceed 30 ft. side_setback_ft recorded as interior side 10. Official name 'One-Family Residence' (prior draft said 'Single-Family Residence')."
+    },
+    {
+      "zone_id": "az-phoenix:r1-18",
+      "zone_code": "R1-18",
+      "zone_name": "Single-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r1-18.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 130, "max_density_dua": 2.0, "max_far": "TBD",
+        "max_lot_coverage_pct": 30, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 10, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§610 (Table 610.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Current table: lot width 130 ft x depth 120 ft, max density 2.0 PDU/AC gross (2.5 w/ bonus); no single min-lot-SF figure, so min_lot_size_sf=TBD (prior draft's 18,000 SF not in current code). Setbacks front 25, rear 30, sides 10. Coverage 30% (+10%). Height 2 stories & 30 ft."
+    },
+    {
+      "zone_id": "az-phoenix:r-2",
+      "zone_code": "R-2",
+      "zone_name": "Multi-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 60, "max_density_dua": 10.0, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 20, "side_setback_ft": 3, "rear_setback_ft": 25, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§614 (Table 614.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name is 'Multi-Family Residence District' (prior draft mislabeled it 'Single-Family'). Lot width 60 x depth 94; max density 10.0 PDU/AC gross (Standard; 10.5 PRD, 12.0 w/ bonus); no single min-lot-SF, so TBD. Setbacks front 20, rear 25, street side 10, interior sides 10 & 3 (side=3). Coverage 50%(+10%). Height 2 stories & 30 ft Standard (up to 4 stories/48 ft under PRD w/ setback); 15-ft cap within 10 ft of single-family district."
+    },
+    {
+      "zone_id": "az-phoenix:r-3",
+      "zone_code": "R-3",
+      "zone_name": "Multi-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-3.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 60, "max_density_dua": 14.5, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 3, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§615 (Table 615.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Multi-Family Residence District' (prior draft 'Multiple Residence District'). Lot width 60 x depth 94; max density 14.5 PDU/AC gross (15.5 PRD, 17.5 bonus); no single min-lot-SF, so TBD. Setbacks front 25, rear 15 (prior draft had 20), street side 10, interior sides 10 & 3 (side=3). Coverage 50%(+10%). Height 2 stories & 30 ft Standard (up to 4 stories/48 ft under PRD)."
+    },
+    {
+      "zone_id": "az-phoenix:r-3a",
+      "zone_code": "R-3A",
+      "zone_name": "Multi-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-3a.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 60, "max_density_dua": 22.0, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 3, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§616 (Table 616.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Multi-Family Residence District'. Lot width 60 x depth 94; max density 22.0 PDU/AC gross (23.0 PRD, 26.5 bonus); no single min-lot-SF, so TBD. Setbacks front 25, rear 15, street side 10, interior sides 10 & 3 (side=3). Coverage 50%(+10%). Height 2 stories & 30 ft Standard; PRD allows 3 stories/40 ft up to 4 stories/48 ft."
+    },
+    {
+      "zone_id": "az-phoenix:r-4",
+      "zone_code": "R-4",
+      "zone_name": "Multi-Family Residence District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-4.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 60, "max_density_dua": 29.0, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 40, "max_stories": 3,
+        "front_setback_ft": 20, "side_setback_ft": 3, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§617 (Table 617.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Multi-Family Residence District'. Lot width 60 x depth 94; max density 29.0 PDU/AC gross (30.0 PRD, 35.0 bonus); no single min-lot-SF, so TBD. Setbacks front 20, rear 15, street side 10, interior sides 10 & 3 (side=3). Coverage 50%(+10%). Height 3 stories & 40 ft Standard (up to 4 stories/48 ft under PRD)."
+    },
+    {
+      "zone_id": "az-phoenix:r-4a",
+      "zone_code": "R-4A",
+      "zone_name": "Multi-Family Residence—General District",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-4a.md",
+      "standards": {
+        "min_lot_size_sf": 6000, "min_lot_width_ft": 60, "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 48, "max_stories": "TBD",
+        "front_setback_ft": 20, "side_setback_ft": 5, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§619.B", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Older-format section with explicit numbers: min lot 6,000 SF (min width 60, depth 94); 1 DU per 1,000 SF lot area (1 efficiency per 500 SF) — density not stated as DUA so left TBD. Front 20, two side yards 5 ft each, rear 15, coverage 50%, height max 48 ft. Confirms prior draft."
+    },
+    {
+      "zone_id": "az-phoenix:r-5",
+      "zone_code": "R-5",
+      "zone_name": "Multi-Family Residence District—Restricted Commercial",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-5.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": 60, "max_density_dua": 43.5, "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 48, "max_stories": 4,
+        "front_setback_ft": 20, "side_setback_ft": 3, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§618 (Table 618.1, Standard Option; amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Multi-Family Residence District—Restricted Commercial'. Lot width 60 x depth 94; max density 43.5 PDU/AC gross (45.5 PRD, 52.5 bonus); no single min-lot-SF, so TBD. Setbacks front 20, rear 15, street side 10, interior sides 10 & 3 (side=3). Coverage 50%(+10%). Height 4 stories & 48 ft (confirms prior draft's 48 ft); 15-ft cap within 10 ft of single-family district. Nonresidential/mixed uses follow C-1 standards per §618.C."
+    },
+    {
+      "zone_id": "az-phoenix:r-o",
+      "zone_code": "R-O",
+      "zone_name": "Residential Office District—Restricted Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-r-o.md",
+      "standards": {
+        "min_lot_size_sf": 24000, "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 30, "max_height_ft": 25, "max_stories": "TBD",
+        "front_setback_ft": 20, "side_setback_ft": 10, "rear_setback_ft": 25,
+        "parking_ratio": "1 space per 200-250 sf net floor area (varies by lot size; §620.C)"
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§620.C", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Gross lot area recommended minimum 24,000 SF (may be reduced by Council); front 20, side 10, rear 25, lot coverage 30% of net lot area (carports +10% not counted). Height limited to 15 ft at min rear/side setbacks, increasing 1 ft per 1 ft added setback to max 25 ft. Parking: 1 space/250 SF (12,000-23,999 SF lots) or 1/200 SF (6,000-11,999 SF lots) net floor area. Confirms prior draft."
+    },
+    {
+      "zone_id": "az-phoenix:c-1",
+      "zone_code": "C-1",
+      "zone_name": "Commercial C-1 District—Neighborhood Retail",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-c-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 5, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§622.E (amended Ord. G-7446, Jan 2026)", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Commercial C-1 District—Neighborhood Retail' (prior draft 'Neighborhood Commercial'). Base non-residential height 2 stories/30 ft (§622.E.4.a), extendable to 4 stories/56 ft by Council; core-area structures (§622.E.3.f) allow 4 stories/56 ft — recorded base 30 ft. Front building setback average 25 ft (min 20 for <=50% of structure); side adjacent to residence lot = 5 ft; rear adjacent to residence district = 15 ft; setbacks scale up with height per E.4.d table. Lot coverage 50% net. No fixed min lot size in code. Multifamily uses follow R-3 standards."
+    },
+    {
+      "zone_id": "az-phoenix:c-2",
+      "zone_code": "C-2",
+      "zone_name": "Commercial C-2 District—Intermediate Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-c-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 5, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§623.E", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Commercial C-2 District—Intermediate Commercial'. Base non-residential height 2 stories/30 ft (§623.E.4.a), extendable to 4 stories/56 ft by Council; core areas (E.3.d) 4 stories/56 ft — recorded base 30 ft (prior draft also had 30). Setbacks per same building-setback table as C-1: front average 25 ft, side 5 ft adjacent to residence, rear 15 ft adjacent to residence. Lot coverage 50% net. No fixed min lot size."
+    },
+    {
+      "zone_id": "az-phoenix:c-3",
+      "zone_code": "C-3",
+      "zone_name": "Commercial C-3 District—General Commercial",
+      "category": "commercial",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-c-3.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 50, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 25, "side_setback_ft": 5, "rear_setback_ft": 15, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§624.E", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'Commercial C-3 District—General Commercial' (matches prior draft). Base non-residential height 2 stories/30 ft (§624.E.4.a), extendable to 4 stories/56 ft by Council; core areas 4 stories/56 ft — recorded base 30 ft (prior draft had 56). Setbacks per same building-setback table: front average 25 ft, side 5 ft adjacent to residence, rear 15 ft adjacent to residence. Lot coverage 50% net. No fixed min lot size."
+    },
+    {
+      "zone_id": "az-phoenix:a-1",
+      "zone_code": "A-1",
+      "zone_name": "A-1 Light Industrial District",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-a-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 56, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": 30, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§627.F", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Height 56 ft max (up to 80 ft with use permit; warehouse up to 110 ft by Council). Side & rear setback 30 ft where adjacent to a residential district (closed buildings; 150 ft for open buildings/uses) — confirms prior draft. Front yard governed by §701.D.3 (street-classification based, no single number) so front=TBD. No fixed min lot size or lot-coverage % in base standards. Outdoor uses/storage min 75 ft from public street."
+    },
+    {
+      "zone_id": "az-phoenix:a-2",
+      "zone_code": "A-2",
+      "zone_name": "A-2 Industrial District",
+      "category": "industrial",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-a-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 56, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": 30, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§628", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Official name 'A-2 Industrial District' (prior draft 'Heavy Industrial District'). Height 56 ft max (up to 80 ft with use permit; warehouse up to 110 ft by Council). Side & rear setback 30 ft where adjacent to a residential district (150 ft open buildings) — confirms prior draft. Front yard per §701.D.3, so front=TBD. No fixed min lot size or lot-coverage % in base standards."
+    },
+    {
+      "zone_id": "az-phoenix:s-1",
+      "zone_code": "S-1",
+      "zone_name": "Suburban S-1 District—Ranch or Farm Residence",
+      "category": "residential",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-s-1.md",
+      "standards": {
+        "min_lot_size_sf": 43560, "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 20, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 40, "side_setback_ft": 30, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§603.B", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Min net lot 1 acre = 43,560 SF (original: 'not less than one acre'). Front 40, side 30, rear 30 — confirms prior draft. Lot coverage 20% for lots <=2 acres (10% for >2 acres), +5% for ADU/shade. Height 2 stories, not to exceed 30 ft. Official name 'Suburban S-1 District—Ranch or Farm Residence'."
+    },
+    {
+      "zone_id": "az-phoenix:s-2",
+      "zone_code": "S-2",
+      "zone_name": "Suburban S-2 District—Ranch or Farm Commercial",
+      "category": "agricultural",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-s-2.md",
+      "standards": {
+        "min_lot_size_sf": 130680, "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": 10, "max_height_ft": 30, "max_stories": 2,
+        "front_setback_ft": 40, "side_setback_ft": 30, "rear_setback_ft": 30, "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§604.B", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. Min net lot 3 acres = 130,680 SF (original: 'not less than three acres') — confirms prior draft's 130,680. Front 40, side 30 (prior draft had side TBD), rear 30. Lot coverage 10% (+5% ADU/shade). Height 2 stories, not to exceed 30 ft. Official name 'Suburban S-2 District—Ranch or Farm Commercial' (prior draft mislabeled 'Intermediate Rural District'); category set to agricultural to reflect ranch/farm commercial intent."
+    },
+    {
+      "zone_id": "az-phoenix:p-1",
+      "zone_code": "P-1",
+      "zone_name": "Parking P-1 District—Passenger Automobile Parking, Limited",
+      "category": "special",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-p-1.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§639", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. §639 is a parking district (surface passenger-auto parking lots and carports only); it contains NO dimensional standards (no lot area, height, setbacks, or coverage) — defers to §702 off-street parking standards and §507 site plan. All dimensional fields genuinely not specified in code (TBD), consistent with prior draft. Officially verified as having no base-zone dimensional table."
+    },
+    {
+      "zone_id": "az-phoenix:p-2",
+      "zone_code": "P-2",
+      "zone_name": "P-2 Parking District",
+      "category": "special",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-p-2.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": 56, "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "official-html", "confidence": "extracted", "source_doc": "az-phoenix-zoning",
+      "source_citation": "§640.B", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Source reachable via rendered browser. §640 parking-structure district. Max structure height 56 ft (15 ft within 10 ft of a single-family district, increasing 1 ft per 1 ft added setback) — confirms prior draft's 56 ft. No lot area, setback, or coverage standards in code (defers to §702/§507), so those remain TBD."
+    },
+    {
+      "zone_id": "az-phoenix:wu",
+      "zone_code": "WU",
+      "zone_name": "Walkable Urban (WU) Code",
+      "category": "mixed-use",
+      "note_path": "20-jurisdictions/arizona/cities/phoenix/zones/zone-walkable-urban.md",
+      "standards": {
+        "min_lot_size_sf": "TBD", "min_lot_width_ft": "TBD", "max_density_dua": "TBD", "max_far": "TBD",
+        "max_lot_coverage_pct": "TBD", "max_height_ft": "TBD", "max_stories": "TBD",
+        "front_setback_ft": "TBD", "side_setback_ft": "TBD", "rear_setback_ft": "TBD", "parking_ratio": null
+      },
+      "uses": {"permitted": [], "conditional": [], "prohibited": []},
+      "provenance": "secondary-mirror", "confidence": "low", "source_doc": "az-phoenix-zoning",
+      "source_citation": "", "source_page": null,
+      "extracted_date": "2026-06-05", "human_verified": "",
+      "notes": "Not extracted: the Walkable Urban (WU) Code is a form-based, transect-based framework (Chapter 13 of the Zoning Ordinance) where dimensional standards vary per individual transect zone (T3, T4, T5, T6) and per character-area frontage — there is no single base-zone dimensional table to extract. Prior draft already had all standards as TBD; carried forward as TBD pending per-transect extraction. Provenance marked secondary-mirror/low because no specific official section value was captured for a single 'WU base zone'. To complete, extract each transect zone's standards from the WU Code chapter as separate records."
+    }
+  ]
+}

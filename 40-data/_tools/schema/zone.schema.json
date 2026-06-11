@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "zone.schema.json",
+  "title": "Jurisdiction zone dataset",
+  "description": "One file per jurisdiction at 40-data/zones/{jurisdiction_id}.json. Canonical source for per-zone dimensional standards and use lists. zoning_standards.csv and the markdown standards tables are generated FROM this file by sync.py.",
+  "type": "object",
+  "required": ["jurisdiction_id", "jurisdiction_name", "zones"],
+  "additionalProperties": false,
+  "properties": {
+    "jurisdiction_id": { "type": "string", "pattern": "^az-[a-z0-9-]+$" },
+    "jurisdiction_name": { "type": "string" },
+    "default_source_doc": {
+      "type": "string",
+      "description": "source_id from source_registry.csv used when a zone omits source_doc."
+    },
+    "zones": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/zone" }
+    }
+  },
+  "$defs": {
+    "numericOrTBD": {
+      "description": "A number, or null (unknown/not extracted), or the string 'TBD'.",
+      "oneOf": [
+        { "type": "number" },
+        { "type": "null" },
+        { "type": "string", "enum": ["TBD"] }
+      ]
+    },
+    "zone": {
+      "type": "object",
+      "required": ["zone_id", "zone_code", "zone_name", "category", "provenance", "confidence"],
+      "additionalProperties": false,
+      "properties": {
+        "zone_id": { "type": "string", "pattern": "^az-[a-z0-9-]+:[a-z0-9.-]+$" },
+        "zone_code": { "type": "string" },
+        "zone_name": { "type": "string" },
+        "category": {
+          "type": "string",
+          "enum": ["residential", "commercial", "industrial", "mixed-use", "agricultural", "special", "downtown", "planned", "open-space", "overlay"]
+        },
+        "note_path": {
+          "type": "string",
+          "description": "Vault-relative path to the markdown zone note whose standards table sync.py regenerates. Omit if no note yet."
+        },
+        "standards": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "min_lot_size_sf": { "$ref": "#/$defs/numericOrTBD" },
+            "min_lot_width_ft": { "$ref": "#/$defs/numericOrTBD" },
+            "max_density_dua": { "$ref": "#/$defs/numericOrTBD" },
+            "max_far": { "$ref": "#/$defs/numericOrTBD" },
+            "max_lot_coverage_pct": { "$ref": "#/$defs/numericOrTBD" },
+            "max_height_ft": { "$ref": "#/$defs/numericOrTBD" },
+            "max_stories": { "$ref": "#/$defs/numericOrTBD" },
+            "front_setback_ft": { "$ref": "#/$defs/numericOrTBD" },
+            "side_setback_ft": { "$ref": "#/$defs/numericOrTBD" },
+            "rear_setback_ft": { "$ref": "#/$defs/numericOrTBD" },
+            "parking_ratio": { "type": ["string", "null"] }
+          }
+        },
+        "uses": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "permitted": { "type": "array", "items": { "type": "string" } },
+            "conditional": { "type": "array", "items": { "type": "string" } },
+            "prohibited": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "provenance": {
+          "type": "string",
+          "enum": ["official-pdf", "official-html", "secondary-mirror", "inferred", "unknown"]
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["verified-human", "extracted", "low", "tbd"]
+        },
+        "source_doc": {
+          "type": "string",
+          "description": "source_id from source_registry.csv. Falls back to default_source_doc."
+        },
+        "source_citation": { "type": "string", "description": "e.g. '§ 615' or 'Table 11-4-3'." },
+        "source_page": { "type": ["integer", "null"], "description": "PDF page number, or null for HTML." },
+        "extracted_date": { "type": "string", "description": "YYYY-MM-DD" },
+        "human_verified": { "type": "string", "description": "YYYY-MM-DD or empty. AI must leave empty." },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}
