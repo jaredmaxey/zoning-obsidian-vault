@@ -5,7 +5,3 @@
 # Source PDFs: 892MB total, some exceed GitHub's 100MB hard limit.
 # The source layer is versioned via 40-data/source_registry.csv and the .url files.
 Official Sources/**/*.pdf
-
-# Scratch/debug artifacts (pending triage)
-amlegal_test.html
-pima_root.json
