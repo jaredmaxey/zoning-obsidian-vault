@@ -1,5 +1,6 @@
 ---
 title: "Tucson C-3"
+aliases: ["Tucson C-3"]
 type: zone
 tags: [juris/az/tucson, zoning/commercial, needs-verification]
 created: 2026-05-25

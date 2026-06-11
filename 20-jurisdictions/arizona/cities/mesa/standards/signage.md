@@ -1,5 +1,6 @@
 ---
 title: "Mesa Signage Standards"
+aliases: ["Mesa Signage Standards"]
 type: standard
 tags: [juris/az/mesa, standard/signage, needs-verification]
 created: 2026-05-24

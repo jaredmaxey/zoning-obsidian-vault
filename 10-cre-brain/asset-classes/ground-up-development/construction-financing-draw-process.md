@@ -1,5 +1,6 @@
 ---
 title: Construction Financing Draw Process
+aliases: ["Construction Financing Draw Process"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

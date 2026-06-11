@@ -1,5 +1,6 @@
 ---
 title: "Tempe Walls and Fences Standards"
+aliases: ["Tempe Walls and Fences Standards"]
 type: standard
 tags: [juris/az/tempe, standard/setback, needs-verification]
 created: "2026-05-24"

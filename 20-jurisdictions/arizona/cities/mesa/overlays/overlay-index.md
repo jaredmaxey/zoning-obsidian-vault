@@ -1,5 +1,6 @@
 ---
 title: "Mesa Overlay Districts (Index)"
+aliases: ["Mesa Overlay Districts (Index)"]
 type: overlay
 tags: [juris/az/mesa, zoning/overlay, stub, needs-verification]
 created: 2026-05-24

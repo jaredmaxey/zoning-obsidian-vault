@@ -1,5 +1,6 @@
 ---
 title: "Sedona, Arizona"
+aliases: ["Sedona, Arizona"]
 type: jurisdiction
 tags: [juris/az/sedona, needs-verification]
 created: "2026-05-24"

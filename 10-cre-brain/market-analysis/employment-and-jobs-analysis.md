@@ -1,5 +1,6 @@
 ---
 title: "Employment and Jobs Analysis"
+aliases: ["Employment and Jobs Analysis"]
 type: framework
 tags: [cre/market-analysis]
 created: "2026-05-24"

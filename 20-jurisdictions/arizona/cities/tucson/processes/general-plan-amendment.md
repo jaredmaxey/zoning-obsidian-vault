@@ -1,5 +1,6 @@
 ---
 title: "Tucson General Plan Amendment"
+aliases: ["Tucson General Plan Amendment"]
 type: process
 tags: ["process/gpa", "juris/az/tucson", needs-verification]
 created: 2026-05-24

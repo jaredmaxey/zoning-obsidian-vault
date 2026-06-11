@@ -1,5 +1,6 @@
 ---
 title: "Refinance Decision Framework"
+aliases: ["Refinance Decision Framework"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

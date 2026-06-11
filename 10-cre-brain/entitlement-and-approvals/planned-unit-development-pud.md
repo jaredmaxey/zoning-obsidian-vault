@@ -1,5 +1,6 @@
 ---
 title: "Planned Unit Development (PUD)"
+aliases: ["Planned Unit Development (PUD)"]
 type: process
 tags: [cre/entitlement, process/planned-unit-development-pud]
 created: "2026-05-24"

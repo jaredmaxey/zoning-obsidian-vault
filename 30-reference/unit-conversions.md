@@ -1,5 +1,6 @@
 ---
 title: Unit Conversions
+aliases: ["Unit Conversions"]
 type: reference
 tags: [reference]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Buckeye, Arizona"
+aliases: ["Buckeye, Arizona"]
 type: jurisdiction
 tags: [juris/az/buckeye, needs-verification]
 created: "2026-05-24"

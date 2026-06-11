@@ -1,5 +1,6 @@
 ---
 title: "Highest and Best Use Analysis"
+aliases: ["Highest and Best Use Analysis"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

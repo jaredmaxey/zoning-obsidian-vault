@@ -1,5 +1,6 @@
 ---
 title: "Debt Yield"
+aliases: ["Debt Yield"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

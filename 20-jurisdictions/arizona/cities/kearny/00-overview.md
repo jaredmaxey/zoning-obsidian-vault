@@ -1,5 +1,6 @@
 ---
 title: "Town of Kearny"
+aliases: ["Town of Kearny"]
 type: jurisdiction
 tags: [juris/az/kearny, stub, needs-verification]
 created: 2026-06-08

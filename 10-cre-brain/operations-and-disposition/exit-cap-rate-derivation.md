@@ -1,5 +1,6 @@
 ---
 title: "Exit Cap Rate Derivation"
+aliases: ["Exit Cap Rate Derivation"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

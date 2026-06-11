@@ -1,5 +1,6 @@
 ---
 title: "Design-Build vs. Design-Bid-Build"
+aliases: ["Design-Build vs. Design-Bid-Build"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

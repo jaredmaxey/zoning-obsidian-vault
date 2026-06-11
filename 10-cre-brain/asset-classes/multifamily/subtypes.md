@@ -1,5 +1,6 @@
 ---
 title: Multifamily — Subtypes
+aliases: ["Multifamily — Subtypes"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

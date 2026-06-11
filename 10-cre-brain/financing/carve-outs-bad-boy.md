@@ -1,5 +1,6 @@
 ---
 title: "Bad-Boy Carve-Outs"
+aliases: ["Bad-Boy Carve-Outs"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

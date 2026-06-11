@@ -1,5 +1,6 @@
 ---
 title: "Mesa Council Use Permit / CUP"
+aliases: ["Mesa Council Use Permit / CUP"]
 type: process
 tags: [process/cup, juris/az/mesa, needs-verification]
 created: 2026-05-24

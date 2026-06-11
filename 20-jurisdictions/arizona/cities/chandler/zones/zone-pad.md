@@ -1,5 +1,6 @@
 ---
 title: "Chandler PAD"
+aliases: ["Chandler PAD"]
 type: zone
 tags: [juris/az/chandler, zoning/mixed-use, needs-verification]
 created: 2026-05-25

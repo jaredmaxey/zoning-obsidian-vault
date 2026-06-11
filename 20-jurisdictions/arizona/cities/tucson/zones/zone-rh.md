@@ -1,5 +1,6 @@
 ---
 title: "Tucson RH"
+aliases: ["Tucson RH"]
 type: zone
 tags: [juris/az/tucson, zoning/residential, needs-verification]
 created: 2026-05-25

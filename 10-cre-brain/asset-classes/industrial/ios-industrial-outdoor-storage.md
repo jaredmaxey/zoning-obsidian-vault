@@ -1,5 +1,6 @@
 ---
 title: Industrial Outdoor Storage (IOS)
+aliases: ["Industrial Outdoor Storage (IOS)"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

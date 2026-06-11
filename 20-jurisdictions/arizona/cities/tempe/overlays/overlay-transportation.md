@@ -1,5 +1,6 @@
 ---
 title: "Tempe Transportation Overlay District"
+aliases: ["Tempe Transportation Overlay District"]
 type: overlay
 tags: [juris/az/tempe, zoning/overlay, needs-verification]
 created: "2026-05-24"

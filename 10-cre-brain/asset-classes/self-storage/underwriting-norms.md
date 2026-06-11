@@ -1,5 +1,6 @@
 ---
 title: Self-Storage — Underwriting Norms
+aliases: ["Self-Storage — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/self-storage]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Vacancy and Collection Loss"
+aliases: ["Vacancy and Collection Loss"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

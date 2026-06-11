@@ -1,5 +1,6 @@
 ---
 title: Land — Key Metrics
+aliases: ["Land — Key Metrics"]
 type: asset-class
 tags: [cre, asset/land]
 created: 2026-05-24

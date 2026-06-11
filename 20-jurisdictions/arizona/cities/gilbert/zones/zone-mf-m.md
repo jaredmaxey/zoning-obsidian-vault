@@ -1,5 +1,6 @@
 ---
 title: "Gilbert MF/M"
+aliases: ["Gilbert MF/M"]
 type: zone
 tags: [juris/az/gilbert, zoning/residential, asset/multifamily, needs-verification]
 created: 2026-05-25

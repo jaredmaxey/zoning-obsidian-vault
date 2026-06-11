@@ -1,5 +1,6 @@
 ---
 title: "Chandler Signage Standards"
+aliases: ["Chandler Signage Standards"]
 type: standard
 tags: [juris/az/chandler, standard/signage, needs-verification]
 created: 2026-05-24

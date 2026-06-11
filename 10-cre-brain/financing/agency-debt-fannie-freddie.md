@@ -1,5 +1,6 @@
 ---
 title: "Agency Debt (Fannie/Freddie)"
+aliases: ["Agency Debt (Fannie/Freddie)"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Tempe Development Plan Review"
+aliases: ["Tempe Development Plan Review"]
 type: process
 tags: [process/site-plan, juris/az/tempe, needs-verification]
 created: "2026-05-24"

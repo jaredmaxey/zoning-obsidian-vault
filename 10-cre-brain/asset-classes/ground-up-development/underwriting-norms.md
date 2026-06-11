@@ -1,5 +1,6 @@
 ---
 title: Ground-Up Development — Underwriting Norms
+aliases: ["Ground-Up Development — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

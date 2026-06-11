@@ -1,5 +1,6 @@
 ---
 title: "Stabilized NOI"
+aliases: ["Stabilized NOI"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Tucson RVC"
+aliases: ["Tucson RVC"]
 type: zone
 tags: [juris/az/tucson, zoning/commercial, needs-verification]
 created: 2026-05-25

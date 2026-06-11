@@ -1,5 +1,6 @@
 ---
 title: "Chandler I-1"
+aliases: ["Chandler I-1"]
 type: zone
 tags: [juris/az/chandler, zoning/industrial, needs-verification]
 created: 2026-05-25

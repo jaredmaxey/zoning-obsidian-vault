@@ -1,5 +1,6 @@
 ---
 title: "Tempe PCC-1"
+aliases: ["Tempe PCC-1"]
 type: zone
 tags: [juris/az/tempe, zoning/commercial]
 created: "2026-05-25"

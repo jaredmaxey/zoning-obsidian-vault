@@ -1,5 +1,6 @@
 ---
 title: "Subdivision Approval"
+aliases: ["Subdivision Approval"]
 type: process
 tags: [cre/entitlement, process/subdivision-approval]
 created: "2026-05-24"

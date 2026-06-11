@@ -1,5 +1,6 @@
 ---
 title: "Gilbert GO"
+aliases: ["Gilbert GO"]
 type: zone
 tags: [juris/az/gilbert, zoning/office, asset/office, needs-verification]
 created: 2026-05-25

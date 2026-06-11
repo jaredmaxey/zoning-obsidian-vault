@@ -1,5 +1,6 @@
 ---
 title: "FF&E"
+aliases: ["FF&E"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

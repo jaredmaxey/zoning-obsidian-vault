@@ -1,5 +1,6 @@
 ---
 title: "Stress Testing"
+aliases: ["Stress Testing"]
 type: framework
 tags: [cre/underwriting, cre/frameworks]
 created: 2026-05-24

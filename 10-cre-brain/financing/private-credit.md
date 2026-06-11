@@ -1,5 +1,6 @@
 ---
 title: "Private Credit"
+aliases: ["Private Credit"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

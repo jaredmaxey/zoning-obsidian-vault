@@ -1,5 +1,6 @@
 ---
 title: Phoenix General Plan Amendment
+aliases: ["Phoenix General Plan Amendment"]
 type: process
 tags: [juris/az/phoenix, process/general-plan-amendment, needs-verification]
 created: 2026-05-24

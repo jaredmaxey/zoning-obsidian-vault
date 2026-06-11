@@ -1,5 +1,6 @@
 ---
 title: "Town of Mammoth"
+aliases: ["Town of Mammoth"]
 type: jurisdiction
 tags: [juris/az/mammoth, draft, needs-verification]
 created: 2026-06-08

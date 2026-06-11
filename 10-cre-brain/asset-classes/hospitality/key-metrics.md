@@ -1,5 +1,6 @@
 ---
 title: Hospitality — Key Metrics
+aliases: ["Hospitality — Key Metrics"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

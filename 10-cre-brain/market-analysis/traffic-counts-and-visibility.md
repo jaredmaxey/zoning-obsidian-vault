@@ -1,5 +1,6 @@
 ---
 title: "Traffic Counts and Visibility"
+aliases: ["Traffic Counts and Visibility"]
 type: framework
 tags: [cre/market-analysis]
 created: "2026-05-24"

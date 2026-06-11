@@ -1,5 +1,6 @@
 ---
 title: Build-to-Rent / SFR
+aliases: ["Build-to-Rent / SFR"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Asset Classes Index
+aliases: ["Asset Classes Index"]
 type: index
 tags: [cre, index]
 created: 2026-05-24

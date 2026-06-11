@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Use Permit"
+aliases: ["Gilbert Use Permit"]
 type: process
 tags: ["juris/az/gilbert", "process/cup", needs-verification]
 created: 2026-05-24

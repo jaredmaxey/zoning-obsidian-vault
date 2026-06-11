@@ -1,5 +1,6 @@
 ---
 title: "Mesa RM-5"
+aliases: ["Mesa RM-5"]
 type: zone
 tags: [juris/az/mesa, zoning/residential, asset/multifamily, needs-verification]
 created: 2026-05-25

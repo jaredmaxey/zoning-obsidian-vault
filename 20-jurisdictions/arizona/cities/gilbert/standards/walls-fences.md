@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Walls and Fences Standards"
+aliases: ["Gilbert Walls and Fences Standards"]
 type: standard
 tags: ["juris/az/gilbert", "standard/walls-fences", needs-verification]
 created: 2026-05-24

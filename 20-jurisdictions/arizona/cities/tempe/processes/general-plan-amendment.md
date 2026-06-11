@@ -1,5 +1,6 @@
 ---
 title: "Tempe General Plan Amendment"
+aliases: ["Tempe General Plan Amendment"]
 type: process
 tags: [process/gpa, juris/az/tempe, needs-verification]
 created: "2026-05-24"

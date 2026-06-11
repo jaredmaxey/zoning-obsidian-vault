@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Lighting Standards"
+aliases: ["Scottsdale Lighting Standards"]
 type: standard
 tags: [juris/az/scottsdale, standard/lighting, needs-verification]
 created: "2026-05-24"

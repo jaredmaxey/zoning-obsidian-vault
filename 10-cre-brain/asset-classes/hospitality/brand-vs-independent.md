@@ -1,5 +1,6 @@
 ---
 title: Brand vs. Independent
+aliases: ["Brand vs. Independent"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

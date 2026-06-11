@@ -1,5 +1,6 @@
 ---
 title: Industrial — Risks & Considerations
+aliases: ["Industrial — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

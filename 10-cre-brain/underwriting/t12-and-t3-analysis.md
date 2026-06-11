@@ -1,5 +1,6 @@
 ---
 title: "T-12 and T-3 Analysis"
+aliases: ["T-12 and T-3 Analysis"]
 type: concept
 tags: [cre/underwriting]
 created: 2026-05-24

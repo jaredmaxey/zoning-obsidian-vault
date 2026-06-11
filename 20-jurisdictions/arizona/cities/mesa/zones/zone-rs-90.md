@@ -1,5 +1,6 @@
 ---
 title: "Mesa RS-90"
+aliases: ["Mesa RS-90"]
 type: zone
 tags: [juris/az/mesa, zoning/residential, needs-verification]
 created: 2026-05-25

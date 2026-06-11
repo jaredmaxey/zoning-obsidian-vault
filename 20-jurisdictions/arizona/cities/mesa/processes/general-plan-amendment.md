@@ -1,5 +1,6 @@
 ---
 title: "Mesa General Plan Amendment"
+aliases: ["Mesa General Plan Amendment"]
 type: process
 tags: [process/gpa, juris/az/mesa, needs-verification]
 created: 2026-05-24

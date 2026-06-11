@@ -1,5 +1,6 @@
 ---
 title: "Mesa RSL-4"
+aliases: ["Mesa RSL-4"]
 type: zone
 tags: [juris/az/mesa, zoning/residential, needs-verification]
 created: 2026-05-25

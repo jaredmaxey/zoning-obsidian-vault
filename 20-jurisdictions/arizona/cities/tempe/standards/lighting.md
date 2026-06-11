@@ -1,5 +1,6 @@
 ---
 title: "Tempe Lighting Standards"
+aliases: ["Tempe Lighting Standards"]
 type: standard
 tags: [juris/az/tempe, standard/lighting, needs-verification]
 created: "2026-05-24"

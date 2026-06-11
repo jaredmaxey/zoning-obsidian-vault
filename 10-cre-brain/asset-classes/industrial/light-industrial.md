@@ -1,5 +1,6 @@
 ---
 title: Light Industrial
+aliases: ["Light Industrial"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

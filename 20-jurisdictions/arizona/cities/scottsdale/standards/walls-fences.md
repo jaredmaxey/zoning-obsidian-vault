@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Walls and Fences Standards"
+aliases: ["Scottsdale Walls and Fences Standards"]
 type: standard
 tags: [juris/az/scottsdale, standard/walls-fences, needs-verification]
 created: "2026-05-24"

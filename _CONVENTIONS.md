@@ -1,5 +1,6 @@
 ---
 title: Vault Conventions
+aliases: ["Vault Conventions"]
 type: reference
 tags: [meta, conventions]
 created: 2026-05-24
@@ -40,6 +41,7 @@ Every note in the vault begins with this block. No exceptions — a note without
 ```yaml
 ---
 title: Human-readable title
+aliases: ["Human-readable title"]
 type: concept | deal-type | asset-class | framework | case-study | jurisdiction | zone | standard | overlay | process | reference | index | template
 tags: [tag1, tag2]
 created: YYYY-MM-DD
@@ -50,7 +52,8 @@ ai_summary: One-sentence summary for AI context windows.
 ```
 
 Field rules:
-- **title** — Title Case, human-readable. Not the filename.
+- **title** — Title Case, human-readable. Not the filename. Two jurisdiction title conventions coexist: built-out cities use `{City}, Arizona` (e.g., `Chandler, Arizona`); scaffold-stage jurisdictions use the legal name `City of {X}` / `Town of {X}` (e.g., `City of Apache Junction`). When a scaffold is built out, retitle it to the `{City}, Arizona` form and update all referring links/frontmatter.
+- **aliases** — REQUIRED whenever `title` differs from the filename (it almost always does, since filenames are kebab-case slugs). Must contain at least the exact `title` string. This is what makes title-based wikilinks resolve in Obsidian — see §5. Enforced by `40-data/_tools/add_aliases.py` (dry-run by default; `--apply` to fix).
 - **type** — exactly one value from the enum above. These are the only legal `type` values in the vault. (See §3 for the fields each type adds.)
 - **tags** — YAML list; see §4 for the taxonomy. Always omit the leading `#` inside the YAML array (`tags: [cre/financing, stub]`), but use `#` when tagging inline in prose.
 - **created / updated** — ISO dates. `updated` changes every time the note's content materially changes.
@@ -223,6 +226,7 @@ Rules:
 ## 5. Linking conventions
 
 - **Internal references use wikilinks** `[[note-title]]`, linking by **title**, not by path. This keeps links intact when notes move between folders.
+- **Why `aliases` is mandatory (§2):** Obsidian resolves wikilinks by *filename or alias*, never by the `title:` frontmatter field. Because vault filenames are kebab-case slugs that differ from titles, a title-based link only resolves when the target note carries its title in `aliases`. Without it, links show as unresolved, backlinks/graph view break, and clicking a link creates a stray empty note at the vault root. Run `python 40-data/_tools/add_aliases.py` to audit (add `--apply` to fix).
 - **Relational frontmatter is mandatory for AI queries.** In addition to prose wikilinks, populate the structured fields so a script can read relationships without parsing prose:
   - `related: []` — peer notes (lateral relationships).
   - `parent: <title>` — the containing/owning note (e.g., a zone's city; a subtype's asset class).

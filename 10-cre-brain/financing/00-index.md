@@ -1,5 +1,6 @@
 ---
 title: "Financing Index"
+aliases: ["Financing Index"]
 type: index
 tags: [index, cre/financing]
 created: 2026-05-24

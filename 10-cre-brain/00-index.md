@@ -1,5 +1,6 @@
 ---
 title: CRE Brain Index
+aliases: ["CRE Brain Index"]
 type: index
 tags: [cre, index]
 created: 2026-05-24

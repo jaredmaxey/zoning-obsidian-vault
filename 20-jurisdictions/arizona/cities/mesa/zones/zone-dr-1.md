@@ -1,5 +1,6 @@
 ---
 title: "Mesa DR-1"
+aliases: ["Mesa DR-1"]
 type: zone
 tags: [juris/az/mesa, zoning/residential, needs-verification]
 created: 2026-05-25

@@ -1,5 +1,6 @@
 ---
 title: "Tempe MHS"
+aliases: ["Tempe MHS"]
 type: zone
 tags: [juris/az/tempe, zoning/residential]
 created: "2026-05-25"

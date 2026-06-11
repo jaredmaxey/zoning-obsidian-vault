@@ -1,5 +1,6 @@
 ---
 title: "Yuma, Arizona"
+aliases: ["Yuma, Arizona"]
 type: jurisdiction
 tags: [juris/az/yuma, needs-verification]
 created: "2026-05-24"

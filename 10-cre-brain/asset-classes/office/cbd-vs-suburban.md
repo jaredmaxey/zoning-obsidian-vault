@@ -1,5 +1,6 @@
 ---
 title: CBD vs. Suburban Office
+aliases: ["CBD vs. Suburban Office"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

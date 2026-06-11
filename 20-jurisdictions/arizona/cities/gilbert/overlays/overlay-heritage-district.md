@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Heritage District Overlay"
+aliases: ["Gilbert Heritage District Overlay"]
 type: overlay
 tags: ["juris/az/gilbert", "zoning/overlay", needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Town of Wickenburg"
+aliases: ["Town of Wickenburg"]
 type: jurisdiction
 tags: [juris/az/wickenburg, stub]
 created: 2026-06-05

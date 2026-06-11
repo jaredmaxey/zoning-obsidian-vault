@@ -1,5 +1,6 @@
 ---
 title: Structured Data Layer
+aliases: ["Structured Data Layer"]
 type: index
 tags: [meta, data, juris/az]
 created: 2026-06-05

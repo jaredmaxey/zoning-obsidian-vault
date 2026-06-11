@@ -1,5 +1,6 @@
 ---
 title: Pre-Development Budget
+aliases: ["Pre-Development Budget"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

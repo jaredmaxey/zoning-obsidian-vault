@@ -1,5 +1,6 @@
 ---
 title: "Mesa Site Plan Review"
+aliases: ["Mesa Site Plan Review"]
 type: process
 tags: [process/site-plan, juris/az/mesa, needs-verification]
 created: 2026-05-24

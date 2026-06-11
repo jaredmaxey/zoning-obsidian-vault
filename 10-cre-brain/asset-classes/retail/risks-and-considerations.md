@@ -1,5 +1,6 @@
 ---
 title: Retail — Risks & Considerations
+aliases: ["Retail — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/retail]
 created: 2026-05-24

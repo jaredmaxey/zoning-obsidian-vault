@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Signage Standards"
+aliases: ["Scottsdale Signage Standards"]
 type: standard
 tags: [juris/az/scottsdale, standard/signage, needs-verification]
 created: "2026-05-24"

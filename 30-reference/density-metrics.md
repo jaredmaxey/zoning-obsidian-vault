@@ -1,5 +1,6 @@
 ---
 title: Density Metrics
+aliases: ["Density Metrics"]
 type: reference
 tags: [reference, standard/far]
 created: 2026-05-24

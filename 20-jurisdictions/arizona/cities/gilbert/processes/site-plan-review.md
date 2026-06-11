@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Design Review / Site Plan"
+aliases: ["Gilbert Design Review / Site Plan"]
 type: process
 tags: ["juris/az/gilbert", "process/site-plan", needs-verification]
 created: 2026-05-24

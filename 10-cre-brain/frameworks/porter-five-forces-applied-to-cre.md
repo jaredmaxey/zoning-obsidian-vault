@@ -1,5 +1,6 @@
 ---
 title: "Porter Five Forces Applied to CRE"
+aliases: ["Porter Five Forces Applied to CRE"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

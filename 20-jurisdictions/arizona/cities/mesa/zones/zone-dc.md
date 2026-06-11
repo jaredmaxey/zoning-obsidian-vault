@@ -1,5 +1,6 @@
 ---
 title: "Mesa DC"
+aliases: ["Mesa DC"]
 type: zone
 tags: [juris/az/mesa, zoning/mixed-use, asset/mixed-use, asset/office, asset/retail, needs-verification]
 created: 2026-05-25

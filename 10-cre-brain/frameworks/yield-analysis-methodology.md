@@ -1,5 +1,6 @@
 ---
 title: "Yield Analysis Methodology"
+aliases: ["Yield Analysis Methodology"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

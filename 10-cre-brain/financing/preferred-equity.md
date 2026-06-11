@@ -1,5 +1,6 @@
 ---
 title: "Preferred Equity"
+aliases: ["Preferred Equity"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

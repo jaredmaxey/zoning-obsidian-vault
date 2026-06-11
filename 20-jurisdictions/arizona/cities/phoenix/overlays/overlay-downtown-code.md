@@ -1,5 +1,6 @@
 ---
 title: Phoenix Downtown Code
+aliases: ["Phoenix Downtown Code"]
 type: overlay
 tags: [juris/az/phoenix, zoning/overlay, needs-verification]
 created: 2026-05-24

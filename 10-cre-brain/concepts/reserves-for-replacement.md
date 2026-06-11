@@ -1,5 +1,6 @@
 ---
 title: "Reserves for Replacement"
+aliases: ["Reserves for Replacement"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

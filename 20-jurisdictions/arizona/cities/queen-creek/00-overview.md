@@ -1,5 +1,6 @@
 ---
 title: "Queen Creek, Arizona"
+aliases: ["Queen Creek, Arizona"]
 type: jurisdiction
 tags: [juris/az/queen-creek, needs-verification]
 created: "2026-05-24"

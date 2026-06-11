@@ -1,5 +1,6 @@
 ---
 title: "General Plan Amendment (GPA)"
+aliases: ["General Plan Amendment (GPA)"]
 type: process
 tags: [cre/entitlement, process/general-plan-amendment]
 created: "2026-05-24"

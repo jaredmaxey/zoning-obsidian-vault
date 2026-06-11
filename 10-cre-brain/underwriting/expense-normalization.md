@@ -1,5 +1,6 @@
 ---
 title: "Expense Normalization"
+aliases: ["Expense Normalization"]
 type: concept
 tags: [cre/underwriting]
 created: 2026-05-24

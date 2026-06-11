@@ -1,5 +1,6 @@
 ---
 title: "Distressed Acquisition"
+aliases: ["Distressed Acquisition"]
 type: deal-type
 tags: [cre/deal-types]
 created: 2026-05-24

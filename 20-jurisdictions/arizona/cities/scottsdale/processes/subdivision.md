@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Subdivision Platting"
+aliases: ["Scottsdale Subdivision Platting"]
 type: process
 tags: [juris/az/scottsdale, process/subdivision, needs-verification]
 created: "2026-05-24"

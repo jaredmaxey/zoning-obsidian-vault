@@ -1,5 +1,6 @@
 ---
 title: "Gilbert NO"
+aliases: ["Gilbert NO"]
 type: zone
 tags: [juris/az/gilbert, zoning/office, asset/office, needs-verification]
 created: 2026-05-25

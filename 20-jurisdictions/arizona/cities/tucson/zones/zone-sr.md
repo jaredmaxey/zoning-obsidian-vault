@@ -1,5 +1,6 @@
 ---
 title: "Tucson SR"
+aliases: ["Tucson SR"]
 type: zone
 tags: [juris/az/tucson, zoning/residential, needs-verification]
 created: 2026-05-25

@@ -1,5 +1,6 @@
 ---
 title: "Discount Rate"
+aliases: ["Discount Rate"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

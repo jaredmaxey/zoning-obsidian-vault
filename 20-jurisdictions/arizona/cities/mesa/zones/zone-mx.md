@@ -1,5 +1,6 @@
 ---
 title: "Mesa MX"
+aliases: ["Mesa MX"]
 type: zone
 tags: [juris/az/mesa, zoning/mixed-use, asset/mixed-use, needs-verification]
 created: 2026-05-25

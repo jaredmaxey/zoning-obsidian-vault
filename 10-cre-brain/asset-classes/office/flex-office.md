@@ -1,5 +1,6 @@
 ---
 title: Flex Office
+aliases: ["Flex Office"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

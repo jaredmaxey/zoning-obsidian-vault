@@ -1,5 +1,6 @@
 ---
 title: "Joint Venture Structures"
+aliases: ["Joint Venture Structures"]
 type: framework
 tags: [cre/financing, cre/frameworks]
 created: 2026-05-24

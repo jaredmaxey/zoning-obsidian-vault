@@ -1,5 +1,6 @@
 ---
 title: "City of Tolleson"
+aliases: ["City of Tolleson"]
 type: jurisdiction
 tags: [juris/az/tolleson, stub]
 created: 2026-06-05

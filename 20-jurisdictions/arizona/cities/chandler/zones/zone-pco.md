@@ -1,5 +1,6 @@
 ---
 title: "Chandler P.C.O."
+aliases: ["Chandler P.C.O."]
 type: zone
 tags: [juris/az/chandler, zoning/commercial, needs-verification]
 created: 2026-05-25

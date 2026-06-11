@@ -1,5 +1,6 @@
 ---
 title: Medical Office Buildings (MOB)
+aliases: ["Medical Office Buildings (MOB)"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

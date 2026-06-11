@@ -1,5 +1,6 @@
 ---
 title: "Tempe Signage Standards"
+aliases: ["Tempe Signage Standards"]
 type: standard
 tags: [juris/az/tempe, standard/signage, needs-verification]
 created: "2026-05-24"

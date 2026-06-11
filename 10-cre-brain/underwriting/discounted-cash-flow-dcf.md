@@ -1,5 +1,6 @@
 ---
 title: "Discounted Cash Flow (DCF)"
+aliases: ["Discounted Cash Flow (DCF)"]
 type: framework
 tags: [cre/underwriting, cre/frameworks]
 created: 2026-05-24

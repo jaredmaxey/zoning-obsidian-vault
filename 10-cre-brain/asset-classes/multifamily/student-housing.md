@@ -1,5 +1,6 @@
 ---
 title: Student Housing (Multifamily)
+aliases: ["Student Housing (Multifamily)"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

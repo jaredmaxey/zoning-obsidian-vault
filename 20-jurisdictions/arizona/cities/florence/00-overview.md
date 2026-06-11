@@ -1,5 +1,6 @@
 ---
 title: "Town of Florence"
+aliases: ["Town of Florence"]
 type: jurisdiction
 tags: [juris/az/florence, draft, needs-verification]
 created: 2026-06-08

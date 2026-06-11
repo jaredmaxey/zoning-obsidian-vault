@@ -1,5 +1,6 @@
 ---
 title: "Equity Multiple"
+aliases: ["Equity Multiple"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

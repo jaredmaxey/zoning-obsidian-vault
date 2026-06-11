@@ -1,5 +1,6 @@
 ---
 title: "Prescott Valley, Arizona"
+aliases: ["Prescott Valley, Arizona"]
 type: jurisdiction
 tags: [juris/az/prescott-valley, needs-verification]
 created: "2026-05-24"

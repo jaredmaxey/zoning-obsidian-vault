@@ -1,5 +1,6 @@
 ---
 title: "Mesa Subdivision Platting"
+aliases: ["Mesa Subdivision Platting"]
 type: process
 tags: [process/subdivision, juris/az/mesa, needs-verification]
 created: 2026-05-24

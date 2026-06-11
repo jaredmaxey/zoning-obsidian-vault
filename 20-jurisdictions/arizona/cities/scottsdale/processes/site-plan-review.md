@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Development Review"
+aliases: ["Scottsdale Development Review"]
 type: process
 tags: [juris/az/scottsdale, process/site-plan, needs-verification]
 created: "2026-05-24"

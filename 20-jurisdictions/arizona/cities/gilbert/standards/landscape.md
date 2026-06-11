@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Landscape Standards"
+aliases: ["Gilbert Landscape Standards"]
 type: standard
 tags: ["juris/az/gilbert", "standard/landscape", needs-verification]
 created: 2026-05-24

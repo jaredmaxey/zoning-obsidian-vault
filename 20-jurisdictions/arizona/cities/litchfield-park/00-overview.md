@@ -1,5 +1,6 @@
 ---
 title: "City of Litchfield Park"
+aliases: ["City of Litchfield Park"]
 type: jurisdiction
 tags: [juris/az/litchfield-park, stub]
 created: 2026-06-05

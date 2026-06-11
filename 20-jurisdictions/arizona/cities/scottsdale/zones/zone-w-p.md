@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale W-P"
+aliases: ["Scottsdale W-P"]
 type: zone
 tags: [juris/az/scottsdale, zoning/commercial]
 created: "2026-05-25"

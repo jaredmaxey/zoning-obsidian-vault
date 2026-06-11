@@ -1,5 +1,6 @@
 ---
 title: "Tempe Landscape Standards"
+aliases: ["Tempe Landscape Standards"]
 type: standard
 tags: [juris/az/tempe, standard/landscape, needs-verification]
 created: "2026-05-24"

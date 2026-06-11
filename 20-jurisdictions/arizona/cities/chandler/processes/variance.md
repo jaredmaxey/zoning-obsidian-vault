@@ -1,5 +1,6 @@
 ---
 title: "Chandler Variance"
+aliases: ["Chandler Variance"]
 type: process
 tags: [process/variance, juris/az/chandler, needs-verification]
 created: 2026-05-24

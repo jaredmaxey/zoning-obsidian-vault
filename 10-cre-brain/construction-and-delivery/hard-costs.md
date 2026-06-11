@@ -1,5 +1,6 @@
 ---
 title: "Hard Costs"
+aliases: ["Hard Costs"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: "Development Spread"
+aliases: ["Development Spread"]
 type: concept
 tags: [cre/underwriting]
 created: 2026-05-24

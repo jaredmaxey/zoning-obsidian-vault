@@ -1,5 +1,6 @@
 ---
 title: Post-COVID Occupancy Trends
+aliases: ["Post-COVID Occupancy Trends"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

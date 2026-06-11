@@ -1,5 +1,6 @@
 ---
 title: "Market Analysis Frameworks Index"
+aliases: ["Market Analysis Frameworks Index"]
 type: index
 tags: [index, cre/market-analysis]
 created: "2026-05-24"

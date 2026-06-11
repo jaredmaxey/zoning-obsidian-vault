@@ -1,5 +1,6 @@
 ---
 title: "Chandler MH-1"
+aliases: ["Chandler MH-1"]
 type: zone
 tags: [juris/az/chandler, zoning/residential, needs-verification]
 created: 2026-05-25

@@ -1,5 +1,6 @@
 ---
 title: "Specialty Asset Classes Index"
+aliases: ["Specialty Asset Classes Index"]
 type: index
 tags: [index, cre, asset/specialty]
 created: 2026-05-24

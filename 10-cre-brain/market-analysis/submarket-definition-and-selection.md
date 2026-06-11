@@ -1,5 +1,6 @@
 ---
 title: "Submarket Definition and Selection"
+aliases: ["Submarket Definition and Selection"]
 type: framework
 tags: [cre/market-analysis]
 created: "2026-05-24"

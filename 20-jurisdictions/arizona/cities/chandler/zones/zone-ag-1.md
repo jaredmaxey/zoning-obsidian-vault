@@ -1,5 +1,6 @@
 ---
 title: "Chandler AG-1"
+aliases: ["Chandler AG-1"]
 type: zone
 tags: [juris/az/chandler, zoning/agricultural, needs-verification]
 created: 2026-05-25

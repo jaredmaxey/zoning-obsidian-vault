@@ -1,5 +1,6 @@
 ---
 title: Mixed-Use — Regulatory Considerations
+aliases: ["Mixed-Use — Regulatory Considerations"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

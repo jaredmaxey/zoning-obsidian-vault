@@ -1,5 +1,6 @@
 ---
 title: "Chandler Downtown Overlay"
+aliases: ["Chandler Downtown Overlay"]
 type: overlay
 tags: [juris/az/chandler, zoning/overlay, needs-verification]
 created: 2026-05-24

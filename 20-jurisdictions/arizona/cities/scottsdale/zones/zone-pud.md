@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale PUD"
+aliases: ["Scottsdale PUD"]
 type: zone
 tags: [juris/az/scottsdale, zoning/mixed-use]
 created: "2026-05-25"

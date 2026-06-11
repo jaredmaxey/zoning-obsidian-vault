@@ -1,5 +1,6 @@
 ---
 title: "Tempe TP"
+aliases: ["Tempe TP"]
 type: zone
 tags: [juris/az/tempe, zoning/residential]
 created: "2026-05-25"

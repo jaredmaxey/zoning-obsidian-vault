@@ -1,5 +1,6 @@
 ---
 title: "Prescott, Arizona"
+aliases: ["Prescott, Arizona"]
 type: jurisdiction
 tags: [juris/az/prescott, needs-verification]
 created: "2026-05-24"

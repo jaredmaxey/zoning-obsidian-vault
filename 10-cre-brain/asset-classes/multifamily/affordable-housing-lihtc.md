@@ -1,5 +1,6 @@
 ---
 title: Affordable Housing & LIHTC
+aliases: ["Affordable Housing & LIHTC"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

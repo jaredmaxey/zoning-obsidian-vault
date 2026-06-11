@@ -1,5 +1,6 @@
 ---
 title: "Psychographic Analysis"
+aliases: ["Psychographic Analysis"]
 type: framework
 tags: [cre/market-analysis]
 created: "2026-05-24"

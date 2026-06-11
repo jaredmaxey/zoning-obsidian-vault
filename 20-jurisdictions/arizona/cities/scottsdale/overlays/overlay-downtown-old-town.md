@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Downtown (Old Town) Overlay"
+aliases: ["Scottsdale Downtown (Old Town) Overlay"]
 type: overlay
 tags: [juris/az/scottsdale, zoning/overlay, needs-verification]
 created: "2026-05-24"

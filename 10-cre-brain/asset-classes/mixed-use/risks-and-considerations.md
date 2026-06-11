@@ -1,5 +1,6 @@
 ---
 title: Mixed-Use — Risks & Considerations
+aliases: ["Mixed-Use — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

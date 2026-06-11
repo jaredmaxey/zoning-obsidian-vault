@@ -1,5 +1,6 @@
 ---
 title: "Development Feasibility Test"
+aliases: ["Development Feasibility Test"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

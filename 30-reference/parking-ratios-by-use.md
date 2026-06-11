@@ -1,5 +1,6 @@
 ---
 title: Parking Ratios by Use
+aliases: ["Parking Ratios by Use"]
 type: reference
 tags: [reference, standard/parking, needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Residual Land Value Feasibility"
+aliases: ["Residual Land Value Feasibility"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

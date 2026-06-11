@@ -1,5 +1,6 @@
 ---
 title: "Flagstaff, Arizona"
+aliases: ["Flagstaff, Arizona"]
 type: jurisdiction
 tags: [juris/az/flagstaff, needs-verification]
 created: "2026-05-24"

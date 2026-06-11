@@ -1,5 +1,6 @@
 ---
 title: "Certificate of Occupancy (CO)"
+aliases: ["Certificate of Occupancy (CO)"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

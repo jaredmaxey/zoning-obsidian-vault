@@ -1,5 +1,6 @@
 ---
 title: "Tucson Special Exception / CUP"
+aliases: ["Tucson Special Exception / CUP"]
 type: process
 tags: ["process/cup", "juris/az/tucson", needs-verification]
 created: 2026-05-24

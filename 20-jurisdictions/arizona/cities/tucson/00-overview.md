@@ -1,5 +1,6 @@
 ---
 title: "Tucson, Arizona"
+aliases: ["Tucson, Arizona"]
 type: jurisdiction
 tags: ["juris/az/tucson", needs-verification]
 created: 2026-05-24

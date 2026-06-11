@@ -1,5 +1,6 @@
 ---
 title: "Tempe Subdivision Platting"
+aliases: ["Tempe Subdivision Platting"]
 type: process
 tags: [process/subdivision, juris/az/tempe, needs-verification]
 created: "2026-05-24"

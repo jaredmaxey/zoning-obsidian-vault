@@ -1,5 +1,6 @@
 ---
 title: "Tucson Signage Standards"
+aliases: ["Tucson Signage Standards"]
 type: standard
 tags: ["juris/az/tucson", "standard/signage", needs-verification]
 created: 2026-05-24

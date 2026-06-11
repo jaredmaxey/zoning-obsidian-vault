@@ -1,5 +1,6 @@
 ---
 title: "Lake Havasu City, Arizona"
+aliases: ["Lake Havasu City, Arizona"]
 type: jurisdiction
 tags: [juris/az/lake-havasu-city, needs-verification]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale R-4R"
+aliases: ["Scottsdale R-4R"]
 type: zone
 tags: [juris/az/scottsdale, zoning/residential]
 created: "2026-05-25"

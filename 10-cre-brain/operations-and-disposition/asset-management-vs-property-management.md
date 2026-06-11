@@ -1,5 +1,6 @@
 ---
 title: "Asset Management vs. Property Management"
+aliases: ["Asset Management vs. Property Management"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

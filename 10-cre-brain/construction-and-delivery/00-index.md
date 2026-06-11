@@ -1,5 +1,6 @@
 ---
 title: "Construction and Delivery Index"
+aliases: ["Construction and Delivery Index"]
 type: index
 tags: [index, cre/construction]
 created: "2026-05-24"

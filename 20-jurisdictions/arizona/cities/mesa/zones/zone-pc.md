@@ -1,5 +1,6 @@
 ---
 title: "Mesa PC"
+aliases: ["Mesa PC"]
 type: zone
 tags: [juris/az/mesa, zoning/residential, zoning/mixed-use, needs-verification]
 created: 2026-05-25

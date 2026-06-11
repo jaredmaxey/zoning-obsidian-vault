@@ -1,5 +1,6 @@
 ---
 title: Phoenix Use Permit / CUP
+aliases: ["Phoenix Use Permit / CUP"]
 type: process
 tags: [juris/az/phoenix, process/cup, needs-verification]
 created: 2026-05-24

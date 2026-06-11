@@ -1,5 +1,6 @@
 ---
 title: "Waterfall Structures and Promote"
+aliases: ["Waterfall Structures and Promote"]
 type: framework
 tags: [cre/financing, cre/frameworks]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Tucson Rezoning"
+aliases: ["Tucson Rezoning"]
 type: process
 tags: ["process/rezoning", "juris/az/tucson", needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "A.R.S. Title 11 — Counties (County Zoning)"
+aliases: ["A.R.S. Title 11 — Counties (County Zoning)"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

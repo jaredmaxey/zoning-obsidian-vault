@@ -1,5 +1,6 @@
 ---
 title: "Oro Valley, Arizona"
+aliases: ["Oro Valley, Arizona"]
 type: jurisdiction
 tags: [juris/az/oro-valley, needs-verification]
 created: "2026-05-24"

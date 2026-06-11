@@ -1,5 +1,6 @@
 ---
 title: "Gilbert SC"
+aliases: ["Gilbert SC"]
 type: zone
 tags: [juris/az/gilbert, zoning/commercial, asset/retail, needs-verification]
 created: 2026-05-25

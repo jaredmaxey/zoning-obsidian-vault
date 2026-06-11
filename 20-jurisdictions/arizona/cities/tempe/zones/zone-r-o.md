@@ -1,5 +1,6 @@
 ---
 title: "Tempe R/O"
+aliases: ["Tempe R/O"]
 type: zone
 tags: [juris/az/tempe, zoning/commercial]
 created: "2026-05-25"

@@ -1,5 +1,6 @@
 ---
 title: "Town of Paradise Valley"
+aliases: ["Town of Paradise Valley"]
 type: jurisdiction
 tags: [juris/az/paradise-valley, stub]
 created: 2026-06-05

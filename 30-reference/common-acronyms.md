@@ -1,5 +1,6 @@
 ---
 title: Common Acronyms
+aliases: ["Common Acronyms"]
 type: reference
 tags: [reference]
 created: 2026-05-24

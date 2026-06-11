@@ -1,5 +1,6 @@
 ---
 title: "Mesa PEP"
+aliases: ["Mesa PEP"]
 type: zone
 tags: [juris/az/mesa, zoning/industrial, asset/industrial, asset/office, needs-verification]
 created: 2026-05-25

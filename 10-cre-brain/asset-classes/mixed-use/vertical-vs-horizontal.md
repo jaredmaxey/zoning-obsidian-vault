@@ -1,5 +1,6 @@
 ---
 title: Vertical vs. Horizontal Mixed-Use
+aliases: ["Vertical vs. Horizontal Mixed-Use"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

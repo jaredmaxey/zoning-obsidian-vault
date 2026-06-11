@@ -1,5 +1,6 @@
 ---
 title: "Phoenix A-2"
+aliases: ["Phoenix A-2"]
 type: zone
 tags: [juris/az/phoenix, zoning/industrial, asset/industrial, needs-verification]
 created: 2026-05-24

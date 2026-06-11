@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale C-3"
+aliases: ["Scottsdale C-3"]
 type: zone
 tags: [juris/az/scottsdale, zoning/commercial]
 created: "2026-05-25"

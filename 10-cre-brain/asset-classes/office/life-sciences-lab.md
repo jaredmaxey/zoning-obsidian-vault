@@ -1,5 +1,6 @@
 ---
 title: Life Sciences & Lab Space
+aliases: ["Life Sciences & Lab Space"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

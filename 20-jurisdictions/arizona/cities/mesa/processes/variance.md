@@ -1,5 +1,6 @@
 ---
 title: "Mesa Variance"
+aliases: ["Mesa Variance"]
 type: process
 tags: [process/variance, juris/az/mesa, needs-verification]
 created: 2026-05-24

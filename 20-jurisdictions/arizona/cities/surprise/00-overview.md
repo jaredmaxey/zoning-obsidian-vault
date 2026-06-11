@@ -1,5 +1,6 @@
 ---
 title: "Surprise, Arizona"
+aliases: ["Surprise, Arizona"]
 type: jurisdiction
 tags: [juris/az/surprise, needs-verification]
 created: "2026-05-24"

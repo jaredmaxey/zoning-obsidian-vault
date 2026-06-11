@@ -1,5 +1,6 @@
 ---
 title: "Phoenix R-3"
+aliases: ["Phoenix R-3"]
 type: zone
 tags: [juris/az/phoenix, zoning/residential, asset/multifamily, needs-verification]
 created: 2026-05-24

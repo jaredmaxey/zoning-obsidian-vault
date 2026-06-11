@@ -1,5 +1,6 @@
 ---
 title: "Chandler Subdivision Platting"
+aliases: ["Chandler Subdivision Platting"]
 type: process
 tags: [process/subdivision, juris/az/chandler, needs-verification]
 created: 2026-05-24

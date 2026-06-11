@@ -1,5 +1,6 @@
 ---
 title: Limited-Service Hotels
+aliases: ["Limited-Service Hotels"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Last-Mile Logistics
+aliases: ["Last-Mile Logistics"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

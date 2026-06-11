@@ -1,5 +1,6 @@
 ---
 title: "Deal Types Index"
+aliases: ["Deal Types Index"]
 type: index
 tags: [index, cre/deal-types]
 created: 2026-05-24

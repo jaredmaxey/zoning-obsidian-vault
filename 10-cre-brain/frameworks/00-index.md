@@ -1,5 +1,6 @@
 ---
 title: "Frameworks Index"
+aliases: ["Frameworks Index"]
 type: index
 tags: [index, cre/frameworks]
 created: 2026-05-24

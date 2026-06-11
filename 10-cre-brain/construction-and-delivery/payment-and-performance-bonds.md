@@ -1,5 +1,6 @@
 ---
 title: "Payment and Performance Bonds"
+aliases: ["Payment and Performance Bonds"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

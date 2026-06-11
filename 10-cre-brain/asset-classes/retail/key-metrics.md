@@ -1,5 +1,6 @@
 ---
 title: Retail — Key Metrics
+aliases: ["Retail — Key Metrics"]
 type: asset-class
 tags: [cre, asset/retail]
 created: 2026-05-24

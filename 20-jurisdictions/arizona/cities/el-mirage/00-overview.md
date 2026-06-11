@@ -1,5 +1,6 @@
 ---
 title: "City of El Mirage"
+aliases: ["City of El Mirage"]
 type: jurisdiction
 tags: [juris/az/el-mirage, stub]
 created: 2026-06-05

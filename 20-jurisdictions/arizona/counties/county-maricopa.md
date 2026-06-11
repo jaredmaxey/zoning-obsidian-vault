@@ -1,5 +1,6 @@
 ---
 title: "Maricopa County, Arizona"
+aliases: ["Maricopa County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/maricopa", "needs-verification", draft]
 created: "2026-05-24"

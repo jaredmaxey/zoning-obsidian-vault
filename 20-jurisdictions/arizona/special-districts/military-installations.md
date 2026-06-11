@@ -1,5 +1,6 @@
 ---
 title: "Arizona Military Installations and Compatibility"
+aliases: ["Arizona Military Installations and Compatibility"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

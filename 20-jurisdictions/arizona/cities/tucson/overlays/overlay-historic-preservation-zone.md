@@ -1,5 +1,6 @@
 ---
 title: "Tucson Historic Preservation Zone"
+aliases: ["Tucson Historic Preservation Zone"]
 type: overlay
 tags: ["juris/az/tucson", "zoning/overlay", needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Phoenix Site Plan Review
+aliases: ["Phoenix Site Plan Review"]
 type: process
 tags: [juris/az/phoenix, process/site-plan-review, needs-verification]
 created: 2026-05-24

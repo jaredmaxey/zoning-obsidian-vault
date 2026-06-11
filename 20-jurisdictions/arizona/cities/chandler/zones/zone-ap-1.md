@@ -1,5 +1,6 @@
 ---
 title: "Chandler AP-1"
+aliases: ["Chandler AP-1"]
 type: zone
 tags: [juris/az/chandler, zoning/industrial, needs-verification]
 created: 2026-05-25

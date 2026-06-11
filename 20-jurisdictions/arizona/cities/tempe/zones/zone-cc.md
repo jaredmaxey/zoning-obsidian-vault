@@ -1,5 +1,6 @@
 ---
 title: "Tempe CC"
+aliases: ["Tempe CC"]
 type: zone
 tags: [juris/az/tempe, zoning/commercial]
 created: "2026-05-25"

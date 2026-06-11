@@ -1,5 +1,6 @@
 ---
 title: "Property Management Fundamentals"
+aliases: ["Property Management Fundamentals"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

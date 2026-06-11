@@ -1,5 +1,6 @@
 ---
 title: "Tempe Overlay Districts Index"
+aliases: ["Tempe Overlay Districts Index"]
 type: overlay
 tags: [juris/az/tempe, zoning/overlay, needs-verification]
 created: "2026-05-24"

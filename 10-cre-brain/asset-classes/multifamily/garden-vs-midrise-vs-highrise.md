@@ -1,5 +1,6 @@
 ---
 title: Garden vs. Mid-Rise vs. High-Rise
+aliases: ["Garden vs. Mid-Rise vs. High-Rise"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

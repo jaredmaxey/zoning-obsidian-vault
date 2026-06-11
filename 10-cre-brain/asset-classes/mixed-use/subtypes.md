@@ -1,5 +1,6 @@
 ---
 title: Mixed-Use — Subtypes
+aliases: ["Mixed-Use — Subtypes"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Mall Formats
+aliases: ["Mall Formats"]
 type: asset-class
 tags: [cre, asset/retail]
 created: 2026-05-24

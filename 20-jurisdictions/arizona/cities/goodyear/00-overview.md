@@ -1,5 +1,6 @@
 ---
 title: "Goodyear, Arizona"
+aliases: ["Goodyear, Arizona"]
 type: jurisdiction
 tags: [juris/az/goodyear, needs-verification]
 created: "2026-05-24"

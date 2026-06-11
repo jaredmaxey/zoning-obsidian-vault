@@ -1,5 +1,6 @@
 ---
 title: "Chandler C-2"
+aliases: ["Chandler C-2"]
 type: zone
 tags: [juris/az/chandler, zoning/commercial, needs-verification]
 created: 2026-05-25

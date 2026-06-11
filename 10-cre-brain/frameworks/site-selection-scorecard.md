@@ -1,5 +1,6 @@
 ---
 title: "Site Selection Scorecard"
+aliases: ["Site Selection Scorecard"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

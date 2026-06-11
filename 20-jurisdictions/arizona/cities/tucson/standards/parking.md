@@ -1,5 +1,6 @@
 ---
 title: "Tucson Parking Standards"
+aliases: ["Tucson Parking Standards"]
 type: standard
 tags: ["juris/az/tucson", "standard/parking", needs-verification]
 created: 2026-05-24

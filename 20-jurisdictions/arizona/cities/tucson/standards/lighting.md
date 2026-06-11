@@ -1,5 +1,6 @@
 ---
 title: "Tucson Lighting Standards"
+aliases: ["Tucson Lighting Standards"]
 type: standard
 tags: ["juris/az/tucson", "standard/lighting", needs-verification]
 created: 2026-05-24

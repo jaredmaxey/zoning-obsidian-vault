@@ -1,5 +1,6 @@
 ---
 title: Phoenix Signage Standards
+aliases: ["Phoenix Signage Standards"]
 type: standard
 tags: [juris/az/phoenix, standard/signage, needs-verification]
 created: 2026-05-24

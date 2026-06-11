@@ -1,5 +1,6 @@
 ---
 title: "Tucson Overlay Districts (Index)"
+aliases: ["Tucson Overlay Districts (Index)"]
 type: overlay
 tags: ["juris/az/tucson", "zoning/overlay", needs-verification]
 created: 2026-05-24

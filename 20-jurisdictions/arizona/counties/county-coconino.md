@@ -1,5 +1,6 @@
 ---
 title: "Coconino County, Arizona"
+aliases: ["Coconino County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/coconino", "needs-verification", draft]
 created: "2026-05-24"

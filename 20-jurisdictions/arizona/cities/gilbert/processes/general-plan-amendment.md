@@ -1,5 +1,6 @@
 ---
 title: "Gilbert General Plan Amendment"
+aliases: ["Gilbert General Plan Amendment"]
 type: process
 tags: ["juris/az/gilbert", "process/gpa", needs-verification]
 created: 2026-05-24

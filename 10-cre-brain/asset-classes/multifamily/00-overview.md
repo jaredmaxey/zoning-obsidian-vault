@@ -1,5 +1,6 @@
 ---
 title: Multifamily
+aliases: ["Multifamily"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

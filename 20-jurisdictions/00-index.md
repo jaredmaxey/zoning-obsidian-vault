@@ -1,5 +1,6 @@
 ---
 title: Jurisdictions Index
+aliases: ["Jurisdictions Index"]
 type: index
 tags: [juris, index]
 created: 2026-05-24

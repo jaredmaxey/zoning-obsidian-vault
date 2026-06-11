@@ -1,5 +1,6 @@
 ---
 title: "Tucson Walls and Fences Standards"
+aliases: ["Tucson Walls and Fences Standards"]
 type: standard
 tags: ["juris/az/tucson", "standard/walls-fences", needs-verification]
 created: 2026-05-24

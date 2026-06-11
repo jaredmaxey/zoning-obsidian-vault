@@ -1,5 +1,6 @@
 ---
 title: Entitlement Risk Phases
+aliases: ["Entitlement Risk Phases"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

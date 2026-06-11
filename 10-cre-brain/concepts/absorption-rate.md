@@ -1,5 +1,6 @@
 ---
 title: "Absorption Rate"
+aliases: ["Absorption Rate"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

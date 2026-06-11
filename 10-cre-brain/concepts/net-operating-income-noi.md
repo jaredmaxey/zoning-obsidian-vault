@@ -1,5 +1,6 @@
 ---
 title: "Net Operating Income (NOI)"
+aliases: ["Net Operating Income (NOI)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

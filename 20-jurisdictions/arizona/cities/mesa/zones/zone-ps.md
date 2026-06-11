@@ -1,5 +1,6 @@
 ---
 title: "Mesa PS"
+aliases: ["Mesa PS"]
 type: zone
 tags: [juris/az/mesa, zoning/institutional, needs-verification]
 created: 2026-05-25

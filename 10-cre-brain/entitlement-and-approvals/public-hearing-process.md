@@ -1,5 +1,6 @@
 ---
 title: "Public Hearing Process"
+aliases: ["Public Hearing Process"]
 type: process
 tags: [cre/entitlement, process/public-hearing-process]
 created: "2026-05-24"

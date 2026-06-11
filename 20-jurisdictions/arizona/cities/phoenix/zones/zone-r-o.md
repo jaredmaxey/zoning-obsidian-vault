@@ -1,5 +1,6 @@
 ---
 title: "Phoenix R-O"
+aliases: ["Phoenix R-O"]
 type: zone
 tags: [juris/az/phoenix, zoning/residential, asset/office, needs-verification]
 created: 2026-05-24

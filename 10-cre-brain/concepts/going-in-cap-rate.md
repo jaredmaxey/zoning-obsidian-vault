@@ -1,5 +1,6 @@
 ---
 title: "Going-In Cap Rate"
+aliases: ["Going-In Cap Rate"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

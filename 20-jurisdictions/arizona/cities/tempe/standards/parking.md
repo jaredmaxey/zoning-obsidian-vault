@@ -1,5 +1,6 @@
 ---
 title: "Tempe Parking Standards"
+aliases: ["Tempe Parking Standards"]
 type: standard
 tags: [juris/az/tempe, standard/parking, needs-verification]
 created: "2026-05-24"

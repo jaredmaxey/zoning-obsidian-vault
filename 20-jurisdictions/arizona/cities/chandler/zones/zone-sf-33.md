@@ -1,5 +1,6 @@
 ---
 title: "Chandler SF-33"
+aliases: ["Chandler SF-33"]
 type: zone
 tags: [juris/az/chandler, zoning/residential, needs-verification]
 created: 2026-05-25

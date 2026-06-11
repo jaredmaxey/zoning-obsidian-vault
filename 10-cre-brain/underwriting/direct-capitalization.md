@@ -1,5 +1,6 @@
 ---
 title: "Direct Capitalization"
+aliases: ["Direct Capitalization"]
 type: framework
 tags: [cre/underwriting, cre/frameworks]
 created: 2026-05-24

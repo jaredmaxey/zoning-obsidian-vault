@@ -1,5 +1,6 @@
 ---
 title: Office — Key Metrics
+aliases: ["Office — Key Metrics"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

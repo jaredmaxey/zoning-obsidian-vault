@@ -1,5 +1,6 @@
 ---
 title: "Avondale, Arizona"
+aliases: ["Avondale, Arizona"]
 type: jurisdiction
 tags: [juris/az/avondale, needs-verification]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: "Town of Youngtown"
+aliases: ["Town of Youngtown"]
 type: jurisdiction
 tags: [juris/az/youngtown, stub]
 created: 2026-06-05

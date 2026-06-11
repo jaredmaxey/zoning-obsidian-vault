@@ -1,5 +1,6 @@
 ---
 title: "Mesa Rezoning"
+aliases: ["Mesa Rezoning"]
 type: process
 tags: [process/rezoning, juris/az/mesa, needs-verification]
 created: 2026-05-24

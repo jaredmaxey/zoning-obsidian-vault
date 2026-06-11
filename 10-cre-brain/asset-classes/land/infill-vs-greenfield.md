@@ -1,5 +1,6 @@
 ---
 title: Infill vs. Greenfield
+aliases: ["Infill vs. Greenfield"]
 type: asset-class
 tags: [cre, asset/land]
 created: 2026-05-24

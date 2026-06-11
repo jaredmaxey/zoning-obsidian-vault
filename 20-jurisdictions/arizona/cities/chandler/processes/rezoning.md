@@ -1,5 +1,6 @@
 ---
 title: "Chandler Rezoning"
+aliases: ["Chandler Rezoning"]
 type: process
 tags: [process/rezoning, juris/az/chandler, needs-verification]
 created: 2026-05-24

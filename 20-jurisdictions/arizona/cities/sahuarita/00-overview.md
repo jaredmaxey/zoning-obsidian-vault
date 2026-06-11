@@ -1,5 +1,6 @@
 ---
 title: "Sahuarita, Arizona"
+aliases: ["Sahuarita, Arizona"]
 type: jurisdiction
 tags: [juris/az/sahuarita, needs-verification]
 created: "2026-05-24"

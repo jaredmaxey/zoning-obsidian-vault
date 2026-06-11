@@ -1,5 +1,6 @@
 ---
 title: "Comparable Sales (Sales Comps)"
+aliases: ["Comparable Sales (Sales Comps)"]
 type: framework
 tags: [cre/market-analysis, cre/underwriting]
 created: "2026-05-24"

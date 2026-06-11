@@ -1,5 +1,6 @@
 ---
 title: "Chandler General Plan Amendment"
+aliases: ["Chandler General Plan Amendment"]
 type: process
 tags: [process/gpa, juris/az/chandler, needs-verification]
 created: 2026-05-24

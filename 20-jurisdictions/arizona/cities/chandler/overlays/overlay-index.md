@@ -1,5 +1,6 @@
 ---
 title: "Chandler Overlay Districts (Index)"
+aliases: ["Chandler Overlay Districts (Index)"]
 type: overlay
 tags: [juris/az/chandler, zoning/overlay, needs-verification]
 created: 2026-05-24

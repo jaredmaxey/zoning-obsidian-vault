@@ -1,5 +1,6 @@
 ---
 title: Phoenix Parking Standards
+aliases: ["Phoenix Parking Standards"]
 type: standard
 tags: [juris/az/phoenix, standard/parking, needs-verification]
 created: 2026-05-24

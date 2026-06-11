@@ -1,5 +1,6 @@
 ---
 title: Industrial — Regulatory Considerations
+aliases: ["Industrial — Regulatory Considerations"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

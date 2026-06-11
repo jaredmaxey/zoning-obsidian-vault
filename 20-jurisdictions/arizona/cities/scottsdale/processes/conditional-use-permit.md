@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Conditional Use Permit"
+aliases: ["Scottsdale Conditional Use Permit"]
 type: process
 tags: [juris/az/scottsdale, process/cup, needs-verification]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: Retail-Residential Podium
+aliases: ["Retail-Residential Podium"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

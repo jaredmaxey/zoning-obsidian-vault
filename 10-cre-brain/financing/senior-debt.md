@@ -1,5 +1,6 @@
 ---
 title: "Senior Debt"
+aliases: ["Senior Debt"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

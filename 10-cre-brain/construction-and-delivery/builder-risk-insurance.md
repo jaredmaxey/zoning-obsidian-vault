@@ -1,5 +1,6 @@
 ---
 title: "Builder's Risk Insurance"
+aliases: ["Builder's Risk Insurance"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

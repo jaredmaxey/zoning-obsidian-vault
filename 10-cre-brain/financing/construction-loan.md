@@ -1,5 +1,6 @@
 ---
 title: "Construction Loan"
+aliases: ["Construction Loan"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

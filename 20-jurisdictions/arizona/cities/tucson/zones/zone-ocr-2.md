@@ -1,5 +1,6 @@
 ---
 title: "Tucson OCR-2"
+aliases: ["Tucson OCR-2"]
 type: zone
 tags: [juris/az/tucson, zoning/mixed-use, needs-verification]
 created: 2026-05-25

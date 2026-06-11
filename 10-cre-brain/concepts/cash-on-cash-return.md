@@ -1,5 +1,6 @@
 ---
 title: "Cash-on-Cash Return"
+aliases: ["Cash-on-Cash Return"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

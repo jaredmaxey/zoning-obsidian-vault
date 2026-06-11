@@ -1,5 +1,6 @@
 ---
 title: Mixed-Use
+aliases: ["Mixed-Use"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

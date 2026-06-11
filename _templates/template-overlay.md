@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+aliases: ["{{title}}"]  # required when title differs from filename - makes Obsidian resolve title-based wikilinks
 type: overlay
 tags: ["juris/{{state-slug}}/{{city-slug}}", zoning/overlay, stub]
 created: "{{date}}"

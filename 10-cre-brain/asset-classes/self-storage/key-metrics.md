@@ -1,5 +1,6 @@
 ---
 title: Self-Storage — Key Metrics
+aliases: ["Self-Storage — Key Metrics"]
 type: asset-class
 tags: [cre, asset/self-storage]
 created: 2026-05-24

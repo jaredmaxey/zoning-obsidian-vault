@@ -1,5 +1,6 @@
 ---
 title: "Gross Rent Multiplier (GRM)"
+aliases: ["Gross Rent Multiplier (GRM)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Phoenix Walkable Urban (WU) Code"
+aliases: ["Phoenix Walkable Urban (WU) Code"]
 type: zone
 tags: [juris/az/phoenix, zoning/mixed-use, zoning/commercial, zoning/residential, asset/mixed-use, needs-verification]
 created: 2026-05-24

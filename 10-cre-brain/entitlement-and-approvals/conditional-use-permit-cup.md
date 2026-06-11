@@ -1,5 +1,6 @@
 ---
 title: "Conditional Use Permit (CUP)"
+aliases: ["Conditional Use Permit (CUP)"]
 type: process
 tags: [cre/entitlement, process/conditional-use-permit-cup]
 created: "2026-05-24"

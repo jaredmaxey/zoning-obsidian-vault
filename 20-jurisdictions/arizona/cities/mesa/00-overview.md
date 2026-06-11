@@ -1,5 +1,6 @@
 ---
 title: "Mesa, Arizona"
+aliases: ["Mesa, Arizona"]
 type: jurisdiction
 tags: [juris/az/mesa, needs-verification]
 created: 2026-05-24

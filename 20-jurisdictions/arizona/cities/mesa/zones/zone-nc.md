@@ -1,5 +1,6 @@
 ---
 title: "Mesa NC"
+aliases: ["Mesa NC"]
 type: zone
 tags: [juris/az/mesa, zoning/commercial, asset/retail, needs-verification]
 created: 2026-05-25

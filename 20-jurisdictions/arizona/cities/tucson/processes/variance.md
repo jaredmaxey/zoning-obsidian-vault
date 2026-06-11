@@ -1,5 +1,6 @@
 ---
 title: "Tucson Variance"
+aliases: ["Tucson Variance"]
 type: process
 tags: ["process/variance", "juris/az/tucson", needs-verification]
 created: 2026-05-24

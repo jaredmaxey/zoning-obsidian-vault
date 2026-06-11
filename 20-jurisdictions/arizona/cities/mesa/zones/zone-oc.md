@@ -1,5 +1,6 @@
 ---
 title: "Mesa OC"
+aliases: ["Mesa OC"]
 type: zone
 tags: [juris/az/mesa, zoning/commercial, asset/office, needs-verification]
 created: 2026-05-25

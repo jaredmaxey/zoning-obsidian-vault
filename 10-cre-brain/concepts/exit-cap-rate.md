@@ -1,5 +1,6 @@
 ---
 title: "Exit Cap Rate"
+aliases: ["Exit Cap Rate"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

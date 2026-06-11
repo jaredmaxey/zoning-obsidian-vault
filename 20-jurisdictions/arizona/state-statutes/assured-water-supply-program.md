@@ -1,5 +1,6 @@
 ---
 title: "Assured Water Supply Program (Arizona)"
+aliases: ["Assured Water Supply Program (Arizona)"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

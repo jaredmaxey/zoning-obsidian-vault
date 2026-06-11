@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale OS"
+aliases: ["Scottsdale OS"]
 type: zone
 tags: [juris/az/scottsdale, zoning/open-space, needs-verification]
 created: "2026-05-25"

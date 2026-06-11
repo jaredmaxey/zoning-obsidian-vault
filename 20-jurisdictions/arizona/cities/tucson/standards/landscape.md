@@ -1,5 +1,6 @@
 ---
 title: "Tucson Landscape Standards"
+aliases: ["Tucson Landscape Standards"]
 type: standard
 tags: ["juris/az/tucson", "standard/landscape", needs-verification]
 created: 2026-05-24

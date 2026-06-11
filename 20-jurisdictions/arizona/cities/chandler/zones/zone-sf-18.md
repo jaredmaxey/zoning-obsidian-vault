@@ -1,5 +1,6 @@
 ---
 title: "Chandler SF-18"
+aliases: ["Chandler SF-18"]
 type: zone
 tags: [juris/az/chandler, zoning/residential, needs-verification]
 created: 2026-05-25

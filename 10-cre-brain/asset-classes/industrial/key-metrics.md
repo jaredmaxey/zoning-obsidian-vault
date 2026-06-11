@@ -1,5 +1,6 @@
 ---
 title: Industrial — Key Metrics
+aliases: ["Industrial — Key Metrics"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

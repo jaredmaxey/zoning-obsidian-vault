@@ -1,5 +1,6 @@
 ---
 title: "Environmental Review Overview"
+aliases: ["Environmental Review Overview"]
 type: process
 tags: [cre/entitlement, process/environmental-review-overview]
 created: "2026-05-24"

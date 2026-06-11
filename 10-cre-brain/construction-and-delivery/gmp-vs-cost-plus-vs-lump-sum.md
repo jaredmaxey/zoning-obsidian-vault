@@ -1,5 +1,6 @@
 ---
 title: "GMP vs. Cost-Plus vs. Lump-Sum"
+aliases: ["GMP vs. Cost-Plus vs. Lump-Sum"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

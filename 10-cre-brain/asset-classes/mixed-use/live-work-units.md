@@ -1,5 +1,6 @@
 ---
 title: Live-Work Units
+aliases: ["Live-Work Units"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

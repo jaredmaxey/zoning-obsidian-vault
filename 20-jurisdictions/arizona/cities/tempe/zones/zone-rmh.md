@@ -1,5 +1,6 @@
 ---
 title: "Tempe RMH"
+aliases: ["Tempe RMH"]
 type: zone
 tags: [juris/az/tempe, zoning/residential]
 created: "2026-05-25"

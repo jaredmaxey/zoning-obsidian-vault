@@ -1,5 +1,6 @@
 ---
 title: "Tucson Rio Nuevo Overlay"
+aliases: ["Tucson Rio Nuevo Overlay"]
 type: overlay
 tags: ["juris/az/tucson", "zoning/overlay", needs-verification]
 created: 2026-05-24

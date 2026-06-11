@@ -1,5 +1,6 @@
 ---
 title: "Demand Driver Analysis"
+aliases: ["Demand Driver Analysis"]
 type: framework
 tags: [cre/market-analysis]
 created: "2026-05-24"

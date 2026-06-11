@@ -1,5 +1,6 @@
 ---
 title: "Tucson MU"
+aliases: ["Tucson MU"]
 type: zone
 tags: [juris/az/tucson, zoning/mixed-use, needs-verification]
 created: 2026-05-25

@@ -1,5 +1,6 @@
 ---
 title: Resort Hotels
+aliases: ["Resort Hotels"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Land Banking vs. Active Pursuit
+aliases: ["Land Banking vs. Active Pursuit"]
 type: asset-class
 tags: [cre, asset/land]
 created: 2026-05-24

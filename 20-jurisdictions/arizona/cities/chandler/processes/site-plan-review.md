@@ -1,5 +1,6 @@
 ---
 title: "Chandler Preliminary Development Plan Review"
+aliases: ["Chandler Preliminary Development Plan Review"]
 type: process
 tags: [process/site-plan, juris/az/chandler, needs-verification]
 created: 2026-05-24

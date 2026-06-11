@@ -1,5 +1,6 @@
 ---
 title: "Tempe Rezoning / Map Amendment"
+aliases: ["Tempe Rezoning / Map Amendment"]
 type: process
 tags: [process/rezoning, juris/az/tempe, needs-verification]
 created: "2026-05-24"

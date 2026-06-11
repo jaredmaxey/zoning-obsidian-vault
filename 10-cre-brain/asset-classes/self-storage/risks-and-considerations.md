@@ -1,5 +1,6 @@
 ---
 title: Self-Storage — Risks & Considerations
+aliases: ["Self-Storage — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/self-storage]
 created: 2026-05-24

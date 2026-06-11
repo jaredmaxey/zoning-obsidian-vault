@@ -1,5 +1,6 @@
 ---
 title: "Tempe AG"
+aliases: ["Tempe AG"]
 type: zone
 tags: [juris/az/tempe, zoning/agricultural]
 created: "2026-05-25"

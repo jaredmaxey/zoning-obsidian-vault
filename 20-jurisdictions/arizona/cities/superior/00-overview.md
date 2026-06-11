@@ -1,5 +1,6 @@
 ---
 title: "Town of Superior"
+aliases: ["Town of Superior"]
 type: jurisdiction
 tags: [juris/az/superior, draft, needs-verification]
 created: 2026-06-08

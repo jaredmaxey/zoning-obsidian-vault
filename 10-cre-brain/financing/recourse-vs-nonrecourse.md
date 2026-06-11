@@ -1,5 +1,6 @@
 ---
 title: "Recourse vs. Non-Recourse"
+aliases: ["Recourse vs. Non-Recourse"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

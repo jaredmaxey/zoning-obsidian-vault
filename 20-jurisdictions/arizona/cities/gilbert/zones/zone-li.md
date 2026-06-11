@@ -1,5 +1,6 @@
 ---
 title: "Gilbert LI"
+aliases: ["Gilbert LI"]
 type: zone
 tags: [juris/az/gilbert, zoning/industrial, asset/industrial, needs-verification]
 created: 2026-05-25

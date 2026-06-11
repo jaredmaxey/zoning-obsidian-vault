@@ -1,5 +1,6 @@
 ---
 title: "Weighted Average Cost of Capital (WACC)"
+aliases: ["Weighted Average Cost of Capital (WACC)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

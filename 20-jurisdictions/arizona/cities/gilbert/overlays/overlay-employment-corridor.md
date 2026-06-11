@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Employment Corridor Overlay"
+aliases: ["Gilbert Employment Corridor Overlay"]
 type: overlay
 tags: ["juris/az/gilbert", "zoning/overlay", needs-verification]
 created: 2026-05-24

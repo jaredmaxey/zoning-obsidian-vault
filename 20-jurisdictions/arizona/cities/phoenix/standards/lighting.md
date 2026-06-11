@@ -1,5 +1,6 @@
 ---
 title: Phoenix Lighting Standards
+aliases: ["Phoenix Lighting Standards"]
 type: standard
 tags: [juris/az/phoenix, standard/lighting, needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Pinal County, Arizona"
+aliases: ["Pinal County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/pinal", "needs-verification", draft]
 created: "2026-05-24"

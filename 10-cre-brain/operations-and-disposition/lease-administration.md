@@ -1,5 +1,6 @@
 ---
 title: "Lease Administration"
+aliases: ["Lease Administration"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

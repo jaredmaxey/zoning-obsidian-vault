@@ -1,5 +1,6 @@
 ---
 title: "Internal Rate of Return (IRR)"
+aliases: ["Internal Rate of Return (IRR)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Nevada State Overview
+aliases: ["Nevada State Overview"]
 type: jurisdiction
 tags: [juris/nv, stub]
 created: 2026-05-24

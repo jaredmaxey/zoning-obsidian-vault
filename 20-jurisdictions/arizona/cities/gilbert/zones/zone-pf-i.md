@@ -1,5 +1,6 @@
 ---
 title: "Gilbert PF/I"
+aliases: ["Gilbert PF/I"]
 type: zone
 tags: [juris/az/gilbert, zoning/public, needs-verification]
 created: 2026-05-25

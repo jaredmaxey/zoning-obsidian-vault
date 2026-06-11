@@ -1,5 +1,6 @@
 ---
 title: "General Conditions"
+aliases: ["General Conditions"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

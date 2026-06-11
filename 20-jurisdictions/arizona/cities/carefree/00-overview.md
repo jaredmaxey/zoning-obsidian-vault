@@ -1,5 +1,6 @@
 ---
 title: "Town of Carefree"
+aliases: ["Town of Carefree"]
 type: jurisdiction
 tags: [juris/az/carefree, stub]
 created: 2026-06-05

@@ -1,5 +1,6 @@
 ---
 title: "Chandler Airport Environs Overlay"
+aliases: ["Chandler Airport Environs Overlay"]
 type: overlay
 tags: [juris/az/chandler, zoning/overlay, needs-verification]
 created: 2026-05-24

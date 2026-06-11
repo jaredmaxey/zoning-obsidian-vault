@@ -1,5 +1,6 @@
 ---
 title: "Construction Schedule and Critical Path"
+aliases: ["Construction Schedule and Critical Path"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: Multifamily — Underwriting Norms
+aliases: ["Multifamily — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

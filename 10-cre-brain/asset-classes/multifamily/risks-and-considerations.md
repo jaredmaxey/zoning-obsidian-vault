@@ -1,5 +1,6 @@
 ---
 title: Multifamily — Risks & Considerations
+aliases: ["Multifamily — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

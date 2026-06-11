@@ -1,5 +1,6 @@
 ---
 title: "Tempe, Arizona"
+aliases: ["Tempe, Arizona"]
 type: jurisdiction
 tags: [juris/az/tempe, needs-verification]
 created: "2026-05-24"

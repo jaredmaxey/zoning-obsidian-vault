@@ -1,5 +1,6 @@
 ---
 title: "Town of Winkelman"
+aliases: ["Town of Winkelman"]
 type: jurisdiction
 tags: [juris/az/winkelman, stub, needs-verification]
 created: 2026-06-08

@@ -1,5 +1,6 @@
 ---
 title: "Ground-Up Development"
+aliases: ["Ground-Up Development"]
 type: deal-type
 tags: [cre/deal-types]
 created: 2026-05-24

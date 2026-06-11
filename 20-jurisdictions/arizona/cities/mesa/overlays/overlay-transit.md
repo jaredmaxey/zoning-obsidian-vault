@@ -1,5 +1,6 @@
 ---
 title: "Mesa Transit Overlay District"
+aliases: ["Mesa Transit Overlay District"]
 type: overlay
 tags: [juris/az/mesa, zoning/overlay, needs-verification]
 created: 2026-05-24

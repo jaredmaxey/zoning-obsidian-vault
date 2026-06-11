@@ -1,5 +1,6 @@
 ---
 title: Office — Underwriting Norms
+aliases: ["Office — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Case Studies Index
+aliases: ["Case Studies Index"]
 type: index
 tags: [cre, index]
 created: 2026-05-24

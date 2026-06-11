@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale I-1"
+aliases: ["Scottsdale I-1"]
 type: zone
 tags: [juris/az/scottsdale, zoning/industrial]
 created: "2026-05-25"

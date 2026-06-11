@@ -1,5 +1,6 @@
 ---
 title: "Town of Cave Creek"
+aliases: ["Town of Cave Creek"]
 type: jurisdiction
 tags: [juris/az/cave-creek, stub]
 created: 2026-06-05

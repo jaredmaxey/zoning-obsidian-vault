@@ -1,5 +1,6 @@
 ---
 title: "CRE Concepts Index"
+aliases: ["CRE Concepts Index"]
 type: index
 tags: [index, cre/concepts]
 created: 2026-05-24

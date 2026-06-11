@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Subdivision Platting"
+aliases: ["Gilbert Subdivision Platting"]
 type: process
 tags: ["juris/az/gilbert", "process/subdivision", needs-verification]
 created: 2026-05-24

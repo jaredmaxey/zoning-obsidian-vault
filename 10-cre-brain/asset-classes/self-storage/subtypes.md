@@ -1,5 +1,6 @@
 ---
 title: Self-Storage — Subtypes
+aliases: ["Self-Storage — Subtypes"]
 type: asset-class
 tags: [cre, asset/self-storage]
 created: 2026-05-24

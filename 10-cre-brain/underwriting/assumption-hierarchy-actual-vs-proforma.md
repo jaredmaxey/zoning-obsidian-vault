@@ -1,5 +1,6 @@
 ---
 title: "Assumption Hierarchy: Actual vs. Pro Forma"
+aliases: ["Assumption Hierarchy: Actual vs. Pro Forma"]
 type: concept
 tags: [cre/underwriting]
 created: 2026-05-24

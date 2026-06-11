@@ -1,5 +1,6 @@
 ---
 title: "Tucson PCD"
+aliases: ["Tucson PCD"]
 type: zone
 tags: [juris/az/tucson, zoning/planned-development, needs-verification]
 created: 2026-05-25

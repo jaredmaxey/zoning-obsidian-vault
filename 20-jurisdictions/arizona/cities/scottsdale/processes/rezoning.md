@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Rezoning"
+aliases: ["Scottsdale Rezoning"]
 type: process
 tags: [juris/az/scottsdale, process/rezoning, needs-verification]
 created: "2026-05-24"

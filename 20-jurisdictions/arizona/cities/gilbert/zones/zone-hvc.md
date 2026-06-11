@@ -1,5 +1,6 @@
 ---
 title: "Gilbert HVC"
+aliases: ["Gilbert HVC"]
 type: zone
 tags: [juris/az/gilbert, zoning/mixed-use, asset/mixed-use, needs-verification]
 created: 2026-05-25

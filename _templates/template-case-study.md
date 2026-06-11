@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+aliases: ["{{title}}"]  # required when title differs from filename - makes Obsidian resolve title-based wikilinks
 type: case-study
 tags: [cre, "asset/{{slug}}", stub]
 created: "{{date}}"

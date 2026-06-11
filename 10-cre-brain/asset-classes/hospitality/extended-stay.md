@@ -1,5 +1,6 @@
 ---
 title: Extended-Stay Hotels
+aliases: ["Extended-Stay Hotels"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

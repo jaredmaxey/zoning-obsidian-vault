@@ -1,5 +1,6 @@
 ---
 title: "City of Apache Junction"
+aliases: ["City of Apache Junction"]
 type: jurisdiction
 tags: [juris/az/apache-junction, stub]
 created: 2026-06-05

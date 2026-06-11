@@ -1,5 +1,6 @@
 ---
 title: "Mesa LC"
+aliases: ["Mesa LC"]
 type: zone
 tags: [juris/az/mesa, zoning/commercial, asset/retail, needs-verification]
 created: 2026-05-25

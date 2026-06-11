@@ -1,5 +1,6 @@
 ---
 title: "Punchlist and Final Completion"
+aliases: ["Punchlist and Final Completion"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

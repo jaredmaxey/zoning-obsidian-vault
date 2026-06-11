@@ -1,5 +1,6 @@
 ---
 title: "Residual Land Value Method"
+aliases: ["Residual Land Value Method"]
 type: framework
 tags: [cre/underwriting, cre/frameworks]
 created: 2026-05-24

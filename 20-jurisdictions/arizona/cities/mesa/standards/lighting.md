@@ -1,5 +1,6 @@
 ---
 title: "Mesa Lighting Standards"
+aliases: ["Mesa Lighting Standards"]
 type: standard
 tags: [juris/az/mesa, standard/lighting, needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Data Sources Registry
+aliases: ["Data Sources Registry"]
 type: reference
 tags: [meta, data-sources]
 created: 2026-05-24

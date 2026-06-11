@@ -1,5 +1,6 @@
 ---
 title: "Capital Stack Overview"
+aliases: ["Capital Stack Overview"]
 type: framework
 tags: [cre/financing, cre/frameworks]
 created: 2026-05-24

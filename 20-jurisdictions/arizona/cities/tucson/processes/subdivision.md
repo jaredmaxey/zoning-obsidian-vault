@@ -1,5 +1,6 @@
 ---
 title: "Tucson Subdivision Platting"
+aliases: ["Tucson Subdivision Platting"]
 type: process
 tags: ["process/subdivision", "juris/az/tucson", needs-verification]
 created: 2026-05-24

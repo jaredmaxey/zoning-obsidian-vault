@@ -1,5 +1,6 @@
 ---
 title: "Data Center"
+aliases: ["Data Center"]
 type: asset-class
 tags: [cre, asset/specialty]
 created: 2026-05-24

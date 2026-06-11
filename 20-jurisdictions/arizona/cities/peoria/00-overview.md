@@ -1,5 +1,6 @@
 ---
 title: "Peoria, Arizona"
+aliases: ["Peoria, Arizona"]
 type: jurisdiction
 tags: [juris/az/peoria, needs-verification]
 created: "2026-05-24"

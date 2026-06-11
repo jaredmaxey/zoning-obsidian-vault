@@ -1,5 +1,6 @@
 ---
 title: "Trade Area Analysis (Retail)"
+aliases: ["Trade Area Analysis (Retail)"]
 type: framework
 tags: [cre/market-analysis]
 created: "2026-05-24"

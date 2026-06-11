@@ -1,5 +1,6 @@
 ---
 title: "Absorption Modeling"
+aliases: ["Absorption Modeling"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

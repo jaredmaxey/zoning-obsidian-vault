@@ -1,5 +1,6 @@
 ---
 title: "Chandler, Arizona"
+aliases: ["Chandler, Arizona"]
 type: jurisdiction
 tags: [juris/az/chandler, needs-verification]
 created: 2026-05-24

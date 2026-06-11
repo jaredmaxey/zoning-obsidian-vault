@@ -1,5 +1,6 @@
 ---
 title: Senior Housing Spectrum
+aliases: ["Senior Housing Spectrum"]
 type: asset-class
 tags: [cre, asset/multifamily]
 created: 2026-05-24

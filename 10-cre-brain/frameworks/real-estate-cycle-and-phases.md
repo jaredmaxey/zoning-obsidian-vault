@@ -1,5 +1,6 @@
 ---
 title: "Real Estate Cycle and Phases"
+aliases: ["Real Estate Cycle and Phases"]
 type: framework
 tags: [cre/frameworks]
 created: 2026-05-24

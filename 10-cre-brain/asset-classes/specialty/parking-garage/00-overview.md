@@ -1,5 +1,6 @@
 ---
 title: "Parking Garage"
+aliases: ["Parking Garage"]
 type: asset-class
 tags: [cre, asset/specialty]
 created: 2026-05-24

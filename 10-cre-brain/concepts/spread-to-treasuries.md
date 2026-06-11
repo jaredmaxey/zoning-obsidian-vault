@@ -1,5 +1,6 @@
 ---
 title: "Spread to Treasuries"
+aliases: ["Spread to Treasuries"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

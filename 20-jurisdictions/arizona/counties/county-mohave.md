@@ -1,5 +1,6 @@
 ---
 title: "Mohave County, Arizona"
+aliases: ["Mohave County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/mohave", "needs-verification", draft]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: "Gilbert MU/R"
+aliases: ["Gilbert MU/R"]
 type: zone
 tags: [juris/az/gilbert, zoning/mixed-use, asset/mixed-use, needs-verification]
 created: 2026-05-25

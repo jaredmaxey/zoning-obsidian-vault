@@ -1,5 +1,6 @@
 ---
 title: "City of Eloy"
+aliases: ["City of Eloy"]
 type: jurisdiction
 tags: [juris/az/eloy, draft, needs-verification]
 created: 2026-06-08

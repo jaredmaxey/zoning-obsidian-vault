@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Variance"
+aliases: ["Scottsdale Variance"]
 type: process
 tags: [juris/az/scottsdale, process/variance, needs-verification]
 created: "2026-05-24"

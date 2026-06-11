@@ -1,5 +1,6 @@
 ---
 title: "Adaptive Reuse"
+aliases: ["Adaptive Reuse"]
 type: deal-type
 tags: [cre/deal-types]
 created: 2026-05-24

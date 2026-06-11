@@ -1,5 +1,6 @@
 ---
 title: Office — Risks & Considerations
+aliases: ["Office — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

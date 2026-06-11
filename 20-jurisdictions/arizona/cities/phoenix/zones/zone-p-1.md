@@ -1,5 +1,6 @@
 ---
 title: "Phoenix P-1"
+aliases: ["Phoenix P-1"]
 type: zone
 tags: [juris/az/phoenix, zoning/commercial, needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale D"
+aliases: ["Scottsdale D"]
 type: zone
 tags: [juris/az/scottsdale, zoning/mixed-use]
 created: "2026-05-25"

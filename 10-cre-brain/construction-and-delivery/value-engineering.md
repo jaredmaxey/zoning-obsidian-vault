@@ -1,5 +1,6 @@
 ---
 title: "Value Engineering"
+aliases: ["Value Engineering"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

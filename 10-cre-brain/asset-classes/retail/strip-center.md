@@ -1,5 +1,6 @@
 ---
 title: Strip Center
+aliases: ["Strip Center"]
 type: asset-class
 tags: [cre, asset/retail]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Price per Unit"
+aliases: ["Price per Unit"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

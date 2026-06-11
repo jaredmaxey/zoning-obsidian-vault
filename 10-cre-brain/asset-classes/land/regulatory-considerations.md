@@ -1,5 +1,6 @@
 ---
 title: Land — Regulatory Considerations
+aliases: ["Land — Regulatory Considerations"]
 type: asset-class
 tags: [cre, asset/land]
 created: 2026-05-24

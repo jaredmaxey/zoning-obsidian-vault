@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+aliases: ["{{title}}"]  # required when title differs from filename - makes Obsidian resolve title-based wikilinks
 type: deal-type
 tags: [cre/deal-types, stub]
 created: "{{date}}"

@@ -1,5 +1,6 @@
 ---
 title: "Manufactured Housing"
+aliases: ["Manufactured Housing"]
 type: asset-class
 tags: [cre, asset/specialty]
 created: 2026-05-24

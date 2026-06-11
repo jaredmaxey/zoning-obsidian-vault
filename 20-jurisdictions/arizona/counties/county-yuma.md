@@ -1,5 +1,6 @@
 ---
 title: "Yuma County, Arizona"
+aliases: ["Yuma County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/yuma", "needs-verification", draft]
 created: "2026-05-24"

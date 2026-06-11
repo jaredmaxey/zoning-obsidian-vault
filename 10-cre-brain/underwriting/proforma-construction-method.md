@@ -1,5 +1,6 @@
 ---
 title: "Pro Forma Construction Method"
+aliases: ["Pro Forma Construction Method"]
 type: framework
 tags: [cre/underwriting, cre/frameworks]
 created: 2026-05-24

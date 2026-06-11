@@ -1,5 +1,6 @@
 ---
 title: "Entitlement and Approvals Index"
+aliases: ["Entitlement and Approvals Index"]
 type: index
 tags: [index, cre/entitlement]
 created: "2026-05-24"

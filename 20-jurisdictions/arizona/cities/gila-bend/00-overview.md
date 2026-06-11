@@ -1,5 +1,6 @@
 ---
 title: "Town of Gila Bend"
+aliases: ["Town of Gila Bend"]
 type: jurisdiction
 tags: [juris/az/gila-bend, stub]
 created: 2026-06-05

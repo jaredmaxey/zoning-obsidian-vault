@@ -1,5 +1,6 @@
 ---
 title: Phoenix Variance
+aliases: ["Phoenix Variance"]
 type: process
 tags: [juris/az/phoenix, process/variance, needs-verification]
 created: 2026-05-24

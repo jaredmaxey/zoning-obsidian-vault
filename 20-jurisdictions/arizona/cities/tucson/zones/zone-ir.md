@@ -1,5 +1,6 @@
 ---
 title: "Tucson IR"
+aliases: ["Tucson IR"]
 type: zone
 tags: [juris/az/tucson, zoning/institutional, needs-verification]
 created: 2026-05-25

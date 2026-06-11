@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Landscape Standards"
+aliases: ["Scottsdale Landscape Standards"]
 type: standard
 tags: [juris/az/scottsdale, standard/landscape, needs-verification]
 created: "2026-05-24"

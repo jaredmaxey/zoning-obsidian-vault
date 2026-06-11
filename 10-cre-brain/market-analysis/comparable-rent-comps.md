@@ -1,5 +1,6 @@
 ---
 title: "Comparable Rents (Rent Comps)"
+aliases: ["Comparable Rents (Rent Comps)"]
 type: framework
 tags: [cre/market-analysis, cre/underwriting]
 created: "2026-05-24"

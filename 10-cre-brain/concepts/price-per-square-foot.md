@@ -1,5 +1,6 @@
 ---
 title: "Price per Square Foot"
+aliases: ["Price per Square Foot"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

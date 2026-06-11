@@ -1,5 +1,6 @@
 ---
 title: "Zone Change (Rezoning)"
+aliases: ["Zone Change (Rezoning)"]
 type: process
 tags: [cre/entitlement, process/zone-change-rezoning]
 created: "2026-05-24"

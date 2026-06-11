@@ -1,5 +1,6 @@
 ---
 title: "Mesa DB-1"
+aliases: ["Mesa DB-1"]
 type: zone
 tags: [juris/az/mesa, zoning/mixed-use, asset/retail, asset/office, needs-verification]
 created: 2026-05-25

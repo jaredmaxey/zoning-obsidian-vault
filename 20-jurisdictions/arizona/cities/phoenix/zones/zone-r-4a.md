@@ -1,5 +1,6 @@
 ---
 title: "Phoenix R-4A"
+aliases: ["Phoenix R-4A"]
 type: zone
 tags: [juris/az/phoenix, zoning/residential, asset/multifamily, needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: Retail — Subtypes
+aliases: ["Retail — Subtypes"]
 type: asset-class
 tags: [cre, asset/retail]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Entitlement Play"
+aliases: ["Entitlement Play"]
 type: deal-type
 tags: [cre/deal-types]
 created: 2026-05-24

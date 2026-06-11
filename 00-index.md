@@ -1,5 +1,6 @@
 ---
 title: CRE Knowledge Base — Master Index
+aliases: ["CRE Knowledge Base — Master Index"]
 type: index
 tags: [index]
 created: 2026-05-25

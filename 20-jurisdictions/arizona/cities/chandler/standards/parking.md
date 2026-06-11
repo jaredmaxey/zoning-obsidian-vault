@@ -1,5 +1,6 @@
 ---
 title: "Chandler Parking Standards"
+aliases: ["Chandler Parking Standards"]
 type: standard
 tags: [juris/az/chandler, standard/parking, needs-verification]
 created: 2026-05-24

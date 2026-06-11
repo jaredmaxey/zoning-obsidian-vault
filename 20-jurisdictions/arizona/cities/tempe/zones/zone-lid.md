@@ -1,5 +1,6 @@
 ---
 title: "Tempe LID"
+aliases: ["Tempe LID"]
 type: zone
 tags: [juris/az/tempe, zoning/industrial]
 created: "2026-05-25"

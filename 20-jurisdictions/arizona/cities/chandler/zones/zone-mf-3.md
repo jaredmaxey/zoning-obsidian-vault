@@ -1,5 +1,6 @@
 ---
 title: "Chandler MF-3"
+aliases: ["Chandler MF-3"]
 type: zone
 tags: [juris/az/chandler, zoning/residential, needs-verification]
 created: 2026-05-25

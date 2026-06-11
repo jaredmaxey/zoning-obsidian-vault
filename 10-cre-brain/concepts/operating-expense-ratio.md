@@ -1,5 +1,6 @@
 ---
 title: "Operating Expense Ratio"
+aliases: ["Operating Expense Ratio"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

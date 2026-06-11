@@ -1,5 +1,6 @@
 ---
 title: "GP Co-Invest and Promote Crystallization"
+aliases: ["GP Co-Invest and Promote Crystallization"]
 type: framework
 tags: [cre/financing, cre/frameworks]
 created: 2026-05-24

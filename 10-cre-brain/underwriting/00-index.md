@@ -1,5 +1,6 @@
 ---
 title: "Underwriting Index"
+aliases: ["Underwriting Index"]
 type: index
 tags: [index, cre/underwriting]
 created: 2026-05-24

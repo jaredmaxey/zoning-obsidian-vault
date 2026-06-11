@@ -1,5 +1,6 @@
 ---
 title: "Rent Roll Analysis"
+aliases: ["Rent Roll Analysis"]
 type: framework
 tags: [cre/underwriting, cre/frameworks]
 created: 2026-05-24

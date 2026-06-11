@@ -1,5 +1,6 @@
 ---
 title: "Operations and Disposition Index"
+aliases: ["Operations and Disposition Index"]
 type: index
 tags: [index, cre/operations]
 created: "2026-05-24"

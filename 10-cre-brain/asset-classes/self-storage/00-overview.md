@@ -1,5 +1,6 @@
 ---
 title: Self-Storage
+aliases: ["Self-Storage"]
 type: asset-class
 tags: [cre, asset/self-storage]
 created: 2026-05-24

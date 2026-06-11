@@ -1,5 +1,6 @@
 ---
 title: "Education Facilities"
+aliases: ["Education Facilities"]
 type: asset-class
 tags: [cre, asset/specialty]
 created: 2026-05-24

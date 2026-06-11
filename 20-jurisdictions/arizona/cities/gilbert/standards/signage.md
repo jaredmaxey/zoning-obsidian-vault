@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Signage Standards"
+aliases: ["Gilbert Signage Standards"]
 type: standard
 tags: ["juris/az/gilbert", "standard/signage", needs-verification]
 created: 2026-05-24

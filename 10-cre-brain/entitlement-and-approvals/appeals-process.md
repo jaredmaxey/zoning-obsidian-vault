@@ -1,5 +1,6 @@
 ---
 title: "Appeals Process"
+aliases: ["Appeals Process"]
 type: process
 tags: [cre/entitlement, process/appeals-process]
 created: "2026-05-24"

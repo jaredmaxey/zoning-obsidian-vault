@@ -1,5 +1,6 @@
 ---
 title: Office — Subtypes
+aliases: ["Office — Subtypes"]
 type: asset-class
 tags: [cre, asset/office]
 created: 2026-05-24

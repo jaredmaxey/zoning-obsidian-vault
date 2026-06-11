@@ -1,5 +1,6 @@
 ---
 title: "Arizona Tribal Lands Overview"
+aliases: ["Arizona Tribal Lands Overview"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

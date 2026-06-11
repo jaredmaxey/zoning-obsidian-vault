@@ -1,5 +1,6 @@
 ---
 title: "Tucson P-I"
+aliases: ["Tucson P-I"]
 type: zone
 tags: [juris/az/tucson, zoning/industrial, needs-verification]
 created: 2026-05-25

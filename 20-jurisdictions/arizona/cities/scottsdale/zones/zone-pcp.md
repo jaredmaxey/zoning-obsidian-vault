@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale PCP"
+aliases: ["Scottsdale PCP"]
 type: zone
 tags: [juris/az/scottsdale, zoning/industrial]
 created: "2026-05-25"

@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Historic Preservation Overlay"
+aliases: ["Scottsdale Historic Preservation Overlay"]
 type: overlay
 tags: [juris/az/scottsdale, zoning/overlay, needs-verification]
 created: "2026-05-24"

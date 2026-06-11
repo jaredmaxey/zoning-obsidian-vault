@@ -1,5 +1,6 @@
 ---
 title: "Neighborhood Outreach"
+aliases: ["Neighborhood Outreach"]
 type: process
 tags: [cre/entitlement, process/neighborhood-outreach]
 created: "2026-05-24"

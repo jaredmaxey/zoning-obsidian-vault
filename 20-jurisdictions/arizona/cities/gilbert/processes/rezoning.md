@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Rezoning"
+aliases: ["Gilbert Rezoning"]
 type: process
 tags: ["juris/az/gilbert", "process/rezoning", needs-verification]
 created: 2026-05-24

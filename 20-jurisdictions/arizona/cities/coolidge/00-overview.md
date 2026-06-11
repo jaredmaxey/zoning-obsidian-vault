@@ -1,5 +1,6 @@
 ---
 title: "City of Coolidge"
+aliases: ["City of Coolidge"]
 type: jurisdiction
 tags: [juris/az/coolidge, draft, needs-verification]
 created: 2026-06-08

@@ -1,5 +1,6 @@
 ---
 title: Jurisdiction Pattern
+aliases: ["Jurisdiction Pattern"]
 type: reference
 tags: [juris, conventions]
 created: 2026-05-24

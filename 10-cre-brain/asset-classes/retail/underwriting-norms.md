@@ -1,5 +1,6 @@
 ---
 title: Retail — Underwriting Norms
+aliases: ["Retail — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/retail]
 created: 2026-05-24

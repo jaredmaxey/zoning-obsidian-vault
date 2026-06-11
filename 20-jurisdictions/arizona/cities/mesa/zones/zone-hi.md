@@ -1,5 +1,6 @@
 ---
 title: "Mesa HI"
+aliases: ["Mesa HI"]
 type: zone
 tags: [juris/az/mesa, zoning/industrial, asset/industrial, needs-verification]
 created: 2026-05-25

@@ -1,5 +1,6 @@
 ---
 title: "Tempe Downtown / Mill Avenue Overlay"
+aliases: ["Tempe Downtown / Mill Avenue Overlay"]
 type: overlay
 tags: [juris/az/tempe, zoning/overlay, needs-verification]
 created: "2026-05-24"

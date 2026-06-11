@@ -1,5 +1,6 @@
 ---
 title: "Tempe MU-1"
+aliases: ["Tempe MU-1"]
 type: zone
 tags: [juris/az/tempe, zoning/mixed-use]
 created: "2026-05-25"

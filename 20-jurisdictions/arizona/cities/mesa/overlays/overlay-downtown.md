@@ -1,5 +1,6 @@
 ---
 title: "Mesa Downtown/Town Center Overlay"
+aliases: ["Mesa Downtown/Town Center Overlay"]
 type: overlay
 tags: [juris/az/mesa, zoning/overlay, needs-verification]
 created: 2026-05-24

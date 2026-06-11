@@ -1,5 +1,6 @@
 ---
 title: "Broker Selection and BOV"
+aliases: ["Broker Selection and BOV"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

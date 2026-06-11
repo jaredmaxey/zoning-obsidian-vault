@@ -1,5 +1,6 @@
 ---
 title: "Phoenix R-2"
+aliases: ["Phoenix R-2"]
 type: zone
 tags: [juris/az/phoenix, zoning/residential, needs-verification]
 created: 2026-05-24

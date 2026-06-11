@@ -1,5 +1,6 @@
 ---
 title: Industrial — Underwriting Norms
+aliases: ["Industrial — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/industrial]
 created: 2026-05-24

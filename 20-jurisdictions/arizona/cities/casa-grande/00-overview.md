@@ -1,5 +1,6 @@
 ---
 title: "Casa Grande, Arizona"
+aliases: ["Casa Grande, Arizona"]
 type: jurisdiction
 tags: [juris/az/casa-grande, needs-verification]
 created: "2026-05-24"

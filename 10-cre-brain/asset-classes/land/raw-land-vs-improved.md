@@ -1,5 +1,6 @@
 ---
 title: Raw Land vs. Improved Land
+aliases: ["Raw Land vs. Improved Land"]
 type: asset-class
 tags: [cre, asset/land]
 created: 2026-05-24

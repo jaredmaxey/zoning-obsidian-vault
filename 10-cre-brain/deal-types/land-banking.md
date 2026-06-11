@@ -1,5 +1,6 @@
 ---
 title: "Land Banking"
+aliases: ["Land Banking"]
 type: deal-type
 tags: [cre/deal-types]
 created: 2026-05-24

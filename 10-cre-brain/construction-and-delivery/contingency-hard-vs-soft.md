@@ -1,5 +1,6 @@
 ---
 title: "Contingency: Hard vs. Soft"
+aliases: ["Contingency: Hard vs. Soft"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

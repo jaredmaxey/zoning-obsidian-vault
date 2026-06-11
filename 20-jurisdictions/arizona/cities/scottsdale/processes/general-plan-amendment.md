@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale General Plan Amendment"
+aliases: ["Scottsdale General Plan Amendment"]
 type: process
 tags: [juris/az/scottsdale, process/gpa, needs-verification]
 created: "2026-05-24"

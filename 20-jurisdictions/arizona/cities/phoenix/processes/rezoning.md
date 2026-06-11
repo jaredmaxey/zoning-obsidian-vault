@@ -1,5 +1,6 @@
 ---
 title: Phoenix Rezoning
+aliases: ["Phoenix Rezoning"]
 type: process
 tags: [juris/az/phoenix, process/rezoning, needs-verification]
 created: 2026-05-24

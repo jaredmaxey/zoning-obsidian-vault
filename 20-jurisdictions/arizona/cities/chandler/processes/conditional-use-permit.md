@@ -1,5 +1,6 @@
 ---
 title: "Chandler Use Permit"
+aliases: ["Chandler Use Permit"]
 type: process
 tags: [process/cup, juris/az/chandler, needs-verification]
 created: 2026-05-24

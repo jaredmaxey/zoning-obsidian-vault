@@ -1,5 +1,6 @@
 ---
 title: Arizona State Overview
+aliases: ["Arizona State Overview"]
 type: jurisdiction
 tags: [juris/az]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Town of Fountain Hills"
+aliases: ["Town of Fountain Hills"]
 type: jurisdiction
 tags: [juris/az/fountain-hills, stub]
 created: 2026-06-05

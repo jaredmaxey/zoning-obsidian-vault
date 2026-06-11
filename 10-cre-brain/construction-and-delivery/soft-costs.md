@@ -1,5 +1,6 @@
 ---
 title: "Soft Costs"
+aliases: ["Soft Costs"]
 type: concept
 tags: [cre/construction]
 created: "2026-05-24"

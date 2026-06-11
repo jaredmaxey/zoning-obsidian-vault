@@ -1,5 +1,6 @@
 ---
 title: "Domestic Water Improvement Districts (Arizona)"
+aliases: ["Domestic Water Improvement Districts (Arizona)"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

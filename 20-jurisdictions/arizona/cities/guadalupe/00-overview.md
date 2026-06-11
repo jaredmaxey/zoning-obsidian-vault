@@ -1,5 +1,6 @@
 ---
 title: "Town of Guadalupe"
+aliases: ["Town of Guadalupe"]
 type: jurisdiction
 tags: [juris/az/guadalupe, stub]
 created: 2026-06-05

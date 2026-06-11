@@ -1,5 +1,6 @@
 ---
 title: Land
+aliases: ["Land"]
 type: asset-class
 tags: [cre, asset/land]
 created: 2026-05-24

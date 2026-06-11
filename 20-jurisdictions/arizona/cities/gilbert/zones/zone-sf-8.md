@@ -1,5 +1,6 @@
 ---
 title: "Gilbert SF-8"
+aliases: ["Gilbert SF-8"]
 type: zone
 tags: [juris/az/gilbert, zoning/residential, needs-verification]
 created: 2026-05-25

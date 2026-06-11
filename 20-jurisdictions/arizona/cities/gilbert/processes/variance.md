@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Variance"
+aliases: ["Gilbert Variance"]
 type: process
 tags: ["juris/az/gilbert", "process/variance", needs-verification]
 created: 2026-05-24

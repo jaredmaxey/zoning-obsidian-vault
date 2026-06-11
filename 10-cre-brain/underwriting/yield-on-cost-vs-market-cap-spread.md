@@ -1,5 +1,6 @@
 ---
 title: "Yield-on-Cost vs. Market Cap Spread"
+aliases: ["Yield-on-Cost vs. Market Cap Spread"]
 type: concept
 tags: [cre/underwriting]
 created: 2026-05-24

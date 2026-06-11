@@ -1,5 +1,6 @@
 ---
 title: "Tucson I-2"
+aliases: ["Tucson I-2"]
 type: zone
 tags: [juris/az/tucson, zoning/industrial, needs-verification]
 created: 2026-05-25

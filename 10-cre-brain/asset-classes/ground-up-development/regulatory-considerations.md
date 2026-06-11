@@ -1,5 +1,6 @@
 ---
 title: Ground-Up Development — Regulatory Considerations
+aliases: ["Ground-Up Development — Regulatory Considerations"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

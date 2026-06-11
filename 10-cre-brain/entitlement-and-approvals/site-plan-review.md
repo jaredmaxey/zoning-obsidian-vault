@@ -1,5 +1,6 @@
 ---
 title: "Site Plan Review"
+aliases: ["Site Plan Review"]
 type: process
 tags: [cre/entitlement, process/site-plan-review]
 created: "2026-05-24"

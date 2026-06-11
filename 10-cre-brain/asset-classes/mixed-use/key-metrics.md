@@ -1,5 +1,6 @@
 ---
 title: Mixed-Use — Key Metrics
+aliases: ["Mixed-Use — Key Metrics"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

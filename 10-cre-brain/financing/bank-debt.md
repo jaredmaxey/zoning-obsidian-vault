@@ -1,5 +1,6 @@
 ---
 title: "Bank Debt"
+aliases: ["Bank Debt"]
 type: concept
 tags: [cre/financing]
 created: 2026-05-24

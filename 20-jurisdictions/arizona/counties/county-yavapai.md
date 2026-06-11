@@ -1,5 +1,6 @@
 ---
 title: "Yavapai County, Arizona"
+aliases: ["Yavapai County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/yavapai", "needs-verification", draft]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Parking Standards"
+aliases: ["Gilbert Parking Standards"]
 type: standard
 tags: ["juris/az/gilbert", "standard/parking", needs-verification]
 created: 2026-05-24

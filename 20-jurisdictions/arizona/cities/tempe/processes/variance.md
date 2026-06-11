@@ -1,5 +1,6 @@
 ---
 title: "Tempe Variance"
+aliases: ["Tempe Variance"]
 type: process
 tags: [process/variance, juris/az/tempe, needs-verification]
 created: "2026-05-24"

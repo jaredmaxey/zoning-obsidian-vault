@@ -1,5 +1,6 @@
 ---
 title: "Gilbert, Arizona"
+aliases: ["Gilbert, Arizona"]
 type: jurisdiction
 tags: ["juris/az/gilbert", needs-verification]
 created: 2026-05-24

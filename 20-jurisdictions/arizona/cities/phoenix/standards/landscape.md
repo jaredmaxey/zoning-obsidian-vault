@@ -1,5 +1,6 @@
 ---
 title: Phoenix Landscape Standards
+aliases: ["Phoenix Landscape Standards"]
 type: standard
 tags: [juris/az/phoenix, standard/landscape, needs-verification]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "1031 Exchange Overview"
+aliases: ["1031 Exchange Overview"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

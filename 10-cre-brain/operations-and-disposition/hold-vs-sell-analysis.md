@@ -1,5 +1,6 @@
 ---
 title: "Hold vs. Sell Analysis"
+aliases: ["Hold vs. Sell Analysis"]
 type: concept
 tags: [cre/operations]
 created: "2026-05-24"

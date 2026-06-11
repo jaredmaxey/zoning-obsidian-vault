@@ -1,5 +1,6 @@
 ---
 title: "Mesa Landscape Standards"
+aliases: ["Mesa Landscape Standards"]
 type: standard
 tags: [juris/az/mesa, standard/landscape, needs-verification]
 created: 2026-05-24

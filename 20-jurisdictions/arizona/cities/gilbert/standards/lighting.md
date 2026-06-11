@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Lighting Standards"
+aliases: ["Gilbert Lighting Standards"]
 type: standard
 tags: ["juris/az/gilbert", "standard/lighting", needs-verification]
 created: 2026-05-24

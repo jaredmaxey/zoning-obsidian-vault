@@ -1,5 +1,6 @@
 ---
 title: "Loan-to-Cost (LTC)"
+aliases: ["Loan-to-Cost (LTC)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

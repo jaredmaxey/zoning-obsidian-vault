@@ -1,5 +1,6 @@
 ---
 title: "Gilbert Overlay Districts (Index)"
+aliases: ["Gilbert Overlay Districts (Index)"]
 type: overlay
 tags: ["juris/az/gilbert", "zoning/overlay", needs-verification]
 created: 2026-05-24

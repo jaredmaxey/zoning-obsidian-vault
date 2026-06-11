@@ -1,5 +1,6 @@
 ---
 title: "Tucson OS"
+aliases: ["Tucson OS"]
 type: zone
 tags: [juris/az/tucson, zoning/open-space, needs-verification]
 created: 2026-05-25

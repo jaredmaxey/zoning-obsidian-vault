@@ -1,5 +1,6 @@
 ---
 title: Ground-Up Development (Asset Class)
+aliases: ["Ground-Up Development (Asset Class)"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

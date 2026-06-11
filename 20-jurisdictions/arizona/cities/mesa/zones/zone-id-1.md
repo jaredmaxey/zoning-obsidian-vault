@@ -1,5 +1,6 @@
 ---
 title: "Mesa ID-1"
+aliases: ["Mesa ID-1"]
 type: zone
 tags: [juris/az/mesa, zoning/residential, zoning/mixed-use, needs-verification]
 created: 2026-05-25

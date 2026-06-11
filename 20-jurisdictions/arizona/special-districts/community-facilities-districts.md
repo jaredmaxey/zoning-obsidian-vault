@@ -1,5 +1,6 @@
 ---
 title: "Community Facilities Districts (Arizona)"
+aliases: ["Community Facilities Districts (Arizona)"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

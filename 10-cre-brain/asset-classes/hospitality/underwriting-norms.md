@@ -1,5 +1,6 @@
 ---
 title: Hospitality — Underwriting Norms
+aliases: ["Hospitality — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "A.R.S. Title 45 — Waters"
+aliases: ["A.R.S. Title 45 — Waters"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

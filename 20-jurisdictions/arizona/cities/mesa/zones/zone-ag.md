@@ -1,5 +1,6 @@
 ---
 title: "Mesa AG"
+aliases: ["Mesa AG"]
 type: zone
 tags: [juris/az/mesa, zoning/agricultural, needs-verification]
 created: 2026-05-25

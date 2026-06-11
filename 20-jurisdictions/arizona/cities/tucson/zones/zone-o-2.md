@@ -1,5 +1,6 @@
 ---
 title: "Tucson O-2"
+aliases: ["Tucson O-2"]
 type: zone
 tags: [juris/az/tucson, zoning/office, needs-verification]
 created: 2026-05-25

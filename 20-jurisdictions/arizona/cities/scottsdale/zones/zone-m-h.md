@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale M-H"
+aliases: ["Scottsdale M-H"]
 type: zone
 tags: [juris/az/scottsdale, zoning/residential]
 created: "2026-05-25"

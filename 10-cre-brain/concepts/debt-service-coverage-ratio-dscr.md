@@ -1,5 +1,6 @@
 ---
 title: "Debt Service Coverage Ratio (DSCR)"
+aliases: ["Debt Service Coverage Ratio (DSCR)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

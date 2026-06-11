@@ -1,5 +1,6 @@
 ---
 title: Ground Lease vs. Fee Simple
+aliases: ["Ground Lease vs. Fee Simple"]
 type: asset-class
 tags: [cre, asset/ground-up-development]
 created: 2026-05-24

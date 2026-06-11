@@ -1,5 +1,6 @@
 ---
 title: Climate-Controlled vs. Non-Climate
+aliases: ["Climate-Controlled vs. Non-Climate"]
 type: asset-class
 tags: [cre, asset/self-storage]
 created: 2026-05-24

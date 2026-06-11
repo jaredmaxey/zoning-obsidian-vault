@@ -1,5 +1,6 @@
 ---
 title: "Chandler Lighting Standards"
+aliases: ["Chandler Lighting Standards"]
 type: standard
 tags: [juris/az/chandler, standard/lighting, needs-verification]
 created: 2026-05-24

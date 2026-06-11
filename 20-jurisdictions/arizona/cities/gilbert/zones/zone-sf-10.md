@@ -1,5 +1,6 @@
 ---
 title: "Gilbert SF-10"
+aliases: ["Gilbert SF-10"]
 type: zone
 tags: [juris/az/gilbert, zoning/residential, needs-verification]
 created: 2026-05-25

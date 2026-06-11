@@ -1,5 +1,6 @@
 ---
 title: "Pima County, Arizona"
+aliases: ["Pima County, Arizona"]
 type: jurisdiction
 tags: ["juris/az", "juris/az/pima", "needs-verification", draft]
 created: "2026-05-24"
@@ -24,7 +25,7 @@ related:
   - "Land"
 children:
   - "Tucson, Arizona"
-  - "South Tucson, Arizona"
+  - "City of South Tucson"
   - "Oro Valley, Arizona"
   - "Marana, Arizona"
   - "Sahuarita, Arizona"
@@ -109,7 +110,7 @@ Pima County assesses development impact fees in unincorporated areas to fund inf
 The following incorporated cities and towns are located wholly or substantially within Pima County. Each municipality controls its own zoning within its corporate limits.
 
 - [[Tucson, Arizona]]
-- [[South Tucson, Arizona]]
+- [[City of South Tucson]]
 - [[Oro Valley, Arizona]]
 - [[Marana, Arizona]] *(straddles Pima/Pinal)*
 - [[Sahuarita, Arizona]]

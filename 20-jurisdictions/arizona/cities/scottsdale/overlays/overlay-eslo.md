@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale Environmentally Sensitive Lands Overlay"
+aliases: ["Scottsdale Environmentally Sensitive Lands Overlay"]
 type: overlay
 tags: [juris/az/scottsdale, zoning/overlay, needs-verification]
 created: "2026-05-24"

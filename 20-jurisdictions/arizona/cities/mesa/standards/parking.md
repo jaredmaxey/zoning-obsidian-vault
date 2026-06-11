@@ -1,5 +1,6 @@
 ---
 title: "Mesa Parking Standards"
+aliases: ["Mesa Parking Standards"]
 type: standard
 tags: [juris/az/mesa, standard/parking, needs-verification]
 created: 2026-05-24

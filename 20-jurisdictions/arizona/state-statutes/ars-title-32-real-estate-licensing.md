@@ -1,5 +1,6 @@
 ---
 title: "A.R.S. Title 32 — Professions and Occupations (Real Estate Licensing)"
+aliases: ["A.R.S. Title 32 — Professions and Occupations (Real Estate Licensing)"]
 type: reference
 tags: [juris/az, needs-verification]
 created: 2026-05-24

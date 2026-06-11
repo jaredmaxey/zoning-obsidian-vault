@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale, Arizona"
+aliases: ["Scottsdale, Arizona"]
 type: jurisdiction
 tags: [juris/az/scottsdale, needs-verification]
 created: "2026-05-24"

@@ -1,5 +1,6 @@
 ---
 title: Reference Index
+aliases: ["Reference Index"]
 type: index
 tags: [reference, index]
 created: 2026-05-24

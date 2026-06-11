@@ -1,5 +1,6 @@
 ---
 title: "Maricopa (City), Arizona"
+aliases: ["Maricopa (City), Arizona"]
 type: jurisdiction
 tags: [juris/az/maricopa-city, needs-verification]
 created: "2026-05-24"

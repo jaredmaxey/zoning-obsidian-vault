@@ -1,5 +1,6 @@
 ---
 title: Hospitality — Subtypes
+aliases: ["Hospitality — Subtypes"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

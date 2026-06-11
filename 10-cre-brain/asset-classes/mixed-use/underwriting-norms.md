@@ -1,5 +1,6 @@
 ---
 title: Mixed-Use — Underwriting Norms
+aliases: ["Mixed-Use — Underwriting Norms"]
 type: asset-class
 tags: [cre, asset/mixed-use]
 created: 2026-05-24

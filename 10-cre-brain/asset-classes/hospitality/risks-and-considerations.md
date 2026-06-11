@@ -1,5 +1,6 @@
 ---
 title: Hospitality — Risks & Considerations
+aliases: ["Hospitality — Risks & Considerations"]
 type: asset-class
 tags: [cre, asset/hospitality]
 created: 2026-05-24

@@ -1,5 +1,6 @@
 ---
 title: "Loan-to-Value (LTV)"
+aliases: ["Loan-to-Value (LTV)"]
 type: concept
 tags: [cre/concepts]
 created: 2026-05-24

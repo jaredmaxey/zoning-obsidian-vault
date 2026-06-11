@@ -1,5 +1,6 @@
 ---
 title: Phoenix Hillside Overlay
+aliases: ["Phoenix Hillside Overlay"]
 type: overlay
 tags: [juris/az/phoenix, zoning/overlay, needs-verification]
 created: 2026-05-24

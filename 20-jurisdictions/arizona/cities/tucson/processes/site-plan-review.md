@@ -1,5 +1,6 @@
 ---
 title: "Tucson Development Package Review"
+aliases: ["Tucson Development Package Review"]
 type: process
 tags: ["process/site-plan", "juris/az/tucson", needs-verification]
 created: 2026-05-24

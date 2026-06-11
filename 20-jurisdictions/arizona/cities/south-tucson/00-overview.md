@@ -1,5 +1,6 @@
 ---
 title: "City of South Tucson"
+aliases: ["City of South Tucson"]
 type: jurisdiction
 tags: [juris/az/south-tucson, stub, needs-verification]
 created: 2026-06-07

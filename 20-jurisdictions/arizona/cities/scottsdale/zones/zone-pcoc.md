@@ -1,5 +1,6 @@
 ---
 title: "Scottsdale PCoC"
+aliases: ["Scottsdale PCoC"]
 type: zone
 tags: [juris/az/scottsdale, zoning/commercial]
 created: "2026-05-25"

@@ -1,5 +1,6 @@
 ---
 title: Phoenix Subdivision Platting
+aliases: ["Phoenix Subdivision Platting"]
 type: process
 tags: [juris/az/phoenix, process/subdivision, needs-verification]
 created: 2026-05-24
